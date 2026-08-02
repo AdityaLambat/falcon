@@ -10,21 +10,32 @@ from config.kafka_config import (
 class FalconKafkaProducer:
 
     def __init__(self):
+
+        self.metadata = None
+
         self.producer = Producer({
             "bootstrap.servers": KAFKA_BOOTSTRAP_SERVERS
         })
 
-    @staticmethod
-    def delivery_report(err, msg):
+    def delivery_report(self, err, msg):
+
         if err is not None:
-            print(f"❌ Message delivery failed: {err}")
-        else:
-            print("✅ Event published successfully.")
-            print(f"Topic     : {msg.topic()}")
-            print(f"Partition : {msg.partition()}")
-            print(f"Offset    : {msg.offset()}")
+            raise Exception(f"Message delivery failed: {err}")
+
+        self.metadata = {
+            "topic": msg.topic(),
+            "partition": msg.partition(),
+            "offset": msg.offset()
+        }
+
+        print("✅ Event published successfully.")
+        print(f"Topic     : {msg.topic()}")
+        print(f"Partition : {msg.partition()}")
+        print(f"Offset    : {msg.offset()}")
 
     def publish(self, event):
+
+        self.metadata = None
 
         self.producer.produce(
             topic=KAFKA_TOPIC,
@@ -33,3 +44,5 @@ class FalconKafkaProducer:
         )
 
         self.producer.flush()
+
+        return self.metadata

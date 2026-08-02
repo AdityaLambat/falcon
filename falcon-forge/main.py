@@ -1,19 +1,12 @@
-from datetime import UTC, datetime
+from services.transaction_ingestion import TransactionIngestion
 
-from producer.kafka_producer import FalconKafkaProducer
-from config.kafka_config import EVENT_TYPE
 
-producer = FalconKafkaProducer()
+def main():
 
-event = {
-    "eventType": EVENT_TYPE,
-    "eventVersion": "1.0",
-    "eventTimestamp": datetime.now(UTC).isoformat(),
-    "payload": {
-        "transactionReferenceNumber": "TXN000001",
-        "amount": 1000,
-        "currency": "INR"
-    }
-}
+    ingestion = TransactionIngestion()
 
-producer.publish(event)
+    ingestion.ingest_csv("csv/transactions.csv")
+
+
+if __name__ == "__main__":
+    main()
