@@ -91,3 +91,96 @@
 2026-08-11 21:28:00,618 | INFO | Failed        : 0
 2026-08-11 21:28:00,618 | INFO | -------------------------------------------
 2026-08-11 21:28:00,618 | INFO | TRANSACTION | ########## TRANSACTION ingestion completed ##########
+2026-08-11 21:38:16,751 | INFO | ########## CUSTOMER ingestion started ##########
+2026-08-11 21:38:16,866 | INFO | CUSTOMER | CorrelationId: 24405150-8ef2-4a4e-a08b-74c691a664de | 1001 published successfully.
+2026-08-11 21:38:16,913 | INFO | CUSTOMER | CorrelationId: 755143e6-7692-4ca7-96f1-23edfb7d0918 | 1002 published successfully.
+2026-08-11 21:38:16,956 | INFO | CUSTOMER | CorrelationId: 19f76294-ba96-4db0-a255-ffc4ea6b6085 | 1003 published successfully.
+2026-08-11 21:38:17,001 | INFO | CUSTOMER | CorrelationId: 2c304b61-34e4-4c37-a552-6f930f153f34 | 1004 published successfully.
+2026-08-11 21:38:17,044 | INFO | CUSTOMER | CorrelationId: 2e7b6823-3dce-471d-8054-6a93ee7fd657 | 1005 published successfully.
+2026-08-11 21:38:17,089 | INFO | CUSTOMER | CorrelationId: 1a8ea78c-cad1-4197-8eab-c6d6081d49aa | 1006 published successfully.
+2026-08-11 21:38:17,133 | INFO | CUSTOMER | CorrelationId: 2f3731f5-9643-423a-953e-1250c7048030 | 1007 published successfully.
+2026-08-11 21:38:17,176 | INFO | CUSTOMER | CorrelationId: a37ca460-cc1b-44d6-b058-5d61e2c05e5a | 1008 published successfully.
+2026-08-11 21:38:17,176 | INFO | -------------------------------------------
+2026-08-11 21:38:17,176 | INFO | Total Records : 8
+2026-08-11 21:38:17,176 | INFO | Published     : 8
+2026-08-11 21:38:17,176 | INFO | Failed        : 0
+2026-08-11 21:38:17,176 | INFO | -------------------------------------------
+2026-08-11 21:38:17,176 | INFO | ########## CUSTOMER ingestion completed ##########
+2026-08-11 21:38:17,176 | INFO | ########## Account ingestion started ##########
+2026-08-11 21:38:17,201 | INFO | ACCOUNT | CorrelationId: 722fc49f-7b45-438f-9ea4-5d190994592d | 5001 published successfully.
+2026-08-11 21:38:17,204 | INFO | ACCOUNT | CorrelationId: 33835f1d-62c2-46dd-886b-6676d667486d | 5002 published successfully.
+2026-08-11 21:38:17,206 | INFO | ACCOUNT | CorrelationId: 5c5c0c00-600b-464b-a87a-7cb775008ff4 | 5003 published successfully.
+2026-08-11 21:38:17,209 | INFO | ACCOUNT | CorrelationId: 87b322d6-8c0f-4917-9ceb-a131922a084d | 5004 published successfully.
+2026-08-11 21:38:17,212 | INFO | ACCOUNT | CorrelationId: 274d4c03-8f47-4dea-9068-cb4d754d570f | 5005 published successfully.
+2026-08-11 21:38:17,215 | INFO | ACCOUNT | CorrelationId: 7175ed0c-0e59-4f6b-b595-0c99559e4a40 | 5006 published successfully.
+2026-08-11 21:38:17,218 | INFO | ACCOUNT | CorrelationId: 27810bfd-82c7-4bd6-8eef-ff9457c6140f | 5007 published successfully.
+2026-08-11 21:38:17,221 | INFO | ACCOUNT | CorrelationId: 919c512b-8ab9-4712-b756-29b880d28c10 | 5008 published successfully.
+2026-08-11 21:38:17,224 | INFO | ACCOUNT | CorrelationId: 71e3d366-39f2-467b-b601-8a46a90db2ee | 5009 published successfully.
+2026-08-11 21:38:17,227 | INFO | ACCOUNT | CorrelationId: 1971a218-262a-4e84-8419-5af34f1f243f | 5010 published successfully.
+2026-08-11 21:38:17,227 | INFO | -------------------------------------------
+2026-08-11 21:38:17,227 | INFO | Total Records : 10
+2026-08-11 21:38:17,227 | INFO | Published     : 10
+2026-08-11 21:38:17,227 | INFO | Failed        : 0
+2026-08-11 21:38:17,227 | INFO | -------------------------------------------
+2026-08-11 21:38:17,227 | INFO | ########## Account ingestion completed ##########
+2026-08-11 21:38:17,227 | INFO | ########## Beneficiary ingestion started ##########
+2026-08-11 21:38:17,288 | INFO | BENEFICIARY | CorrelationId: fcca4fd9-e3e8-4712-be28-dee6dcf7cf31 | 7001 published successfully.
+2026-08-11 21:38:17,332 | INFO | BENEFICIARY | CorrelationId: cff17d4e-9d3c-47f2-8f90-1aa65328e2c8 | 7002 published successfully.
+2026-08-11 21:38:17,377 | INFO | BENEFICIARY | CorrelationId: 0433b110-d0ea-43ba-be53-dad2f913f4f4 | 7003 published successfully.
+2026-08-11 21:38:17,420 | INFO | BENEFICIARY | CorrelationId: f6ebb946-d633-4f19-aa15-46607d50416e | 7004 published successfully.
+2026-08-11 21:38:17,465 | INFO | BENEFICIARY | CorrelationId: 58a84f36-45f4-4c5b-a9f1-47da008c98bc | 7005 published successfully.
+2026-08-11 21:38:17,510 | INFO | BENEFICIARY | CorrelationId: 1e1ab074-eb65-492b-9d8d-471dbd1915a1 | 7006 published successfully.
+2026-08-11 21:38:17,561 | INFO | BENEFICIARY | CorrelationId: f3c11ad3-674b-47a7-9ad5-462e85a469ea | 7007 published successfully.
+2026-08-11 21:38:17,606 | INFO | BENEFICIARY | CorrelationId: 9b939561-302b-4ef4-8d9a-28c716984e37 | 7008 published successfully.
+2026-08-11 21:38:17,653 | INFO | BENEFICIARY | CorrelationId: 71eca5f7-706a-4dd7-b620-b5a55a240d89 | 7009 published successfully.
+2026-08-11 21:38:17,701 | INFO | BENEFICIARY | CorrelationId: 98254fe7-2896-4db1-ac77-351f1983f5f6 | 7010 published successfully.
+2026-08-11 21:38:17,744 | INFO | BENEFICIARY | CorrelationId: e484b137-6710-4191-95dd-633421958fee | 7011 published successfully.
+2026-08-11 21:38:17,744 | INFO | -------------------------------------------
+2026-08-11 21:38:17,744 | INFO | Total Records : 11
+2026-08-11 21:38:17,745 | INFO | Published     : 11
+2026-08-11 21:38:17,745 | INFO | Failed        : 0
+2026-08-11 21:38:17,745 | INFO | -------------------------------------------
+2026-08-11 21:38:17,745 | INFO | ########## Beneficiary ingestion completed ##########
+2026-08-11 21:38:17,745 | INFO | ########## Customer Device ingestion started ##########
+2026-08-11 21:38:17,765 | INFO | CUSTOMER_DEVICE | CorrelationId: 60e87c76-2d6f-4a97-8105-146a4a507d81 | 9001 published successfully.
+2026-08-11 21:38:17,768 | INFO | CUSTOMER_DEVICE | CorrelationId: cbc4d933-dc82-444e-b8e6-13992cde835e | 9002 published successfully.
+2026-08-11 21:38:17,771 | INFO | CUSTOMER_DEVICE | CorrelationId: 0ee505c0-518d-4ffd-a726-a3cf73a42909 | 9003 published successfully.
+2026-08-11 21:38:17,774 | INFO | CUSTOMER_DEVICE | CorrelationId: 6c32b6b4-fa6a-4b28-847d-ad2a0b8fd3d7 | 9004 published successfully.
+2026-08-11 21:38:17,777 | INFO | CUSTOMER_DEVICE | CorrelationId: 7ecaf3d3-c438-4422-b0e2-17480ee0eb61 | 9005 published successfully.
+2026-08-11 21:38:17,780 | INFO | CUSTOMER_DEVICE | CorrelationId: ed0ea3f0-eeca-4527-8629-f490acca1db4 | 9006 published successfully.
+2026-08-11 21:38:17,783 | INFO | CUSTOMER_DEVICE | CorrelationId: 7cb783aa-651e-4ca1-8794-3c1462874f91 | 9007 published successfully.
+2026-08-11 21:38:17,786 | INFO | CUSTOMER_DEVICE | CorrelationId: e471318f-7b55-4927-a324-4f1a7667b700 | 9008 published successfully.
+2026-08-11 21:38:17,789 | INFO | CUSTOMER_DEVICE | CorrelationId: 926cc9fc-a32c-40aa-82cb-776105d3d60c | 9009 published successfully.
+2026-08-11 21:38:17,789 | INFO | -------------------------------------------
+2026-08-11 21:38:17,789 | INFO | Total Records : 9
+2026-08-11 21:38:17,789 | INFO | Published     : 9
+2026-08-11 21:38:17,789 | INFO | Failed        : 0
+2026-08-11 21:38:17,789 | INFO | -------------------------------------------
+2026-08-11 21:38:17,790 | INFO | ########## Customer Device ingestion completed ##########
+2026-08-11 21:38:17,790 | INFO | TRANSACTION | ########## TRANSACTION ingestion started ##########
+2026-08-11 21:38:17,840 | INFO | TRANSACTION | CorrelationId: 3c160df6-1215-4091-a2c8-c9be9d6a44d0 | TXN-100001 published successfully.
+2026-08-11 21:38:17,884 | INFO | TRANSACTION | CorrelationId: a441936d-5337-497d-92fc-f0883e81a07b | TXN-100002 published successfully.
+2026-08-11 21:38:17,928 | INFO | TRANSACTION | CorrelationId: 6582cd5c-9e3e-418d-93d2-692978589293 | TXN-100003 published successfully.
+2026-08-11 21:38:17,972 | INFO | TRANSACTION | CorrelationId: a1b2e59f-2724-483e-b2d1-0309d56c33c3 | TXN-100004 published successfully.
+2026-08-11 21:38:18,016 | INFO | TRANSACTION | CorrelationId: 10adcf1b-44db-4643-a746-8c805cef0e17 | TXN-100005 published successfully.
+2026-08-11 21:38:18,060 | INFO | TRANSACTION | CorrelationId: fe2b4c60-b88b-4e2d-ac35-f22d2ef4cf68 | TXN-100006 published successfully.
+2026-08-11 21:38:18,105 | INFO | TRANSACTION | CorrelationId: f1360af7-48b8-4577-a725-23db8b539774 | TXN-100007 published successfully.
+2026-08-11 21:38:18,148 | INFO | TRANSACTION | CorrelationId: 23941385-4c89-4a7e-8f67-224e31481322 | TXN-100008 published successfully.
+2026-08-11 21:38:18,192 | INFO | TRANSACTION | CorrelationId: 7f5fe539-d4f3-41a5-857e-058281e69571 | TXN-100009 published successfully.
+2026-08-11 21:38:18,236 | INFO | TRANSACTION | CorrelationId: 85f7107e-6520-451a-b46d-26e52ddef935 | TXN-100010 published successfully.
+2026-08-11 21:38:18,281 | INFO | TRANSACTION | CorrelationId: 92aa50aa-bc22-42aa-a372-8c9fa1416f47 | TXN-100011 published successfully.
+2026-08-11 21:38:18,324 | INFO | TRANSACTION | CorrelationId: 8bd6cb66-f70c-4faf-9d70-5bd6277c0471 | TXN-100012 published successfully.
+2026-08-11 21:38:18,368 | INFO | TRANSACTION | CorrelationId: 05c78ea7-7f08-4dc9-b053-dc93326baa76 | TXN-100013 published successfully.
+2026-08-11 21:38:18,416 | INFO | TRANSACTION | CorrelationId: ccd2aab6-446a-49c9-a642-2441b3f12a07 | TXN-100014 published successfully.
+2026-08-11 21:38:18,460 | INFO | TRANSACTION | CorrelationId: 847866e7-e7fb-4555-bbe6-6f5ec9d468b6 | TXN-100015 published successfully.
+2026-08-11 21:38:18,504 | INFO | TRANSACTION | CorrelationId: b9adcd5f-65a5-4eee-870d-819de9d6644c | TXN-100016 published successfully.
+2026-08-11 21:38:18,548 | INFO | TRANSACTION | CorrelationId: 40ef67b3-c536-4db7-917f-ec6495d9c224 | TXN-100017 published successfully.
+2026-08-11 21:38:18,592 | INFO | TRANSACTION | CorrelationId: 12c32f14-a11b-467e-944b-ca5f43139796 | TXN-100018 published successfully.
+2026-08-11 21:38:18,636 | INFO | TRANSACTION | CorrelationId: 41097648-6e6a-4a44-8a19-145d47109bc9 | TXN-100019 published successfully.
+2026-08-11 21:38:18,680 | INFO | TRANSACTION | CorrelationId: 0f091f84-1805-434f-907f-7b3a22aa7477 | TXN-100020 published successfully.
+2026-08-11 21:38:18,680 | INFO | -------------------------------------------
+2026-08-11 21:38:18,680 | INFO | Total Records : 20
+2026-08-11 21:38:18,680 | INFO | Published     : 20
+2026-08-11 21:38:18,680 | INFO | Failed        : 0
+2026-08-11 21:38:18,680 | INFO | -------------------------------------------
+2026-08-11 21:38:18,680 | INFO | TRANSACTION | ########## TRANSACTION ingestion completed ##########
