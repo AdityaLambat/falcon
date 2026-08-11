@@ -12,7 +12,7 @@ class TransactionMapper:
     def map_to_transaction(data: dict) -> Transaction:
 
         return Transaction(
-            transactionId=None,
+            transactionId=int(data["transactionId"]) if data["transactionId"] else None,
             accountId=int(data["accountId"]),
             beneficiaryId=int(data["beneficiaryId"]) if data["beneficiaryId"] else None,
             deviceIdentifier=data["deviceIdentifier"],

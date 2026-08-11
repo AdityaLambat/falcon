@@ -1,5 +1,5 @@
 from dataclasses import dataclass, field
-from datetime import UTC, datetime
+from datetime import UTC, datetime, date
 from typing import Optional
 
 from models.enums.kyc_status import KycStatus
@@ -13,7 +13,7 @@ class Customer:
     customerId: Optional[int]
     firstName: str
     lastName: str
-    dateOfBirth: str
+    dateOfBirth: date
     mobileNumber: str
     email: str
     address: str

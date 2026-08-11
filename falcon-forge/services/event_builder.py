@@ -1,8 +1,14 @@
 import json
 from dataclasses import asdict, is_dataclass
-from datetime import date, datetime
+from datetime import date, datetime, UTC
 from decimal import Decimal
 from enum import Enum
+from uuid import uuid4
+
+from config.kafka_config import (
+    EVENT_VERSION,
+    EVENT_SOURCE
+)
 
 
 class EventBuilder:
@@ -11,7 +17,11 @@ class EventBuilder:
     def build(event_type, payload, correlation_id):
 
         event = {
+            "eventId": str(uuid4()),
             "eventType": event_type,
+            "eventVersion": EVENT_VERSION,
+            "eventSource": EVENT_SOURCE,
+            "eventTimestamp": datetime.now(UTC),
             "correlationId": correlation_id,
             "payload": payload
         }

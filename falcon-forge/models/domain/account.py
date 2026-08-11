@@ -1,5 +1,5 @@
 from dataclasses import dataclass, field
-from datetime import UTC, datetime
+from datetime import UTC, datetime, date
 from decimal import Decimal
 from typing import Optional
 
@@ -18,8 +18,8 @@ class Account:
     ifscCode: str
     accountStatus: AccountStatus
     balance: Decimal
-    openingDate: str
-    lastTransactionDate: str
+    openingDate: date
+    lastTransactionDate: date
 
     createdAt: datetime = field(default_factory=lambda: datetime.now(UTC))
     updatedAt: datetime = field(default_factory=lambda: datetime.now(UTC)) 

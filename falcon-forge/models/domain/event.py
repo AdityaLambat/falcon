@@ -12,7 +12,7 @@ class Event:
     eventType: str
     eventVersion: str
     eventSource: str
-    eventTimestamp: str
+    eventTimestamp: datetime
     correlationId: str
     payload: Any
 

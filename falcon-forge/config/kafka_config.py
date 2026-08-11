@@ -13,6 +13,7 @@ EVENT_TYPE_ACCOUNT = "falcon_Account"
 EVENT_TYPE_BENEFICIARY = "falcon_Beneficiary"
 EVENT_TYPE_CUSTOMER_DEVICE = "falcon_CustomerDevice"
 EVENT_TYPE_TRANSACTION = "falcon_Transaction"
-
-
+EVENT_VERSION = os.getenv("EVENT_VERSION","1.0")
+EVENT_SOURCE = os.getenv("EVENT_SOURCE","falcon-forge")
+       
 print(KAFKA_BOOTSTRAP_SERVERS)
