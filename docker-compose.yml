@@ -22,6 +22,11 @@ services:
       KAFKA_TRANSACTION_STATE_LOG_MIN_ISR: 1
       KAFKA_GROUP_INITIAL_REBALANCE_DELAY_MS: 0
 
+      KAFKA_LOG_DIRS: /var/lib/kafka/data
+
+    volumes:
+      - kafka-data:/var/lib/kafka/data
+
     networks:
       - falcon-network
 
@@ -45,3 +50,6 @@ services:
 networks:
   falcon-network:
     driver: bridge
+
+volumes:
+  kafka-data:

@@ -1,37 +1,77 @@
 import logging
-from pathlib import Path
 
 
 class LoggingService:
 
     def __init__(self):
 
-        log_directory = Path("logs")
-        log_directory.mkdir(exist_ok=True)
-
-        self.logger = logging.getLogger("FalconLogger")
+        self.logger = logging.getLogger("FalconIngestion")
 
         if not self.logger.handlers:
 
-            self.logger.setLevel(logging.INFO)
+            handler = logging.FileHandler(
+                "logs/ingestion.log",
+                encoding="utf-8"
+            )
 
             formatter = logging.Formatter(
                 "%(asctime)s | %(levelname)s | %(message)s"
             )
 
-            file_handler = logging.FileHandler(
-                log_directory / "ingestion.log",
-                encoding="utf-8"
+            handler.setFormatter(formatter)
+            self.logger.addHandler(handler)
+
+            self.logger.setLevel(logging.INFO)
+
+    def info(
+        self,
+        message: str,
+        domain: str = None,
+        correlation_id: str = None
+    ):
+
+        self._log(
+            logging.INFO,
+            message,
+            domain,
+            correlation_id
+        )
+
+    def error(
+        self,
+        message: str,
+        domain: str = None,
+        correlation_id: str = None
+    ):
+
+        self._log(
+            logging.ERROR,
+            message,
+            domain,
+            correlation_id
+        )
+
+    def _log(
+        self,
+        level,
+        message,
+        domain=None,
+        correlation_id=None
+    ):
+
+        parts = []
+
+        if domain:
+            parts.append(domain)
+
+        if correlation_id:
+            parts.append(
+                f"CorrelationId: {correlation_id}"
             )
 
-            file_handler.setFormatter(formatter)
+        parts.append(message)
 
-            self.logger.addHandler(file_handler)
-
-    def info(self, message: str):
-
-        self.logger.info(message)
-
-    def error(self, message: str):
-
-        self.logger.error(message)
+        self.logger.log(
+            level,
+            " | ".join(parts)
+        )

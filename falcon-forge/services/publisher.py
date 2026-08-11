@@ -8,4 +8,4 @@ class Publisher:
 
     def publish(self, event):
 
-        return self.producer.publish(event.to_dict())
+        return self.producer.publish(event)

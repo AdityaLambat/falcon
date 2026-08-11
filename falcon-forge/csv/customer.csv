@@ -1,0 +1,9 @@
+customerId,firstName,lastName,dateOfBirth,mobileNumber,email,address,city,state,country,kycStatus,customerStatus,riskCategory
+1001,Aarav,Sharma,1995-03-14,9876543210,aarav.sharma@example.com,12 MG Road,Nagpur,Maharashtra,India,Verified,Active,Low
+1002,Priya,Patil,1992-07-21,9876543211,priya.patil@example.com,45 FC Road,Pune,Maharashtra,India,Verified,Active,Medium
+1003,Rohan,Mehta,1988-11-02,9876543212,rohan.mehta@example.com,8 Linking Road,Mumbai,Maharashtra,India,Verified,Active,High
+1004,Sneha,Joshi,1997-01-18,9876543213,sneha.joshi@example.com,22 Civil Lines,Nagpur,Maharashtra,India,Verified,Active,Low
+1005,Vikram,Kulkarni,1985-09-30,9876543214,vikram.kulkarni@example.com,17 Baner Road,Pune,Maharashtra,India,In Progress,Active,Medium
+1006,Neha,Deshmukh,1990-05-11,9876543215,neha.deshmukh@example.com,31 Wardha Road,Nagpur,Maharashtra,India,Verified,Active,High
+1007,Karan,Verma,1994-12-05,9876543216,karan.verma@example.com,19 Andheri East,Mumbai,Maharashtra,India,Pending,Active,Medium
+1008,Meera,Nair,1991-08-25,9876543217,meera.nair@example.com,7 Koregaon Park,Pune,Maharashtra,India,Verified,Active,Low

@@ -1,5 +1,7 @@
-from dataclasses import dataclass, asdict
+from dataclasses import asdict, dataclass
 from datetime import UTC, datetime
+from decimal import Decimal
+from enum import Enum
 from typing import Any
 from uuid import uuid4
 
@@ -34,4 +36,36 @@ class Event:
         )
 
     def to_dict(self):
-        return asdict(self)
+        return self._serialize(asdict(self))
+
+    @staticmethod
+    def _serialize(value):
+
+        if isinstance(value, Enum):
+            return value.value
+
+        if isinstance(value, datetime):
+            return value.isoformat()
+
+        if isinstance(value, Decimal):
+            return str(value)
+
+        if isinstance(value, dict):
+            return {
+                key: Event._serialize(item)
+                for key, item in value.items()
+            }
+
+        if isinstance(value, list):
+            return [
+                Event._serialize(item)
+                for item in value
+            ]
+
+        if isinstance(value, tuple):
+            return [
+                Event._serialize(item)
+                for item in value
+            ]
+
+        return value

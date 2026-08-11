@@ -1,7 +1,7 @@
 from uuid import uuid4
 
-from config.kafka_config import EVENT_TYPE_TRANSACTION
-from mapper.transaction_mapper import TransactionMapper
+from config.kafka_config import EVENT_TYPE_CUSTOMER
+from mapper.customer_mapper import CustomerMapper
 from services.csv_reader import CsvReader
 from services.csv_validator import CsvValidator
 from services.event_builder import EventBuilder
@@ -9,7 +9,7 @@ from services.publisher import Publisher
 from services.logging_service import LoggingService
 
 
-class TransactionIngestion:
+class CustomerIngestion:
 
     def __init__(self):
 
@@ -23,8 +23,7 @@ class TransactionIngestion:
     def ingest_csv(self, file_path: str):
 
         self.logger.info(
-            "########## TRANSACTION ingestion started ##########",
-            domain="TRANSACTION"
+            "########## CUSTOMER ingestion started ##########"
         )
 
         rows = CsvReader.read(file_path)
@@ -35,20 +34,18 @@ class TransactionIngestion:
 
             correlation_id = str(uuid4())
 
-            reference = row.get(
-                "transactionReference",
-                "UNKNOWN"
-            )
-
             try:
 
-                CsvValidator.validate(row)
+                CsvValidator.validate(
+                    row,
+                    entity_type="customer"
+                )
 
-                transaction = TransactionMapper.map_to_transaction(row)
+                customer = CustomerMapper.map_to_customer(row)
 
                 event = EventBuilder.build(
-                    event_type=EVENT_TYPE_TRANSACTION,
-                    payload=transaction,
+                    event_type=EVENT_TYPE_CUSTOMER,
+                    payload=customer,
                     correlation_id=correlation_id
                 )
 
@@ -57,8 +54,8 @@ class TransactionIngestion:
                 self.published_records += 1
 
                 self.logger.info(
-                    f"{reference} published successfully.",
-                    domain="TRANSACTION",
+                    f"{customer.customerId} published successfully.",
+                    domain="CUSTOMER",
                     correlation_id=correlation_id
                 )
 
@@ -66,9 +63,14 @@ class TransactionIngestion:
 
                 self.failed_records += 1
 
+                reference = row.get(
+                    "customerId",
+                    "UNKNOWN"
+                )
+
                 self.logger.error(
-                    f"{reference} failed. Reason: {exception}",
-                    domain="TRANSACTION",
+                    f"{customer.customerId} failed. Reason: {exception}",
+                    domain="CUSTOMER",
                     correlation_id=correlation_id
                 )
 
@@ -84,7 +86,7 @@ class TransactionIngestion:
         )
         self.logger.info("-------------------------------------------")
 
+
         self.logger.info(
-            "########## TRANSACTION ingestion completed ##########",
-            domain="TRANSACTION"
+            "########## CUSTOMER ingestion completed ##########"
         )
