@@ -1,0 +1,1480 @@
+2026-08-16 16:54:06,695 | ERROR | CUSTOMER | CorrelationId: 96081176-1209-4cfc-8ee3-2741d6d9f1cb | Persistence failed. Reason: can't adapt type 'dict'
+2026-08-16 16:54:06,695 | ERROR | CUSTOMER | CorrelationId: 2b588775-73de-4f3e-8b14-a5c1a185ae88 | Persistence failed. Reason: can't adapt type 'dict'
+2026-08-16 16:54:06,696 | ERROR | CUSTOMER | CorrelationId: 1b14502b-1588-4aae-831f-24c4d47660c1 | Persistence failed. Reason: can't adapt type 'dict'
+2026-08-16 16:54:06,696 | ERROR | CUSTOMER | CorrelationId: 4f2818da-7e78-476c-ae1e-184a4ec933ef | Persistence failed. Reason: can't adapt type 'dict'
+2026-08-16 16:54:06,696 | ERROR | CUSTOMER | CorrelationId: 050e7421-67ab-4374-97d5-858805a6a20c | Persistence failed. Reason: can't adapt type 'dict'
+2026-08-16 16:54:06,696 | ERROR | CUSTOMER | CorrelationId: a79cf5db-77ff-41f0-a0c6-a55ec073ff95 | Persistence failed. Reason: can't adapt type 'dict'
+2026-08-16 16:54:06,696 | ERROR | CUSTOMER | CorrelationId: f2046063-0f8c-47d7-ba9b-74f1a69b630e | Persistence failed. Reason: can't adapt type 'dict'
+2026-08-16 16:54:06,696 | ERROR | CUSTOMER | CorrelationId: 2b3170c7-563c-4e45-bec6-d3b5513c4d56 | Persistence failed. Reason: can't adapt type 'dict'
+2026-08-16 16:54:06,696 | ERROR | ACCOUNT | CorrelationId: ca4cf8e0-3534-4104-813e-e9a7efaeab93 | Persistence failed. Reason: can't adapt type 'dict'
+2026-08-16 16:54:06,697 | ERROR | ACCOUNT | CorrelationId: 3f8184eb-c2cd-49a9-bbf1-7bd21e8464d8 | Persistence failed. Reason: can't adapt type 'dict'
+2026-08-16 16:54:06,697 | ERROR | ACCOUNT | CorrelationId: cf1f0beb-99ba-40df-9888-658476ea62b8 | Persistence failed. Reason: can't adapt type 'dict'
+2026-08-16 16:54:06,697 | ERROR | ACCOUNT | CorrelationId: 13e0ac6c-8563-41dc-8fd0-ac1cdb9ccafd | Persistence failed. Reason: can't adapt type 'dict'
+2026-08-16 16:54:06,697 | ERROR | ACCOUNT | CorrelationId: f9034f74-a3c8-401d-80f6-73a238c55e91 | Persistence failed. Reason: can't adapt type 'dict'
+2026-08-16 16:54:06,697 | ERROR | ACCOUNT | CorrelationId: 05492a95-0c27-480a-9926-f6d7ca90eae8 | Persistence failed. Reason: can't adapt type 'dict'
+2026-08-16 16:54:06,697 | ERROR | ACCOUNT | CorrelationId: d5ad815a-a570-46bd-8e82-f4433d0d4bfd | Persistence failed. Reason: can't adapt type 'dict'
+2026-08-16 16:54:06,697 | ERROR | ACCOUNT | CorrelationId: 545cf2c9-de82-473c-a3c6-1402d13c80ba | Persistence failed. Reason: can't adapt type 'dict'
+2026-08-16 16:54:06,697 | ERROR | ACCOUNT | CorrelationId: 9b87e20f-7fa9-48a9-9aca-8a131b7d722d | Persistence failed. Reason: can't adapt type 'dict'
+2026-08-16 16:54:06,697 | ERROR | ACCOUNT | CorrelationId: 33e59142-8609-4d62-b00d-3dca1949df61 | Persistence failed. Reason: can't adapt type 'dict'
+2026-08-16 16:54:06,697 | ERROR | BENEFICIARY | CorrelationId: d8feb5b7-5dba-4862-bb3f-2265e2c8ba07 | Persistence failed. Reason: can't adapt type 'dict'
+2026-08-16 16:54:06,698 | ERROR | BENEFICIARY | CorrelationId: 6228b41f-06c0-43c0-94a1-652da1f4159a | Persistence failed. Reason: can't adapt type 'dict'
+2026-08-16 16:54:06,698 | ERROR | BENEFICIARY | CorrelationId: f960f993-a0c1-45b4-9fe4-3441c98749a6 | Persistence failed. Reason: can't adapt type 'dict'
+2026-08-16 16:54:06,698 | ERROR | BENEFICIARY | CorrelationId: 8ee9a239-a3fd-492c-8060-a047d49cf575 | Persistence failed. Reason: can't adapt type 'dict'
+2026-08-16 16:54:06,698 | ERROR | BENEFICIARY | CorrelationId: be847a16-8562-45c3-8bb5-d6093df862cf | Persistence failed. Reason: can't adapt type 'dict'
+2026-08-16 16:54:06,698 | ERROR | BENEFICIARY | CorrelationId: b82b69c8-8acc-4fbe-91d8-3bcfcd8dea3f | Persistence failed. Reason: can't adapt type 'dict'
+2026-08-16 16:54:06,698 | ERROR | BENEFICIARY | CorrelationId: 65b272f5-c34a-4c0e-a8b8-bc1d870c453b | Persistence failed. Reason: can't adapt type 'dict'
+2026-08-16 16:54:06,698 | ERROR | BENEFICIARY | CorrelationId: b52e0165-aeed-4a69-9435-119525ad3e46 | Persistence failed. Reason: can't adapt type 'dict'
+2026-08-16 16:54:06,698 | ERROR | BENEFICIARY | CorrelationId: 5a4fb761-ade7-4262-847a-ea51f74a999d | Persistence failed. Reason: can't adapt type 'dict'
+2026-08-16 16:54:06,698 | ERROR | BENEFICIARY | CorrelationId: c9602175-d27e-42fc-82ac-4ff34963514e | Persistence failed. Reason: can't adapt type 'dict'
+2026-08-16 16:54:06,698 | ERROR | BENEFICIARY | CorrelationId: f7bc7e0e-b353-4fcb-8cbc-c16c7fb5ba9a | Persistence failed. Reason: can't adapt type 'dict'
+2026-08-16 16:54:06,698 | ERROR | CUSTOMER_DEVICE | CorrelationId: 6336cac7-0e49-4e02-b6b1-ca4c38f36cf4 | Persistence failed. Reason: can't adapt type 'dict'
+2026-08-16 16:54:06,698 | ERROR | CUSTOMER_DEVICE | CorrelationId: 41758267-4c49-4a33-b15c-7cf62bca4602 | Persistence failed. Reason: can't adapt type 'dict'
+2026-08-16 16:54:06,698 | ERROR | CUSTOMER_DEVICE | CorrelationId: f6089cac-09f9-4318-9531-87e33467fea3 | Persistence failed. Reason: can't adapt type 'dict'
+2026-08-16 16:54:06,698 | ERROR | CUSTOMER_DEVICE | CorrelationId: e363357e-09ba-470a-9288-808af08d1613 | Persistence failed. Reason: can't adapt type 'dict'
+2026-08-16 16:54:06,698 | ERROR | CUSTOMER_DEVICE | CorrelationId: d171c357-6961-49d6-b205-45cae1dbfbb5 | Persistence failed. Reason: can't adapt type 'dict'
+2026-08-16 16:54:06,698 | ERROR | CUSTOMER_DEVICE | CorrelationId: c91e5d54-d145-4e6c-b15a-4e16e39d4c51 | Persistence failed. Reason: can't adapt type 'dict'
+2026-08-16 16:54:06,699 | ERROR | CUSTOMER_DEVICE | CorrelationId: d59ec3d0-5e5e-4c9b-b51c-b0578b5b4cda | Persistence failed. Reason: can't adapt type 'dict'
+2026-08-16 16:54:06,699 | ERROR | CUSTOMER_DEVICE | CorrelationId: 28651936-1ae9-4390-b25a-883730968e05 | Persistence failed. Reason: can't adapt type 'dict'
+2026-08-16 16:54:06,699 | ERROR | CUSTOMER_DEVICE | CorrelationId: 675f0159-1655-4d64-989b-03197be4e9c3 | Persistence failed. Reason: can't adapt type 'dict'
+2026-08-16 16:54:06,699 | ERROR | TRANSACTION | CorrelationId: 5e88929a-7a55-4a67-9a4b-09392fd2334e | Persistence failed. Reason: can't adapt type 'dict'
+2026-08-16 16:54:06,699 | ERROR | TRANSACTION | CorrelationId: 4c8a975d-3f18-4c8e-830f-1193becdd893 | Persistence failed. Reason: can't adapt type 'dict'
+2026-08-16 16:54:06,699 | ERROR | TRANSACTION | CorrelationId: e0f46fd3-a049-4787-90de-45fe684ca922 | Persistence failed. Reason: can't adapt type 'dict'
+2026-08-16 16:54:06,699 | ERROR | TRANSACTION | CorrelationId: a5adc19c-ef4d-44c5-aea0-8385c2742164 | Persistence failed. Reason: can't adapt type 'dict'
+2026-08-16 16:54:06,699 | ERROR | TRANSACTION | CorrelationId: 9f19ffd8-e1ea-45ac-997a-e83408a0313c | Persistence failed. Reason: can't adapt type 'dict'
+2026-08-16 16:54:06,699 | ERROR | TRANSACTION | CorrelationId: d950291f-70f2-449f-9ff2-db243f18397d | Persistence failed. Reason: can't adapt type 'dict'
+2026-08-16 16:54:06,699 | ERROR | TRANSACTION | CorrelationId: 7a808194-5adb-4bad-9511-d642bf8ec2f5 | Persistence failed. Reason: can't adapt type 'dict'
+2026-08-16 16:54:06,699 | ERROR | TRANSACTION | CorrelationId: 2bad32ae-c126-45fc-a34a-e15d72d5c682 | Persistence failed. Reason: can't adapt type 'dict'
+2026-08-16 16:54:06,699 | ERROR | TRANSACTION | CorrelationId: 57d10634-a458-497d-8453-4c33d8d9350e | Persistence failed. Reason: can't adapt type 'dict'
+2026-08-16 16:54:06,699 | ERROR | TRANSACTION | CorrelationId: 1a9b1856-f475-4f5a-b312-551d48f33127 | Persistence failed. Reason: can't adapt type 'dict'
+2026-08-16 16:54:06,699 | ERROR | TRANSACTION | CorrelationId: dd3e004b-99aa-424b-9fb2-ad5d55f8c64e | Persistence failed. Reason: can't adapt type 'dict'
+2026-08-16 16:54:06,699 | ERROR | TRANSACTION | CorrelationId: 48e2329b-4f1d-4003-aca0-83926e1eac74 | Persistence failed. Reason: can't adapt type 'dict'
+2026-08-16 16:54:06,699 | ERROR | TRANSACTION | CorrelationId: 81441476-a0f4-435d-85b9-40aa99307d42 | Persistence failed. Reason: can't adapt type 'dict'
+2026-08-16 16:54:06,699 | ERROR | TRANSACTION | CorrelationId: ebdf21b4-b0a3-40d1-aa6e-7f2b065a6c4a | Persistence failed. Reason: can't adapt type 'dict'
+2026-08-16 16:54:06,699 | ERROR | TRANSACTION | CorrelationId: 7abed764-3c6b-49de-a3d4-33dadbef0aa4 | Persistence failed. Reason: can't adapt type 'dict'
+2026-08-16 16:54:06,699 | ERROR | TRANSACTION | CorrelationId: bcb25456-e856-4e56-ba4f-b50605e3ffc7 | Persistence failed. Reason: can't adapt type 'dict'
+2026-08-16 16:54:06,699 | ERROR | TRANSACTION | CorrelationId: df780102-53a9-419a-95d2-a8b9d99333e1 | Persistence failed. Reason: can't adapt type 'dict'
+2026-08-16 16:54:06,699 | ERROR | TRANSACTION | CorrelationId: bbf73510-d971-42f1-a86b-114e902b4827 | Persistence failed. Reason: can't adapt type 'dict'
+2026-08-16 16:54:06,699 | ERROR | TRANSACTION | CorrelationId: 2b2e1ac4-0471-43e2-8ea1-088325da8e8c | Persistence failed. Reason: can't adapt type 'dict'
+2026-08-16 16:54:06,699 | ERROR | TRANSACTION | CorrelationId: 29e00bc6-8ec9-4950-aa7a-48ecd026cd2a | Persistence failed. Reason: can't adapt type 'dict'
+2026-08-16 16:57:28,946 | INFO | CUSTOMER | CorrelationId: 96081176-1209-4cfc-8ee3-2741d6d9f1cb | 1001 persisted successfully.
+2026-08-16 16:57:28,955 | INFO | CUSTOMER | CorrelationId: 2b588775-73de-4f3e-8b14-a5c1a185ae88 | 1002 persisted successfully.
+2026-08-16 16:57:28,964 | INFO | CUSTOMER | CorrelationId: 1b14502b-1588-4aae-831f-24c4d47660c1 | 1003 persisted successfully.
+2026-08-16 16:57:28,973 | INFO | CUSTOMER | CorrelationId: 4f2818da-7e78-476c-ae1e-184a4ec933ef | 1004 persisted successfully.
+2026-08-16 16:57:28,982 | INFO | CUSTOMER | CorrelationId: 050e7421-67ab-4374-97d5-858805a6a20c | 1005 persisted successfully.
+2026-08-16 16:57:28,992 | INFO | CUSTOMER | CorrelationId: a79cf5db-77ff-41f0-a0c6-a55ec073ff95 | 1006 persisted successfully.
+2026-08-16 16:57:29,004 | INFO | CUSTOMER | CorrelationId: f2046063-0f8c-47d7-ba9b-74f1a69b630e | 1007 persisted successfully.
+2026-08-16 16:57:29,015 | INFO | CUSTOMER | CorrelationId: 2b3170c7-563c-4e45-bec6-d3b5513c4d56 | 1008 persisted successfully.
+2026-08-16 16:57:29,028 | INFO | ACCOUNT | CorrelationId: ca4cf8e0-3534-4104-813e-e9a7efaeab93 | 5001 persisted successfully.
+2026-08-16 16:57:29,037 | INFO | ACCOUNT | CorrelationId: 3f8184eb-c2cd-49a9-bbf1-7bd21e8464d8 | 5002 persisted successfully.
+2026-08-16 16:57:29,046 | INFO | ACCOUNT | CorrelationId: cf1f0beb-99ba-40df-9888-658476ea62b8 | 5003 persisted successfully.
+2026-08-16 16:57:29,055 | INFO | ACCOUNT | CorrelationId: 13e0ac6c-8563-41dc-8fd0-ac1cdb9ccafd | 5004 persisted successfully.
+2026-08-16 16:57:29,064 | INFO | ACCOUNT | CorrelationId: f9034f74-a3c8-401d-80f6-73a238c55e91 | 5005 persisted successfully.
+2026-08-16 16:57:29,073 | INFO | ACCOUNT | CorrelationId: 05492a95-0c27-480a-9926-f6d7ca90eae8 | 5006 persisted successfully.
+2026-08-16 16:57:29,082 | INFO | ACCOUNT | CorrelationId: d5ad815a-a570-46bd-8e82-f4433d0d4bfd | 5007 persisted successfully.
+2026-08-16 16:57:29,091 | INFO | ACCOUNT | CorrelationId: 545cf2c9-de82-473c-a3c6-1402d13c80ba | 5008 persisted successfully.
+2026-08-16 16:57:29,101 | INFO | ACCOUNT | CorrelationId: 9b87e20f-7fa9-48a9-9aca-8a131b7d722d | 5009 persisted successfully.
+2026-08-16 16:57:29,114 | INFO | ACCOUNT | CorrelationId: 33e59142-8609-4d62-b00d-3dca1949df61 | 5010 persisted successfully.
+2026-08-16 16:57:29,125 | INFO | BENEFICIARY | CorrelationId: d8feb5b7-5dba-4862-bb3f-2265e2c8ba07 | 7001 persisted successfully.
+2026-08-16 16:57:29,134 | INFO | BENEFICIARY | CorrelationId: 6228b41f-06c0-43c0-94a1-652da1f4159a | 7002 persisted successfully.
+2026-08-16 16:57:29,143 | INFO | BENEFICIARY | CorrelationId: f960f993-a0c1-45b4-9fe4-3441c98749a6 | 7003 persisted successfully.
+2026-08-16 16:57:29,151 | INFO | BENEFICIARY | CorrelationId: 8ee9a239-a3fd-492c-8060-a047d49cf575 | 7004 persisted successfully.
+2026-08-16 16:57:29,161 | INFO | BENEFICIARY | CorrelationId: be847a16-8562-45c3-8bb5-d6093df862cf | 7005 persisted successfully.
+2026-08-16 16:57:29,171 | INFO | BENEFICIARY | CorrelationId: b82b69c8-8acc-4fbe-91d8-3bcfcd8dea3f | 7006 persisted successfully.
+2026-08-16 16:57:29,180 | INFO | BENEFICIARY | CorrelationId: 65b272f5-c34a-4c0e-a8b8-bc1d870c453b | 7007 persisted successfully.
+2026-08-16 16:57:29,189 | INFO | BENEFICIARY | CorrelationId: b52e0165-aeed-4a69-9435-119525ad3e46 | 7008 persisted successfully.
+2026-08-16 16:57:29,199 | INFO | BENEFICIARY | CorrelationId: 5a4fb761-ade7-4262-847a-ea51f74a999d | 7009 persisted successfully.
+2026-08-16 16:57:29,208 | INFO | BENEFICIARY | CorrelationId: c9602175-d27e-42fc-82ac-4ff34963514e | 7010 persisted successfully.
+2026-08-16 16:57:29,216 | INFO | BENEFICIARY | CorrelationId: f7bc7e0e-b353-4fcb-8cbc-c16c7fb5ba9a | 7011 persisted successfully.
+2026-08-16 16:57:29,218 | ERROR | CUSTOMER_DEVICE | CorrelationId: 6336cac7-0e49-4e02-b6b1-ca4c38f36cf4 | Persistence failed. Reason: column "device_id" of relation "customer_device" does not exist
+LINE 3:             device_id,
+                    ^
+
+2026-08-16 16:57:29,219 | ERROR | CUSTOMER_DEVICE | CorrelationId: 41758267-4c49-4a33-b15c-7cf62bca4602 | Persistence failed. Reason: column "device_id" of relation "customer_device" does not exist
+LINE 3:             device_id,
+                    ^
+
+2026-08-16 16:57:29,219 | ERROR | CUSTOMER_DEVICE | CorrelationId: f6089cac-09f9-4318-9531-87e33467fea3 | Persistence failed. Reason: column "device_id" of relation "customer_device" does not exist
+LINE 3:             device_id,
+                    ^
+
+2026-08-16 16:57:29,220 | ERROR | CUSTOMER_DEVICE | CorrelationId: e363357e-09ba-470a-9288-808af08d1613 | Persistence failed. Reason: column "device_id" of relation "customer_device" does not exist
+LINE 3:             device_id,
+                    ^
+
+2026-08-16 16:57:29,221 | ERROR | CUSTOMER_DEVICE | CorrelationId: d171c357-6961-49d6-b205-45cae1dbfbb5 | Persistence failed. Reason: column "device_id" of relation "customer_device" does not exist
+LINE 3:             device_id,
+                    ^
+
+2026-08-16 16:57:29,222 | ERROR | CUSTOMER_DEVICE | CorrelationId: c91e5d54-d145-4e6c-b15a-4e16e39d4c51 | Persistence failed. Reason: column "device_id" of relation "customer_device" does not exist
+LINE 3:             device_id,
+                    ^
+
+2026-08-16 16:57:29,222 | ERROR | CUSTOMER_DEVICE | CorrelationId: d59ec3d0-5e5e-4c9b-b51c-b0578b5b4cda | Persistence failed. Reason: column "device_id" of relation "customer_device" does not exist
+LINE 3:             device_id,
+                    ^
+
+2026-08-16 16:57:29,223 | ERROR | CUSTOMER_DEVICE | CorrelationId: 28651936-1ae9-4390-b25a-883730968e05 | Persistence failed. Reason: column "device_id" of relation "customer_device" does not exist
+LINE 3:             device_id,
+                    ^
+
+2026-08-16 16:57:29,223 | ERROR | CUSTOMER_DEVICE | CorrelationId: 675f0159-1655-4d64-989b-03197be4e9c3 | Persistence failed. Reason: column "device_id" of relation "customer_device" does not exist
+LINE 3:             device_id,
+                    ^
+
+2026-08-16 16:57:29,224 | ERROR | TRANSACTION | CorrelationId: 5e88929a-7a55-4a67-9a4b-09392fd2334e | Persistence failed. Reason: relation "transaction" does not exist
+LINE 2:         INSERT INTO transaction (
+                            ^
+
+2026-08-16 16:57:29,224 | ERROR | TRANSACTION | CorrelationId: 4c8a975d-3f18-4c8e-830f-1193becdd893 | Persistence failed. Reason: relation "transaction" does not exist
+LINE 2:         INSERT INTO transaction (
+                            ^
+
+2026-08-16 16:57:29,225 | ERROR | TRANSACTION | CorrelationId: e0f46fd3-a049-4787-90de-45fe684ca922 | Persistence failed. Reason: relation "transaction" does not exist
+LINE 2:         INSERT INTO transaction (
+                            ^
+
+2026-08-16 16:57:29,225 | ERROR | TRANSACTION | CorrelationId: a5adc19c-ef4d-44c5-aea0-8385c2742164 | Persistence failed. Reason: relation "transaction" does not exist
+LINE 2:         INSERT INTO transaction (
+                            ^
+
+2026-08-16 16:57:29,226 | ERROR | TRANSACTION | CorrelationId: 9f19ffd8-e1ea-45ac-997a-e83408a0313c | Persistence failed. Reason: relation "transaction" does not exist
+LINE 2:         INSERT INTO transaction (
+                            ^
+
+2026-08-16 16:57:29,226 | ERROR | TRANSACTION | CorrelationId: d950291f-70f2-449f-9ff2-db243f18397d | Persistence failed. Reason: relation "transaction" does not exist
+LINE 2:         INSERT INTO transaction (
+                            ^
+
+2026-08-16 16:57:29,226 | ERROR | TRANSACTION | CorrelationId: 7a808194-5adb-4bad-9511-d642bf8ec2f5 | Persistence failed. Reason: relation "transaction" does not exist
+LINE 2:         INSERT INTO transaction (
+                            ^
+
+2026-08-16 16:57:29,227 | ERROR | TRANSACTION | CorrelationId: 2bad32ae-c126-45fc-a34a-e15d72d5c682 | Persistence failed. Reason: relation "transaction" does not exist
+LINE 2:         INSERT INTO transaction (
+                            ^
+
+2026-08-16 16:57:29,227 | ERROR | TRANSACTION | CorrelationId: 57d10634-a458-497d-8453-4c33d8d9350e | Persistence failed. Reason: relation "transaction" does not exist
+LINE 2:         INSERT INTO transaction (
+                            ^
+
+2026-08-16 16:57:29,228 | ERROR | TRANSACTION | CorrelationId: 1a9b1856-f475-4f5a-b312-551d48f33127 | Persistence failed. Reason: relation "transaction" does not exist
+LINE 2:         INSERT INTO transaction (
+                            ^
+
+2026-08-16 16:57:29,228 | ERROR | TRANSACTION | CorrelationId: dd3e004b-99aa-424b-9fb2-ad5d55f8c64e | Persistence failed. Reason: relation "transaction" does not exist
+LINE 2:         INSERT INTO transaction (
+                            ^
+
+2026-08-16 16:57:29,229 | ERROR | TRANSACTION | CorrelationId: 48e2329b-4f1d-4003-aca0-83926e1eac74 | Persistence failed. Reason: relation "transaction" does not exist
+LINE 2:         INSERT INTO transaction (
+                            ^
+
+2026-08-16 16:57:29,229 | ERROR | TRANSACTION | CorrelationId: 81441476-a0f4-435d-85b9-40aa99307d42 | Persistence failed. Reason: relation "transaction" does not exist
+LINE 2:         INSERT INTO transaction (
+                            ^
+
+2026-08-16 16:57:29,230 | ERROR | TRANSACTION | CorrelationId: ebdf21b4-b0a3-40d1-aa6e-7f2b065a6c4a | Persistence failed. Reason: relation "transaction" does not exist
+LINE 2:         INSERT INTO transaction (
+                            ^
+
+2026-08-16 16:57:29,230 | ERROR | TRANSACTION | CorrelationId: 7abed764-3c6b-49de-a3d4-33dadbef0aa4 | Persistence failed. Reason: relation "transaction" does not exist
+LINE 2:         INSERT INTO transaction (
+                            ^
+
+2026-08-16 16:57:29,231 | ERROR | TRANSACTION | CorrelationId: bcb25456-e856-4e56-ba4f-b50605e3ffc7 | Persistence failed. Reason: relation "transaction" does not exist
+LINE 2:         INSERT INTO transaction (
+                            ^
+
+2026-08-16 16:57:29,231 | ERROR | TRANSACTION | CorrelationId: df780102-53a9-419a-95d2-a8b9d99333e1 | Persistence failed. Reason: relation "transaction" does not exist
+LINE 2:         INSERT INTO transaction (
+                            ^
+
+2026-08-16 16:57:29,232 | ERROR | TRANSACTION | CorrelationId: bbf73510-d971-42f1-a86b-114e902b4827 | Persistence failed. Reason: relation "transaction" does not exist
+LINE 2:         INSERT INTO transaction (
+                            ^
+
+2026-08-16 16:57:29,232 | ERROR | TRANSACTION | CorrelationId: 2b2e1ac4-0471-43e2-8ea1-088325da8e8c | Persistence failed. Reason: relation "transaction" does not exist
+LINE 2:         INSERT INTO transaction (
+                            ^
+
+2026-08-16 16:57:29,233 | ERROR | TRANSACTION | CorrelationId: 29e00bc6-8ec9-4950-aa7a-48ecd026cd2a | Persistence failed. Reason: relation "transaction" does not exist
+LINE 2:         INSERT INTO transaction (
+                            ^
+
+2026-08-16 17:11:54,725 | ERROR | CUSTOMER | CorrelationId: f28366e4-d831-4a90-9fba-eb8374196dce | Persistence failed. Reason: duplicate key value violates unique constraint "customer_pkey"
+DETAIL:  Key (customer_id)=(1001) already exists.
+
+2026-08-16 17:11:54,770 | ERROR | CUSTOMER | CorrelationId: de9e6b69-6b1a-4062-81e6-cf04d9f7dfa9 | Persistence failed. Reason: duplicate key value violates unique constraint "customer_pkey"
+DETAIL:  Key (customer_id)=(1002) already exists.
+
+2026-08-16 17:11:54,816 | ERROR | CUSTOMER | CorrelationId: bb031d28-2622-40f5-80c1-d2998bf9de93 | Persistence failed. Reason: duplicate key value violates unique constraint "customer_pkey"
+DETAIL:  Key (customer_id)=(1003) already exists.
+
+2026-08-16 17:11:54,861 | ERROR | CUSTOMER | CorrelationId: 93f73455-d251-4212-84d5-085be4db0df3 | Persistence failed. Reason: duplicate key value violates unique constraint "customer_pkey"
+DETAIL:  Key (customer_id)=(1004) already exists.
+
+2026-08-16 17:11:54,906 | ERROR | CUSTOMER | CorrelationId: 22fc2e4c-a7d9-4fee-a591-99414c91be91 | Persistence failed. Reason: duplicate key value violates unique constraint "customer_pkey"
+DETAIL:  Key (customer_id)=(1005) already exists.
+
+2026-08-16 17:11:54,951 | ERROR | CUSTOMER | CorrelationId: 7065884b-2717-46ec-8c75-5976ffb15389 | Persistence failed. Reason: duplicate key value violates unique constraint "customer_pkey"
+DETAIL:  Key (customer_id)=(1006) already exists.
+
+2026-08-16 17:11:54,997 | ERROR | CUSTOMER | CorrelationId: bea8f7bb-6405-4add-8b84-e80121f2f87d | Persistence failed. Reason: duplicate key value violates unique constraint "customer_pkey"
+DETAIL:  Key (customer_id)=(1007) already exists.
+
+2026-08-16 17:11:55,045 | ERROR | CUSTOMER | CorrelationId: bd12bce6-7e90-457e-84dd-af31dc315013 | Persistence failed. Reason: duplicate key value violates unique constraint "customer_pkey"
+DETAIL:  Key (customer_id)=(1008) already exists.
+
+2026-08-16 17:11:55,055 | ERROR | ACCOUNT | CorrelationId: d4ebcbb2-3ccd-4218-89c8-9632f9dd0ce8 | Persistence failed. Reason: duplicate key value violates unique constraint "account_pkey"
+DETAIL:  Key (account_id)=(5001) already exists.
+
+2026-08-16 17:11:55,058 | ERROR | ACCOUNT | CorrelationId: 982802d6-54fa-46f6-a3be-3dac2004464a | Persistence failed. Reason: duplicate key value violates unique constraint "account_pkey"
+DETAIL:  Key (account_id)=(5002) already exists.
+
+2026-08-16 17:11:55,061 | ERROR | ACCOUNT | CorrelationId: ae3079d6-e2a5-431e-ad9f-cf32bd9362cc | Persistence failed. Reason: duplicate key value violates unique constraint "account_pkey"
+DETAIL:  Key (account_id)=(5003) already exists.
+
+2026-08-16 17:11:55,064 | ERROR | ACCOUNT | CorrelationId: 125da685-9005-4202-8639-2e89443d5dc4 | Persistence failed. Reason: duplicate key value violates unique constraint "account_pkey"
+DETAIL:  Key (account_id)=(5004) already exists.
+
+2026-08-16 17:11:55,067 | ERROR | ACCOUNT | CorrelationId: d2cd7ee7-c271-4ed5-a490-b10ee5b7fb11 | Persistence failed. Reason: duplicate key value violates unique constraint "account_pkey"
+DETAIL:  Key (account_id)=(5005) already exists.
+
+2026-08-16 17:11:55,070 | ERROR | ACCOUNT | CorrelationId: 99f6fe62-f544-407d-8f82-b04497284f61 | Persistence failed. Reason: duplicate key value violates unique constraint "account_pkey"
+DETAIL:  Key (account_id)=(5006) already exists.
+
+2026-08-16 17:11:55,072 | ERROR | ACCOUNT | CorrelationId: 878dd1d0-5914-4a6b-b469-e23c883a826b | Persistence failed. Reason: duplicate key value violates unique constraint "account_pkey"
+DETAIL:  Key (account_id)=(5007) already exists.
+
+2026-08-16 17:11:55,075 | ERROR | ACCOUNT | CorrelationId: a28d340c-6a2c-4136-b1b6-1a5ee25ae4ae | Persistence failed. Reason: duplicate key value violates unique constraint "account_pkey"
+DETAIL:  Key (account_id)=(5008) already exists.
+
+2026-08-16 17:11:55,079 | ERROR | ACCOUNT | CorrelationId: 61277ff0-7bc9-4895-8f8a-d6fec69180a0 | Persistence failed. Reason: duplicate key value violates unique constraint "account_pkey"
+DETAIL:  Key (account_id)=(5009) already exists.
+
+2026-08-16 17:11:55,082 | ERROR | ACCOUNT | CorrelationId: 938b1f10-6f3e-43a9-99d0-e33011a6ba4f | Persistence failed. Reason: duplicate key value violates unique constraint "account_pkey"
+DETAIL:  Key (account_id)=(5010) already exists.
+
+2026-08-16 17:11:55,157 | ERROR | BENEFICIARY | CorrelationId: 37bd5b18-4ac1-46df-8a46-9c9c107623cb | Persistence failed. Reason: duplicate key value violates unique constraint "beneficiary_pkey"
+DETAIL:  Key (beneficiary_id)=(7001) already exists.
+
+2026-08-16 17:11:55,200 | ERROR | BENEFICIARY | CorrelationId: c5df3d84-a93a-41e7-8a14-ea2bbcc6391f | Persistence failed. Reason: duplicate key value violates unique constraint "beneficiary_pkey"
+DETAIL:  Key (beneficiary_id)=(7002) already exists.
+
+2026-08-16 17:11:55,244 | ERROR | BENEFICIARY | CorrelationId: c46821b3-98bb-413c-a331-1b807ee88af7 | Persistence failed. Reason: duplicate key value violates unique constraint "beneficiary_pkey"
+DETAIL:  Key (beneficiary_id)=(7003) already exists.
+
+2026-08-16 17:11:55,288 | ERROR | BENEFICIARY | CorrelationId: 56e17793-7c7b-4f90-9539-8058035ae6ab | Persistence failed. Reason: duplicate key value violates unique constraint "beneficiary_pkey"
+DETAIL:  Key (beneficiary_id)=(7004) already exists.
+
+2026-08-16 17:11:55,336 | ERROR | BENEFICIARY | CorrelationId: 8be64225-bfad-422a-ba25-7e6f37be65d4 | Persistence failed. Reason: duplicate key value violates unique constraint "beneficiary_pkey"
+DETAIL:  Key (beneficiary_id)=(7005) already exists.
+
+2026-08-16 17:11:55,382 | ERROR | BENEFICIARY | CorrelationId: d322c69c-89f3-4f83-8eee-8d47c7284133 | Persistence failed. Reason: duplicate key value violates unique constraint "beneficiary_pkey"
+DETAIL:  Key (beneficiary_id)=(7006) already exists.
+
+2026-08-16 17:11:55,429 | ERROR | BENEFICIARY | CorrelationId: 8e211d59-afe8-4525-b7c2-ef1b6dd5c777 | Persistence failed. Reason: duplicate key value violates unique constraint "beneficiary_pkey"
+DETAIL:  Key (beneficiary_id)=(7007) already exists.
+
+2026-08-16 17:11:55,480 | ERROR | BENEFICIARY | CorrelationId: 49ed4a78-06f6-4696-ad60-2751871944f3 | Persistence failed. Reason: duplicate key value violates unique constraint "beneficiary_pkey"
+DETAIL:  Key (beneficiary_id)=(7008) already exists.
+
+2026-08-16 17:11:55,528 | ERROR | BENEFICIARY | CorrelationId: 02711b0a-60eb-4700-a112-bbae4b96a1ab | Persistence failed. Reason: duplicate key value violates unique constraint "beneficiary_pkey"
+DETAIL:  Key (beneficiary_id)=(7009) already exists.
+
+2026-08-16 17:11:55,570 | ERROR | BENEFICIARY | CorrelationId: 44427975-0e76-4b98-8574-7d34ac9f7568 | Persistence failed. Reason: duplicate key value violates unique constraint "beneficiary_pkey"
+DETAIL:  Key (beneficiary_id)=(7010) already exists.
+
+2026-08-16 17:11:55,615 | ERROR | BENEFICIARY | CorrelationId: c15d0859-90fc-45d6-9a09-d541d83ab97b | Persistence failed. Reason: duplicate key value violates unique constraint "beneficiary_pkey"
+DETAIL:  Key (beneficiary_id)=(7011) already exists.
+
+2026-08-16 17:11:55,682 | ERROR | TRANSACTION | CorrelationId: eae00d29-f579-42eb-918a-ebe7161a0727 | Persistence failed. Reason: insert or update on table "transaction" violates foreign key constraint "fk_transaction_device"
+DETAIL:  Key (device_identifier)=(DEVICE-AARAV-001) is not present in table "customer_device".
+
+2026-08-16 17:11:55,719 | ERROR | TRANSACTION | CorrelationId: 27b37b5d-1f3a-486b-a696-a1bed718bae0 | Persistence failed. Reason: insert or update on table "transaction" violates foreign key constraint "fk_transaction_device"
+DETAIL:  Key (device_identifier)=(DEVICE-AARAV-001) is not present in table "customer_device".
+
+2026-08-16 17:11:55,763 | ERROR | TRANSACTION | CorrelationId: 963ede6c-7297-4760-9912-5b8d0360f4c5 | Persistence failed. Reason: insert or update on table "transaction" violates foreign key constraint "fk_transaction_device"
+DETAIL:  Key (device_identifier)=(DEVICE-AARAV-002) is not present in table "customer_device".
+
+2026-08-16 17:11:55,808 | ERROR | TRANSACTION | CorrelationId: d5f58b87-837b-488b-b47b-8ada00a7e4ac | Persistence failed. Reason: insert or update on table "transaction" violates foreign key constraint "fk_transaction_device"
+DETAIL:  Key (device_identifier)=(DEVICE-PRIYA-001) is not present in table "customer_device".
+
+2026-08-16 17:11:55,851 | ERROR | TRANSACTION | CorrelationId: a84d8234-c04b-4656-b2d7-779e31619d61 | Persistence failed. Reason: insert or update on table "transaction" violates foreign key constraint "fk_transaction_device"
+DETAIL:  Key (device_identifier)=(DEVICE-PRIYA-001) is not present in table "customer_device".
+
+2026-08-16 17:11:55,895 | ERROR | TRANSACTION | CorrelationId: ed9fa701-b73f-43dc-9d3c-f54e64efb09c | Persistence failed. Reason: insert or update on table "transaction" violates foreign key constraint "fk_transaction_device"
+DETAIL:  Key (device_identifier)=(DEVICE-ROHAN-001) is not present in table "customer_device".
+
+2026-08-16 17:11:55,940 | ERROR | TRANSACTION | CorrelationId: 864f66fc-4d1b-419c-9015-6be474251e94 | Persistence failed. Reason: insert or update on table "transaction" violates foreign key constraint "fk_transaction_device"
+DETAIL:  Key (device_identifier)=(DEVICE-SNEHA-001) is not present in table "customer_device".
+
+2026-08-16 17:11:55,984 | ERROR | TRANSACTION | CorrelationId: 3f75503e-233d-4ccf-9f4e-9b8965ea7bc6 | Persistence failed. Reason: insert or update on table "transaction" violates foreign key constraint "fk_transaction_device"
+DETAIL:  Key (device_identifier)=(DEVICE-VIKRAM-001) is not present in table "customer_device".
+
+2026-08-16 17:11:56,031 | ERROR | TRANSACTION | CorrelationId: e2a4ce35-70fa-4abf-9717-c8accb7edb52 | Persistence failed. Reason: insert or update on table "transaction" violates foreign key constraint "fk_transaction_device"
+DETAIL:  Key (device_identifier)=(DEVICE-AARAV-001) is not present in table "customer_device".
+
+2026-08-16 17:11:56,078 | ERROR | TRANSACTION | CorrelationId: bc718cdd-988b-4ea2-9be2-93472cf1e37c | Persistence failed. Reason: insert or update on table "transaction" violates foreign key constraint "fk_transaction_device"
+DETAIL:  Key (device_identifier)=(DEVICE-AARAV-002) is not present in table "customer_device".
+
+2026-08-16 17:11:56,124 | ERROR | TRANSACTION | CorrelationId: 69ffaad7-9307-4c17-a2ce-bf8f9ac73bb2 | Persistence failed. Reason: insert or update on table "transaction" violates foreign key constraint "fk_transaction_device"
+DETAIL:  Key (device_identifier)=(DEVICE-PRIYA-001) is not present in table "customer_device".
+
+2026-08-16 17:11:56,169 | ERROR | TRANSACTION | CorrelationId: 4e14c61d-9ffc-4fca-ba64-f9035845dcb6 | Persistence failed. Reason: insert or update on table "transaction" violates foreign key constraint "fk_transaction_device"
+DETAIL:  Key (device_identifier)=(DEVICE-PRIYA-001) is not present in table "customer_device".
+
+2026-08-16 17:11:56,217 | ERROR | TRANSACTION | CorrelationId: e0f0aeee-9102-4bb6-87d5-8d823ef08673 | Persistence failed. Reason: insert or update on table "transaction" violates foreign key constraint "fk_transaction_device"
+DETAIL:  Key (device_identifier)=(DEVICE-ROHAN-001) is not present in table "customer_device".
+
+2026-08-16 17:11:56,259 | ERROR | TRANSACTION | CorrelationId: 46f101e5-9615-46cd-8366-1febfb9f0cd8 | Persistence failed. Reason: insert or update on table "transaction" violates foreign key constraint "fk_transaction_device"
+DETAIL:  Key (device_identifier)=(DEVICE-SNEHA-001) is not present in table "customer_device".
+
+2026-08-16 17:11:56,303 | ERROR | TRANSACTION | CorrelationId: 06d0da31-7d01-4673-805f-906059c8a3f9 | Persistence failed. Reason: insert or update on table "transaction" violates foreign key constraint "fk_transaction_device"
+DETAIL:  Key (device_identifier)=(DEVICE-VIKRAM-001) is not present in table "customer_device".
+
+2026-08-16 17:11:56,347 | ERROR | TRANSACTION | CorrelationId: a1b1e906-8332-4305-8279-0955d2ce9b36 | Persistence failed. Reason: insert or update on table "transaction" violates foreign key constraint "fk_transaction_device"
+DETAIL:  Key (device_identifier)=(DEVICE-NEHA-001) is not present in table "customer_device".
+
+2026-08-16 17:11:56,392 | ERROR | TRANSACTION | CorrelationId: e94ab9d3-0ebf-4fd3-8f94-0cfe4d6590de | Persistence failed. Reason: insert or update on table "transaction" violates foreign key constraint "fk_transaction_device"
+DETAIL:  Key (device_identifier)=(DEVICE-KARAN-001) is not present in table "customer_device".
+
+2026-08-16 17:11:56,436 | ERROR | TRANSACTION | CorrelationId: 5330adcd-5255-4280-9142-5091aaa33954 | Persistence failed. Reason: insert or update on table "transaction" violates foreign key constraint "fk_transaction_device"
+DETAIL:  Key (device_identifier)=(DEVICE-MEERA-001) is not present in table "customer_device".
+
+2026-08-16 17:11:56,480 | ERROR | TRANSACTION | CorrelationId: 862e3469-6166-42d7-9c4f-3efc502e3033 | Persistence failed. Reason: insert or update on table "transaction" violates foreign key constraint "fk_transaction_device"
+DETAIL:  Key (device_identifier)=(DEVICE-ROHAN-001) is not present in table "customer_device".
+
+2026-08-16 17:11:56,529 | ERROR | TRANSACTION | CorrelationId: 9be49116-dbdc-4784-9062-4d01c9367c6e | Persistence failed. Reason: insert or update on table "transaction" violates foreign key constraint "fk_transaction_device"
+DETAIL:  Key (device_identifier)=(DEVICE-NEHA-001) is not present in table "customer_device".
+
+2026-08-16 17:18:53,899 | ERROR | CUSTOMER | CorrelationId: 5ba77d66-2aaa-42ac-a9dc-fdf1c921e6e2 | Persistence failed. Reason: duplicate key value violates unique constraint "customer_pkey"
+DETAIL:  Key (customer_id)=(1001) already exists.
+
+2026-08-16 17:18:53,916 | ERROR | CUSTOMER | CorrelationId: 04c44356-2d66-4dc8-80a7-0e33fa18bf77 | Persistence failed. Reason: duplicate key value violates unique constraint "customer_pkey"
+DETAIL:  Key (customer_id)=(1002) already exists.
+
+2026-08-16 17:18:53,959 | ERROR | CUSTOMER | CorrelationId: 5ac57f48-9e5a-4e0e-9ee7-bb3acd1033bb | Persistence failed. Reason: duplicate key value violates unique constraint "customer_pkey"
+DETAIL:  Key (customer_id)=(1003) already exists.
+
+2026-08-16 17:18:54,004 | ERROR | CUSTOMER | CorrelationId: 20f69dd8-d361-4d5a-8905-bf3163d26268 | Persistence failed. Reason: duplicate key value violates unique constraint "customer_pkey"
+DETAIL:  Key (customer_id)=(1004) already exists.
+
+2026-08-16 17:18:54,047 | ERROR | CUSTOMER | CorrelationId: 053ee71f-d114-47a4-880c-98f477b487d0 | Persistence failed. Reason: duplicate key value violates unique constraint "customer_pkey"
+DETAIL:  Key (customer_id)=(1005) already exists.
+
+2026-08-16 17:18:54,094 | ERROR | CUSTOMER | CorrelationId: 7e127c47-7acc-4804-b60a-b12f3ff5740f | Persistence failed. Reason: duplicate key value violates unique constraint "customer_pkey"
+DETAIL:  Key (customer_id)=(1006) already exists.
+
+2026-08-16 17:18:54,143 | ERROR | CUSTOMER | CorrelationId: 2ac2cd34-f31d-43ac-9cf8-28476fe61b0a | Persistence failed. Reason: duplicate key value violates unique constraint "customer_pkey"
+DETAIL:  Key (customer_id)=(1007) already exists.
+
+2026-08-16 17:18:54,188 | ERROR | CUSTOMER | CorrelationId: 8ffa33c1-f6af-4ea7-9eb6-e2f5e473b541 | Persistence failed. Reason: duplicate key value violates unique constraint "customer_pkey"
+DETAIL:  Key (customer_id)=(1008) already exists.
+
+2026-08-16 17:18:54,196 | ERROR | ACCOUNT | CorrelationId: 66890692-d76c-47db-ae00-e576ec273645 | Persistence failed. Reason: duplicate key value violates unique constraint "account_pkey"
+DETAIL:  Key (account_id)=(5001) already exists.
+
+2026-08-16 17:18:54,198 | ERROR | ACCOUNT | CorrelationId: 09e3d75a-af9e-4138-95e1-99d2a0419a14 | Persistence failed. Reason: duplicate key value violates unique constraint "account_pkey"
+DETAIL:  Key (account_id)=(5002) already exists.
+
+2026-08-16 17:18:54,203 | ERROR | ACCOUNT | CorrelationId: 0fc7eef0-3caa-44bb-9e49-854f033eb53e | Persistence failed. Reason: duplicate key value violates unique constraint "account_pkey"
+DETAIL:  Key (account_id)=(5003) already exists.
+
+2026-08-16 17:18:54,205 | ERROR | ACCOUNT | CorrelationId: bce680be-377a-4254-98df-9cbfa0978ef3 | Persistence failed. Reason: duplicate key value violates unique constraint "account_pkey"
+DETAIL:  Key (account_id)=(5004) already exists.
+
+2026-08-16 17:18:54,206 | ERROR | ACCOUNT | CorrelationId: 3735dd95-bfe0-4d32-8e35-fab11b4511e2 | Persistence failed. Reason: duplicate key value violates unique constraint "account_pkey"
+DETAIL:  Key (account_id)=(5005) already exists.
+
+2026-08-16 17:18:54,208 | ERROR | ACCOUNT | CorrelationId: 029fd128-e37f-46bf-a05d-502b4d332aa2 | Persistence failed. Reason: duplicate key value violates unique constraint "account_pkey"
+DETAIL:  Key (account_id)=(5006) already exists.
+
+2026-08-16 17:18:54,211 | ERROR | ACCOUNT | CorrelationId: d03f0289-96f4-41e4-9ade-4eba5dd1a95a | Persistence failed. Reason: duplicate key value violates unique constraint "account_pkey"
+DETAIL:  Key (account_id)=(5007) already exists.
+
+2026-08-16 17:18:54,213 | ERROR | ACCOUNT | CorrelationId: 52e4a31e-9a4d-403c-a31a-48ca2de0cc26 | Persistence failed. Reason: duplicate key value violates unique constraint "account_pkey"
+DETAIL:  Key (account_id)=(5008) already exists.
+
+2026-08-16 17:18:54,215 | ERROR | ACCOUNT | CorrelationId: 046ef814-5767-463a-9381-121fe18b2a3a | Persistence failed. Reason: duplicate key value violates unique constraint "account_pkey"
+DETAIL:  Key (account_id)=(5009) already exists.
+
+2026-08-16 17:18:54,218 | ERROR | ACCOUNT | CorrelationId: 6e210c98-19a0-48e5-b394-5ad866f51780 | Persistence failed. Reason: duplicate key value violates unique constraint "account_pkey"
+DETAIL:  Key (account_id)=(5010) already exists.
+
+2026-08-16 17:18:54,225 | ERROR | BENEFICIARY | CorrelationId: 9af894f5-06e0-4417-87f2-4427a7355904 | Persistence failed. Reason: duplicate key value violates unique constraint "beneficiary_pkey"
+DETAIL:  Key (beneficiary_id)=(7001) already exists.
+
+2026-08-16 17:18:54,227 | ERROR | BENEFICIARY | CorrelationId: 56990d6b-448f-4d88-bafd-3c7d61a5588d | Persistence failed. Reason: duplicate key value violates unique constraint "beneficiary_pkey"
+DETAIL:  Key (beneficiary_id)=(7002) already exists.
+
+2026-08-16 17:18:54,229 | ERROR | BENEFICIARY | CorrelationId: b08aee25-67ac-48c2-b1aa-5a1fbfbc7586 | Persistence failed. Reason: duplicate key value violates unique constraint "beneficiary_pkey"
+DETAIL:  Key (beneficiary_id)=(7003) already exists.
+
+2026-08-16 17:18:54,231 | ERROR | BENEFICIARY | CorrelationId: 4b580f47-0357-4692-a823-2352ad913b60 | Persistence failed. Reason: duplicate key value violates unique constraint "beneficiary_pkey"
+DETAIL:  Key (beneficiary_id)=(7004) already exists.
+
+2026-08-16 17:18:54,233 | ERROR | BENEFICIARY | CorrelationId: 3427c1df-3aa2-4ac0-b6aa-d4870eacbd63 | Persistence failed. Reason: duplicate key value violates unique constraint "beneficiary_pkey"
+DETAIL:  Key (beneficiary_id)=(7005) already exists.
+
+2026-08-16 17:18:54,236 | ERROR | BENEFICIARY | CorrelationId: c9a5638b-0a8f-4e25-9c15-f2c444d9d2dc | Persistence failed. Reason: duplicate key value violates unique constraint "beneficiary_pkey"
+DETAIL:  Key (beneficiary_id)=(7006) already exists.
+
+2026-08-16 17:18:54,237 | ERROR | BENEFICIARY | CorrelationId: 353d3578-9a96-472a-bdb9-4a692e299b00 | Persistence failed. Reason: duplicate key value violates unique constraint "beneficiary_pkey"
+DETAIL:  Key (beneficiary_id)=(7007) already exists.
+
+2026-08-16 17:18:54,240 | ERROR | BENEFICIARY | CorrelationId: 772eb30f-ab76-4032-a05b-ad455f8494b5 | Persistence failed. Reason: duplicate key value violates unique constraint "beneficiary_pkey"
+DETAIL:  Key (beneficiary_id)=(7008) already exists.
+
+2026-08-16 17:18:54,241 | ERROR | BENEFICIARY | CorrelationId: b6884618-c771-4d32-9d92-670649ef6020 | Persistence failed. Reason: duplicate key value violates unique constraint "beneficiary_pkey"
+DETAIL:  Key (beneficiary_id)=(7009) already exists.
+
+2026-08-16 17:18:54,244 | ERROR | BENEFICIARY | CorrelationId: fa9d8fe6-9312-43d4-955c-3b6183e6aa71 | Persistence failed. Reason: duplicate key value violates unique constraint "beneficiary_pkey"
+DETAIL:  Key (beneficiary_id)=(7010) already exists.
+
+2026-08-16 17:18:54,246 | ERROR | BENEFICIARY | CorrelationId: bde8fa54-fdcd-4336-b410-7265cfa3f07d | Persistence failed. Reason: duplicate key value violates unique constraint "beneficiary_pkey"
+DETAIL:  Key (beneficiary_id)=(7011) already exists.
+
+2026-08-16 17:18:54,303 | ERROR | TRANSACTION | CorrelationId: 1994a44d-3587-4a7b-bd9c-063b47c466f7 | Persistence failed. Reason: insert or update on table "transaction" violates foreign key constraint "fk_transaction_device"
+DETAIL:  Key (device_identifier)=(DEVICE-AARAV-001) is not present in table "customer_device".
+
+2026-08-16 17:18:54,350 | ERROR | TRANSACTION | CorrelationId: 657a6d32-62cb-4449-98e5-94ca0b0cd549 | Persistence failed. Reason: insert or update on table "transaction" violates foreign key constraint "fk_transaction_device"
+DETAIL:  Key (device_identifier)=(DEVICE-AARAV-001) is not present in table "customer_device".
+
+2026-08-16 17:18:54,395 | ERROR | TRANSACTION | CorrelationId: c21ea2d2-7c2f-4379-9018-25eeae4926d6 | Persistence failed. Reason: insert or update on table "transaction" violates foreign key constraint "fk_transaction_device"
+DETAIL:  Key (device_identifier)=(DEVICE-AARAV-002) is not present in table "customer_device".
+
+2026-08-16 17:18:54,442 | ERROR | TRANSACTION | CorrelationId: cfad6139-b3cd-4c4d-8321-282a2b3e0760 | Persistence failed. Reason: insert or update on table "transaction" violates foreign key constraint "fk_transaction_device"
+DETAIL:  Key (device_identifier)=(DEVICE-PRIYA-001) is not present in table "customer_device".
+
+2026-08-16 17:18:54,492 | ERROR | TRANSACTION | CorrelationId: f28d647e-0ff2-45c9-a7dd-2703370ffc95 | Persistence failed. Reason: insert or update on table "transaction" violates foreign key constraint "fk_transaction_device"
+DETAIL:  Key (device_identifier)=(DEVICE-PRIYA-001) is not present in table "customer_device".
+
+2026-08-16 17:18:54,536 | ERROR | TRANSACTION | CorrelationId: 9c9d22c1-bda7-4d89-b879-152f21a60307 | Persistence failed. Reason: insert or update on table "transaction" violates foreign key constraint "fk_transaction_device"
+DETAIL:  Key (device_identifier)=(DEVICE-ROHAN-001) is not present in table "customer_device".
+
+2026-08-16 17:18:54,579 | ERROR | TRANSACTION | CorrelationId: a49d31c9-f05c-42ea-a9cb-20f591aa2a58 | Persistence failed. Reason: insert or update on table "transaction" violates foreign key constraint "fk_transaction_device"
+DETAIL:  Key (device_identifier)=(DEVICE-SNEHA-001) is not present in table "customer_device".
+
+2026-08-16 17:18:54,625 | ERROR | TRANSACTION | CorrelationId: 0d450da3-da45-439f-b6b9-48e55d72b953 | Persistence failed. Reason: insert or update on table "transaction" violates foreign key constraint "fk_transaction_device"
+DETAIL:  Key (device_identifier)=(DEVICE-VIKRAM-001) is not present in table "customer_device".
+
+2026-08-16 17:18:54,670 | ERROR | TRANSACTION | CorrelationId: ae5ea8cd-dc7f-4122-8feb-030aa84350ba | Persistence failed. Reason: insert or update on table "transaction" violates foreign key constraint "fk_transaction_device"
+DETAIL:  Key (device_identifier)=(DEVICE-AARAV-001) is not present in table "customer_device".
+
+2026-08-16 17:18:54,719 | ERROR | TRANSACTION | CorrelationId: 865d487d-4832-4cf2-8e9a-c0655530cc90 | Persistence failed. Reason: insert or update on table "transaction" violates foreign key constraint "fk_transaction_device"
+DETAIL:  Key (device_identifier)=(DEVICE-AARAV-002) is not present in table "customer_device".
+
+2026-08-16 17:18:54,767 | ERROR | TRANSACTION | CorrelationId: ce3c83fa-af41-4a2e-82e7-20e91da373bd | Persistence failed. Reason: insert or update on table "transaction" violates foreign key constraint "fk_transaction_device"
+DETAIL:  Key (device_identifier)=(DEVICE-PRIYA-001) is not present in table "customer_device".
+
+2026-08-16 17:18:54,812 | ERROR | TRANSACTION | CorrelationId: bf0b51a6-4171-45eb-81af-63f68a497375 | Persistence failed. Reason: insert or update on table "transaction" violates foreign key constraint "fk_transaction_device"
+DETAIL:  Key (device_identifier)=(DEVICE-PRIYA-001) is not present in table "customer_device".
+
+2026-08-16 17:18:54,857 | ERROR | TRANSACTION | CorrelationId: b89f521c-bfb0-4e78-8f85-9767361b056d | Persistence failed. Reason: insert or update on table "transaction" violates foreign key constraint "fk_transaction_device"
+DETAIL:  Key (device_identifier)=(DEVICE-ROHAN-001) is not present in table "customer_device".
+
+2026-08-16 17:18:54,904 | ERROR | TRANSACTION | CorrelationId: efcf3da8-06f4-4e55-a5dd-71f4f150a943 | Persistence failed. Reason: insert or update on table "transaction" violates foreign key constraint "fk_transaction_device"
+DETAIL:  Key (device_identifier)=(DEVICE-SNEHA-001) is not present in table "customer_device".
+
+2026-08-16 17:18:54,948 | ERROR | TRANSACTION | CorrelationId: 7c8de35c-2531-48f6-a4cb-54c68e74e6b0 | Persistence failed. Reason: insert or update on table "transaction" violates foreign key constraint "fk_transaction_device"
+DETAIL:  Key (device_identifier)=(DEVICE-VIKRAM-001) is not present in table "customer_device".
+
+2026-08-16 17:18:54,991 | ERROR | TRANSACTION | CorrelationId: d407f88a-6de5-4af3-97ab-608489900c7b | Persistence failed. Reason: insert or update on table "transaction" violates foreign key constraint "fk_transaction_device"
+DETAIL:  Key (device_identifier)=(DEVICE-NEHA-001) is not present in table "customer_device".
+
+2026-08-16 17:18:55,039 | ERROR | TRANSACTION | CorrelationId: c24f84f7-987f-4f28-ba64-109d9d959409 | Persistence failed. Reason: insert or update on table "transaction" violates foreign key constraint "fk_transaction_device"
+DETAIL:  Key (device_identifier)=(DEVICE-KARAN-001) is not present in table "customer_device".
+
+2026-08-16 17:18:55,083 | ERROR | TRANSACTION | CorrelationId: 96e335f1-2318-4723-bf34-53b458963b46 | Persistence failed. Reason: insert or update on table "transaction" violates foreign key constraint "fk_transaction_device"
+DETAIL:  Key (device_identifier)=(DEVICE-MEERA-001) is not present in table "customer_device".
+
+2026-08-16 17:18:55,127 | ERROR | TRANSACTION | CorrelationId: b91bc99c-98d6-4ef6-aa55-1d72f845ceea | Persistence failed. Reason: insert or update on table "transaction" violates foreign key constraint "fk_transaction_device"
+DETAIL:  Key (device_identifier)=(DEVICE-ROHAN-001) is not present in table "customer_device".
+
+2026-08-16 17:18:55,170 | ERROR | TRANSACTION | CorrelationId: 56d4fab8-200b-42e5-9538-09cf0b17293f | Persistence failed. Reason: insert or update on table "transaction" violates foreign key constraint "fk_transaction_device"
+DETAIL:  Key (device_identifier)=(DEVICE-NEHA-001) is not present in table "customer_device".
+
+2026-08-16 17:19:48,964 | ERROR | CUSTOMER | CorrelationId: ffb5b85e-bc78-491d-98eb-79a2129cec98 | Persistence failed. Reason: duplicate key value violates unique constraint "customer_pkey"
+DETAIL:  Key (customer_id)=(1001) already exists.
+
+2026-08-16 17:19:48,967 | ERROR | CUSTOMER | CorrelationId: db01dfda-4bc5-4032-a0f3-71a9bbadf9c7 | Persistence failed. Reason: duplicate key value violates unique constraint "customer_pkey"
+DETAIL:  Key (customer_id)=(1002) already exists.
+
+2026-08-16 17:19:48,970 | ERROR | CUSTOMER | CorrelationId: 7693c788-9e4c-45a3-8ec2-f65f4e5d17b2 | Persistence failed. Reason: duplicate key value violates unique constraint "customer_pkey"
+DETAIL:  Key (customer_id)=(1003) already exists.
+
+2026-08-16 17:19:48,974 | ERROR | CUSTOMER | CorrelationId: 24693783-1286-42b4-b15a-fd474bcba536 | Persistence failed. Reason: duplicate key value violates unique constraint "customer_pkey"
+DETAIL:  Key (customer_id)=(1004) already exists.
+
+2026-08-16 17:19:48,977 | ERROR | CUSTOMER | CorrelationId: e329c111-535b-4360-8bb2-3131d3f6c34c | Persistence failed. Reason: duplicate key value violates unique constraint "customer_pkey"
+DETAIL:  Key (customer_id)=(1005) already exists.
+
+2026-08-16 17:19:48,979 | ERROR | CUSTOMER | CorrelationId: 35fb0ab4-2de3-4957-8fb7-1fa85e74f967 | Persistence failed. Reason: duplicate key value violates unique constraint "customer_pkey"
+DETAIL:  Key (customer_id)=(1006) already exists.
+
+2026-08-16 17:19:48,982 | ERROR | CUSTOMER | CorrelationId: 11b525bc-8a73-47ab-94fc-54cb2ec08d3b | Persistence failed. Reason: duplicate key value violates unique constraint "customer_pkey"
+DETAIL:  Key (customer_id)=(1007) already exists.
+
+2026-08-16 17:19:48,984 | ERROR | CUSTOMER | CorrelationId: 2a5abff0-11eb-4d31-bbb2-a0e6353fcdcf | Persistence failed. Reason: duplicate key value violates unique constraint "customer_pkey"
+DETAIL:  Key (customer_id)=(1008) already exists.
+
+2026-08-16 17:19:49,008 | ERROR | ACCOUNT | CorrelationId: 04831491-9d1e-4919-a585-6481fbb7d70f | Persistence failed. Reason: duplicate key value violates unique constraint "account_pkey"
+DETAIL:  Key (account_id)=(5001) already exists.
+
+2026-08-16 17:19:49,010 | ERROR | ACCOUNT | CorrelationId: 11039ccf-38ca-4b7f-b83e-2af6a2d9f80a | Persistence failed. Reason: duplicate key value violates unique constraint "account_pkey"
+DETAIL:  Key (account_id)=(5002) already exists.
+
+2026-08-16 17:19:49,012 | ERROR | ACCOUNT | CorrelationId: bdf30024-cd2f-43ff-9289-f7b688df51dc | Persistence failed. Reason: duplicate key value violates unique constraint "account_pkey"
+DETAIL:  Key (account_id)=(5003) already exists.
+
+2026-08-16 17:19:49,014 | ERROR | ACCOUNT | CorrelationId: 172f672c-1e18-4509-bc6f-38257cc2f839 | Persistence failed. Reason: duplicate key value violates unique constraint "account_pkey"
+DETAIL:  Key (account_id)=(5004) already exists.
+
+2026-08-16 17:19:49,016 | ERROR | ACCOUNT | CorrelationId: 5e025545-1179-4033-8095-c024055655bb | Persistence failed. Reason: duplicate key value violates unique constraint "account_pkey"
+DETAIL:  Key (account_id)=(5005) already exists.
+
+2026-08-16 17:19:49,019 | ERROR | ACCOUNT | CorrelationId: 8d34a221-441b-4765-b4f5-555567ead526 | Persistence failed. Reason: duplicate key value violates unique constraint "account_pkey"
+DETAIL:  Key (account_id)=(5006) already exists.
+
+2026-08-16 17:19:49,020 | ERROR | ACCOUNT | CorrelationId: 21b42519-a2c7-4f95-b0b6-d68b5a2743ff | Persistence failed. Reason: duplicate key value violates unique constraint "account_pkey"
+DETAIL:  Key (account_id)=(5007) already exists.
+
+2026-08-16 17:19:49,023 | ERROR | ACCOUNT | CorrelationId: 8f005133-e7cc-4d2c-bd7d-19a39c735225 | Persistence failed. Reason: duplicate key value violates unique constraint "account_pkey"
+DETAIL:  Key (account_id)=(5008) already exists.
+
+2026-08-16 17:19:49,024 | ERROR | ACCOUNT | CorrelationId: 32f19ce6-b51b-49d6-ad87-fbc9d694c6d6 | Persistence failed. Reason: duplicate key value violates unique constraint "account_pkey"
+DETAIL:  Key (account_id)=(5009) already exists.
+
+2026-08-16 17:19:49,027 | ERROR | ACCOUNT | CorrelationId: 7fd834e8-d869-4913-93cd-8df3c9b3c5bb | Persistence failed. Reason: duplicate key value violates unique constraint "account_pkey"
+DETAIL:  Key (account_id)=(5010) already exists.
+
+2026-08-16 17:19:49,104 | ERROR | BENEFICIARY | CorrelationId: dbaabdb5-c5fb-495d-9451-b892d1da269c | Persistence failed. Reason: duplicate key value violates unique constraint "beneficiary_pkey"
+DETAIL:  Key (beneficiary_id)=(7001) already exists.
+
+2026-08-16 17:19:49,147 | ERROR | BENEFICIARY | CorrelationId: 09ab51b5-97ba-4160-bfbd-31d1b1bfdd68 | Persistence failed. Reason: duplicate key value violates unique constraint "beneficiary_pkey"
+DETAIL:  Key (beneficiary_id)=(7002) already exists.
+
+2026-08-16 17:19:49,194 | ERROR | BENEFICIARY | CorrelationId: 2c2ebfe8-f382-4c6a-a300-46e06206e18d | Persistence failed. Reason: duplicate key value violates unique constraint "beneficiary_pkey"
+DETAIL:  Key (beneficiary_id)=(7003) already exists.
+
+2026-08-16 17:19:49,240 | ERROR | BENEFICIARY | CorrelationId: 3ca25c88-3c9a-47c8-a4ee-0fb77dc6996d | Persistence failed. Reason: duplicate key value violates unique constraint "beneficiary_pkey"
+DETAIL:  Key (beneficiary_id)=(7004) already exists.
+
+2026-08-16 17:19:49,286 | ERROR | BENEFICIARY | CorrelationId: 9fd25a9c-8eb5-4fb0-a510-00477b564edf | Persistence failed. Reason: duplicate key value violates unique constraint "beneficiary_pkey"
+DETAIL:  Key (beneficiary_id)=(7005) already exists.
+
+2026-08-16 17:19:49,333 | ERROR | BENEFICIARY | CorrelationId: 34da146f-ed7a-4f1c-9a0d-df7f372773d4 | Persistence failed. Reason: duplicate key value violates unique constraint "beneficiary_pkey"
+DETAIL:  Key (beneficiary_id)=(7006) already exists.
+
+2026-08-16 17:19:49,384 | ERROR | BENEFICIARY | CorrelationId: fe2cebc3-1f71-424e-ba69-48c3c78d16d3 | Persistence failed. Reason: duplicate key value violates unique constraint "beneficiary_pkey"
+DETAIL:  Key (beneficiary_id)=(7007) already exists.
+
+2026-08-16 17:19:49,429 | ERROR | BENEFICIARY | CorrelationId: 7ae8a8a3-67dd-443e-9e27-f4712a86e271 | Persistence failed. Reason: duplicate key value violates unique constraint "beneficiary_pkey"
+DETAIL:  Key (beneficiary_id)=(7008) already exists.
+
+2026-08-16 17:19:49,474 | ERROR | BENEFICIARY | CorrelationId: f764b17e-24d0-4336-924c-191d8c8ee316 | Persistence failed. Reason: duplicate key value violates unique constraint "beneficiary_pkey"
+DETAIL:  Key (beneficiary_id)=(7009) already exists.
+
+2026-08-16 17:19:49,519 | ERROR | BENEFICIARY | CorrelationId: c86a170d-dfe6-46b0-bff2-b601c101731b | Persistence failed. Reason: duplicate key value violates unique constraint "beneficiary_pkey"
+DETAIL:  Key (beneficiary_id)=(7010) already exists.
+
+2026-08-16 17:19:49,566 | ERROR | BENEFICIARY | CorrelationId: 753c1d7b-e3fc-457f-b7ba-ed8ea44aab89 | Persistence failed. Reason: duplicate key value violates unique constraint "beneficiary_pkey"
+DETAIL:  Key (beneficiary_id)=(7011) already exists.
+
+2026-08-16 17:19:49,597 | ERROR | CUSTOMER_DEVICE | CorrelationId: 01c2bf94-fcb6-41b4-a098-a9b7bcd80bc9 | Persistence failed. Reason: 'deviceId'
+2026-08-16 17:19:49,598 | ERROR | CUSTOMER_DEVICE | CorrelationId: 2935dd71-330d-41d1-ab7c-854a65852f79 | Persistence failed. Reason: 'deviceId'
+2026-08-16 17:19:49,600 | ERROR | CUSTOMER_DEVICE | CorrelationId: be4d1bc5-ef7f-48f2-813f-bca4025314aa | Persistence failed. Reason: 'deviceId'
+2026-08-16 17:19:49,603 | ERROR | CUSTOMER_DEVICE | CorrelationId: 1ae3f536-d44c-4243-a34b-65b4d84f6eb8 | Persistence failed. Reason: 'deviceId'
+2026-08-16 17:19:49,605 | ERROR | CUSTOMER_DEVICE | CorrelationId: ffdb4be8-ca5c-492e-a007-77b3dd33e3a1 | Persistence failed. Reason: 'deviceId'
+2026-08-16 17:19:49,608 | ERROR | CUSTOMER_DEVICE | CorrelationId: a705e510-a475-43c7-9849-d5d1b95adc9a | Persistence failed. Reason: 'deviceId'
+2026-08-16 17:19:49,610 | ERROR | CUSTOMER_DEVICE | CorrelationId: 504a3620-aee4-4582-9c2d-9dcaeda210ec | Persistence failed. Reason: 'deviceId'
+2026-08-16 17:19:49,612 | ERROR | CUSTOMER_DEVICE | CorrelationId: 35f08855-8be9-4311-aada-459cca42bd80 | Persistence failed. Reason: 'deviceId'
+2026-08-16 17:19:49,614 | ERROR | CUSTOMER_DEVICE | CorrelationId: c05bf262-08b3-4517-9472-eb3a339775d9 | Persistence failed. Reason: 'deviceId'
+2026-08-16 17:19:49,644 | ERROR | TRANSACTION | CorrelationId: 0f441a8b-a163-4b37-9e25-334607bbab65 | Persistence failed. Reason: insert or update on table "transaction" violates foreign key constraint "fk_transaction_device"
+DETAIL:  Key (device_identifier)=(DEVICE-AARAV-001) is not present in table "customer_device".
+
+2026-08-16 17:19:49,646 | ERROR | TRANSACTION | CorrelationId: a81af96e-407d-46c7-8331-6e0e8e812f9a | Persistence failed. Reason: insert or update on table "transaction" violates foreign key constraint "fk_transaction_device"
+DETAIL:  Key (device_identifier)=(DEVICE-AARAV-001) is not present in table "customer_device".
+
+2026-08-16 17:19:49,648 | ERROR | TRANSACTION | CorrelationId: 152a800c-a613-4319-a1d2-69fdb5d5ca73 | Persistence failed. Reason: insert or update on table "transaction" violates foreign key constraint "fk_transaction_device"
+DETAIL:  Key (device_identifier)=(DEVICE-AARAV-002) is not present in table "customer_device".
+
+2026-08-16 17:19:49,651 | ERROR | TRANSACTION | CorrelationId: 4e8af850-8a29-4039-a259-af7b27dd2ba4 | Persistence failed. Reason: insert or update on table "transaction" violates foreign key constraint "fk_transaction_device"
+DETAIL:  Key (device_identifier)=(DEVICE-PRIYA-001) is not present in table "customer_device".
+
+2026-08-16 17:19:49,654 | ERROR | TRANSACTION | CorrelationId: cf6179c4-45fb-4dc7-b411-d3a5f621dfbb | Persistence failed. Reason: insert or update on table "transaction" violates foreign key constraint "fk_transaction_device"
+DETAIL:  Key (device_identifier)=(DEVICE-PRIYA-001) is not present in table "customer_device".
+
+2026-08-16 17:19:49,656 | ERROR | TRANSACTION | CorrelationId: 2f5373c5-e4bc-4745-93bd-ca6991fe8527 | Persistence failed. Reason: insert or update on table "transaction" violates foreign key constraint "fk_transaction_device"
+DETAIL:  Key (device_identifier)=(DEVICE-ROHAN-001) is not present in table "customer_device".
+
+2026-08-16 17:19:49,659 | ERROR | TRANSACTION | CorrelationId: 89e8581e-70d5-4c4d-8cbd-78e50a358014 | Persistence failed. Reason: insert or update on table "transaction" violates foreign key constraint "fk_transaction_device"
+DETAIL:  Key (device_identifier)=(DEVICE-SNEHA-001) is not present in table "customer_device".
+
+2026-08-16 17:19:49,661 | ERROR | TRANSACTION | CorrelationId: 6db3c67f-21dc-4129-89b4-63fa1062ba20 | Persistence failed. Reason: insert or update on table "transaction" violates foreign key constraint "fk_transaction_device"
+DETAIL:  Key (device_identifier)=(DEVICE-VIKRAM-001) is not present in table "customer_device".
+
+2026-08-16 17:19:49,664 | ERROR | TRANSACTION | CorrelationId: 86c1d919-27f8-4c0b-9fce-c44ad8d838ac | Persistence failed. Reason: insert or update on table "transaction" violates foreign key constraint "fk_transaction_device"
+DETAIL:  Key (device_identifier)=(DEVICE-AARAV-001) is not present in table "customer_device".
+
+2026-08-16 17:19:49,668 | ERROR | TRANSACTION | CorrelationId: 05fc0adf-d89e-4398-9b81-b8538d375ede | Persistence failed. Reason: insert or update on table "transaction" violates foreign key constraint "fk_transaction_device"
+DETAIL:  Key (device_identifier)=(DEVICE-AARAV-002) is not present in table "customer_device".
+
+2026-08-16 17:19:49,670 | ERROR | TRANSACTION | CorrelationId: f1a6e2fc-a1ee-4704-a99b-5d08091d9704 | Persistence failed. Reason: insert or update on table "transaction" violates foreign key constraint "fk_transaction_device"
+DETAIL:  Key (device_identifier)=(DEVICE-PRIYA-001) is not present in table "customer_device".
+
+2026-08-16 17:19:49,673 | ERROR | TRANSACTION | CorrelationId: 19c699e5-d18f-43fa-a1de-ca0d69b4e7d6 | Persistence failed. Reason: insert or update on table "transaction" violates foreign key constraint "fk_transaction_device"
+DETAIL:  Key (device_identifier)=(DEVICE-PRIYA-001) is not present in table "customer_device".
+
+2026-08-16 17:19:49,675 | ERROR | TRANSACTION | CorrelationId: fec83b69-1153-428a-bf8a-2b7732c99bc6 | Persistence failed. Reason: insert or update on table "transaction" violates foreign key constraint "fk_transaction_device"
+DETAIL:  Key (device_identifier)=(DEVICE-ROHAN-001) is not present in table "customer_device".
+
+2026-08-16 17:19:49,678 | ERROR | TRANSACTION | CorrelationId: 430720af-26bd-457e-9369-466ecd545fcd | Persistence failed. Reason: insert or update on table "transaction" violates foreign key constraint "fk_transaction_device"
+DETAIL:  Key (device_identifier)=(DEVICE-SNEHA-001) is not present in table "customer_device".
+
+2026-08-16 17:19:49,680 | ERROR | TRANSACTION | CorrelationId: 2380b106-766c-477e-a25f-f60032f507a4 | Persistence failed. Reason: insert or update on table "transaction" violates foreign key constraint "fk_transaction_device"
+DETAIL:  Key (device_identifier)=(DEVICE-VIKRAM-001) is not present in table "customer_device".
+
+2026-08-16 17:19:49,683 | ERROR | TRANSACTION | CorrelationId: 77680f01-2673-4ebb-8171-0cbe0b04cb89 | Persistence failed. Reason: insert or update on table "transaction" violates foreign key constraint "fk_transaction_device"
+DETAIL:  Key (device_identifier)=(DEVICE-NEHA-001) is not present in table "customer_device".
+
+2026-08-16 17:19:49,686 | ERROR | TRANSACTION | CorrelationId: 1e662e9f-154b-4be8-b82a-959f76964f7d | Persistence failed. Reason: insert or update on table "transaction" violates foreign key constraint "fk_transaction_device"
+DETAIL:  Key (device_identifier)=(DEVICE-KARAN-001) is not present in table "customer_device".
+
+2026-08-16 17:19:49,690 | ERROR | TRANSACTION | CorrelationId: b1305b2a-4e8a-4f44-accc-85e9949971a2 | Persistence failed. Reason: insert or update on table "transaction" violates foreign key constraint "fk_transaction_device"
+DETAIL:  Key (device_identifier)=(DEVICE-MEERA-001) is not present in table "customer_device".
+
+2026-08-16 17:19:49,693 | ERROR | TRANSACTION | CorrelationId: 8660d726-2a45-40aa-89af-6ca51fcb8fdc | Persistence failed. Reason: insert or update on table "transaction" violates foreign key constraint "fk_transaction_device"
+DETAIL:  Key (device_identifier)=(DEVICE-ROHAN-001) is not present in table "customer_device".
+
+2026-08-16 17:19:49,696 | ERROR | TRANSACTION | CorrelationId: 50180b2e-5440-4565-900a-5be15ad92538 | Persistence failed. Reason: insert or update on table "transaction" violates foreign key constraint "fk_transaction_device"
+DETAIL:  Key (device_identifier)=(DEVICE-NEHA-001) is not present in table "customer_device".
+
+2026-08-16 17:28:03,227 | ERROR | CUSTOMER | CorrelationId: ae788b76-09a4-486d-a03c-612a0d97475f | Persistence failed. Reason: duplicate key value violates unique constraint "customer_pkey"
+DETAIL:  Key (customer_id)=(1001) already exists.
+
+2026-08-16 17:28:03,229 | ERROR | CUSTOMER | CorrelationId: 41ce737f-cd93-4f52-9463-adf301c710cc | Persistence failed. Reason: duplicate key value violates unique constraint "customer_pkey"
+DETAIL:  Key (customer_id)=(1002) already exists.
+
+2026-08-16 17:28:03,230 | ERROR | CUSTOMER | CorrelationId: d485cda3-8127-43fe-8385-408c64e214d8 | Persistence failed. Reason: duplicate key value violates unique constraint "customer_pkey"
+DETAIL:  Key (customer_id)=(1003) already exists.
+
+2026-08-16 17:28:03,231 | ERROR | CUSTOMER | CorrelationId: 741e33b5-e8fe-465a-9c62-3e82db646d5c | Persistence failed. Reason: duplicate key value violates unique constraint "customer_pkey"
+DETAIL:  Key (customer_id)=(1004) already exists.
+
+2026-08-16 17:28:03,232 | ERROR | CUSTOMER | CorrelationId: 0cb3f905-b2d2-43ca-9584-97c4fc35acd4 | Persistence failed. Reason: duplicate key value violates unique constraint "customer_pkey"
+DETAIL:  Key (customer_id)=(1005) already exists.
+
+2026-08-16 17:28:03,233 | ERROR | CUSTOMER | CorrelationId: 4fa1cae5-8341-4f01-9379-6efe93760f76 | Persistence failed. Reason: duplicate key value violates unique constraint "customer_pkey"
+DETAIL:  Key (customer_id)=(1006) already exists.
+
+2026-08-16 17:28:03,234 | ERROR | CUSTOMER | CorrelationId: f4aff989-a10a-48d4-9830-0af0122b1a1b | Persistence failed. Reason: duplicate key value violates unique constraint "customer_pkey"
+DETAIL:  Key (customer_id)=(1007) already exists.
+
+2026-08-16 17:28:03,234 | ERROR | CUSTOMER | CorrelationId: 8a70aa94-b1b9-42c2-833d-032929cb1026 | Persistence failed. Reason: duplicate key value violates unique constraint "customer_pkey"
+DETAIL:  Key (customer_id)=(1008) already exists.
+
+2026-08-16 17:28:03,281 | ERROR | ACCOUNT | CorrelationId: b74a66c1-110b-45cf-8f4e-6d4825a95c65 | Persistence failed. Reason: duplicate key value violates unique constraint "account_pkey"
+DETAIL:  Key (account_id)=(5001) already exists.
+
+2026-08-16 17:28:03,329 | ERROR | ACCOUNT | CorrelationId: 80b6421d-985a-4884-8dc4-fe40f788de30 | Persistence failed. Reason: duplicate key value violates unique constraint "account_pkey"
+DETAIL:  Key (account_id)=(5002) already exists.
+
+2026-08-16 17:28:03,377 | ERROR | ACCOUNT | CorrelationId: 9c2bfc04-6d9b-4ac9-ad1e-fff329fbd950 | Persistence failed. Reason: duplicate key value violates unique constraint "account_pkey"
+DETAIL:  Key (account_id)=(5003) already exists.
+
+2026-08-16 17:28:03,425 | ERROR | ACCOUNT | CorrelationId: 90e61a88-9662-449d-8924-f8d7b0581a5b | Persistence failed. Reason: duplicate key value violates unique constraint "account_pkey"
+DETAIL:  Key (account_id)=(5004) already exists.
+
+2026-08-16 17:28:03,470 | ERROR | ACCOUNT | CorrelationId: 779bcad1-31d1-4d44-a506-0a763753dd54 | Persistence failed. Reason: duplicate key value violates unique constraint "account_pkey"
+DETAIL:  Key (account_id)=(5005) already exists.
+
+2026-08-16 17:28:03,519 | ERROR | ACCOUNT | CorrelationId: 2594e9d2-6277-45c5-ae6e-56ebc91e5b21 | Persistence failed. Reason: duplicate key value violates unique constraint "account_pkey"
+DETAIL:  Key (account_id)=(5006) already exists.
+
+2026-08-16 17:28:03,564 | ERROR | ACCOUNT | CorrelationId: d0f14716-5480-4900-8e6f-2327d41cf060 | Persistence failed. Reason: duplicate key value violates unique constraint "account_pkey"
+DETAIL:  Key (account_id)=(5007) already exists.
+
+2026-08-16 17:28:03,611 | ERROR | ACCOUNT | CorrelationId: 88b0592e-9006-4970-9a57-0b832b7a9ffb | Persistence failed. Reason: duplicate key value violates unique constraint "account_pkey"
+DETAIL:  Key (account_id)=(5008) already exists.
+
+2026-08-16 17:28:03,658 | ERROR | ACCOUNT | CorrelationId: fc708e82-5b11-4ecd-ae69-13d4867c98cf | Persistence failed. Reason: duplicate key value violates unique constraint "account_pkey"
+DETAIL:  Key (account_id)=(5009) already exists.
+
+2026-08-16 17:28:03,704 | ERROR | ACCOUNT | CorrelationId: 9445eefb-1b2c-4a93-976c-b66beffdaa35 | Persistence failed. Reason: duplicate key value violates unique constraint "account_pkey"
+DETAIL:  Key (account_id)=(5010) already exists.
+
+2026-08-16 17:28:03,737 | ERROR | BENEFICIARY | CorrelationId: 3ea5d20b-d64d-4457-b491-181c237c1268 | Persistence failed. Reason: duplicate key value violates unique constraint "beneficiary_pkey"
+DETAIL:  Key (beneficiary_id)=(7001) already exists.
+
+2026-08-16 17:28:03,739 | ERROR | BENEFICIARY | CorrelationId: 65cf7b1d-4e68-43da-95ff-0963d2e198cf | Persistence failed. Reason: duplicate key value violates unique constraint "beneficiary_pkey"
+DETAIL:  Key (beneficiary_id)=(7002) already exists.
+
+2026-08-16 17:28:03,741 | ERROR | BENEFICIARY | CorrelationId: 15b680fe-98e2-4cbc-af02-febab8296307 | Persistence failed. Reason: duplicate key value violates unique constraint "beneficiary_pkey"
+DETAIL:  Key (beneficiary_id)=(7003) already exists.
+
+2026-08-16 17:28:03,746 | ERROR | BENEFICIARY | CorrelationId: cc8ed7ee-ad82-4909-b0d7-6bb3b094b65f | Persistence failed. Reason: duplicate key value violates unique constraint "beneficiary_pkey"
+DETAIL:  Key (beneficiary_id)=(7004) already exists.
+
+2026-08-16 17:28:03,749 | ERROR | BENEFICIARY | CorrelationId: 29277be6-8b37-4a9a-8900-7b228a59db88 | Persistence failed. Reason: duplicate key value violates unique constraint "beneficiary_pkey"
+DETAIL:  Key (beneficiary_id)=(7005) already exists.
+
+2026-08-16 17:28:03,752 | ERROR | BENEFICIARY | CorrelationId: 0299ea9a-7a21-4028-8086-366842a115ee | Persistence failed. Reason: duplicate key value violates unique constraint "beneficiary_pkey"
+DETAIL:  Key (beneficiary_id)=(7006) already exists.
+
+2026-08-16 17:28:03,754 | ERROR | BENEFICIARY | CorrelationId: 539b9d28-1687-4f40-aaaa-9d392007a129 | Persistence failed. Reason: duplicate key value violates unique constraint "beneficiary_pkey"
+DETAIL:  Key (beneficiary_id)=(7007) already exists.
+
+2026-08-16 17:28:03,756 | ERROR | BENEFICIARY | CorrelationId: 1a6dd953-93e7-4e38-9711-dc76f724558d | Persistence failed. Reason: duplicate key value violates unique constraint "beneficiary_pkey"
+DETAIL:  Key (beneficiary_id)=(7008) already exists.
+
+2026-08-16 17:28:03,759 | ERROR | BENEFICIARY | CorrelationId: 47c61c77-9b12-45a7-a8ec-f62c38092736 | Persistence failed. Reason: duplicate key value violates unique constraint "beneficiary_pkey"
+DETAIL:  Key (beneficiary_id)=(7009) already exists.
+
+2026-08-16 17:28:03,761 | ERROR | BENEFICIARY | CorrelationId: f0f48971-ccad-4aee-ace6-9a2de0a0be74 | Persistence failed. Reason: duplicate key value violates unique constraint "beneficiary_pkey"
+DETAIL:  Key (beneficiary_id)=(7010) already exists.
+
+2026-08-16 17:28:03,763 | ERROR | BENEFICIARY | CorrelationId: e00223bf-6928-4932-814a-b516d0966fb2 | Persistence failed. Reason: duplicate key value violates unique constraint "beneficiary_pkey"
+DETAIL:  Key (beneficiary_id)=(7011) already exists.
+
+2026-08-16 17:28:03,769 | ERROR | CUSTOMER_DEVICE | CorrelationId: 5ba345d9-a4b2-4cd6-a534-9e1df781adc8 | Persistence failed. Reason: 'deviceId'
+2026-08-16 17:28:03,771 | ERROR | CUSTOMER_DEVICE | CorrelationId: f6f10aaa-1d69-40b5-92b8-5c5727c2f2f2 | Persistence failed. Reason: 'deviceId'
+2026-08-16 17:28:03,774 | ERROR | CUSTOMER_DEVICE | CorrelationId: 4f98ca7e-ab69-4c3b-89ca-8456c1a0d3e8 | Persistence failed. Reason: 'deviceId'
+2026-08-16 17:28:03,776 | ERROR | CUSTOMER_DEVICE | CorrelationId: 73b72d6d-c466-4ebd-a0da-228444e404d0 | Persistence failed. Reason: 'deviceId'
+2026-08-16 17:28:03,778 | ERROR | CUSTOMER_DEVICE | CorrelationId: ce33e2a8-dfe8-4296-8d28-d5950e3532f4 | Persistence failed. Reason: 'deviceId'
+2026-08-16 17:28:03,780 | ERROR | CUSTOMER_DEVICE | CorrelationId: c13be841-1a39-43eb-8666-b9c6344ea0ff | Persistence failed. Reason: 'deviceId'
+2026-08-16 17:28:03,782 | ERROR | CUSTOMER_DEVICE | CorrelationId: 5b355657-2f37-4232-befe-5bd0662f6969 | Persistence failed. Reason: 'deviceId'
+2026-08-16 17:28:03,784 | ERROR | CUSTOMER_DEVICE | CorrelationId: 23af076b-ddd5-462d-a54e-bcc68b95d973 | Persistence failed. Reason: 'deviceId'
+2026-08-16 17:28:03,786 | ERROR | CUSTOMER_DEVICE | CorrelationId: de73b083-21f6-442a-83ed-35e192d39f29 | Persistence failed. Reason: 'deviceId'
+2026-08-16 17:28:03,866 | ERROR | TRANSACTION | CorrelationId: 6a6796a5-5bf5-48ef-9a89-2bb5ba0f1524 | Persistence failed. Reason: insert or update on table "transaction" violates foreign key constraint "fk_transaction_device"
+DETAIL:  Key (device_identifier)=(DEVICE-AARAV-001) is not present in table "customer_device".
+
+2026-08-16 17:28:03,902 | ERROR | TRANSACTION | CorrelationId: 541a50a5-3fb3-4a48-8f6e-9210bbe06d50 | Persistence failed. Reason: insert or update on table "transaction" violates foreign key constraint "fk_transaction_device"
+DETAIL:  Key (device_identifier)=(DEVICE-AARAV-001) is not present in table "customer_device".
+
+2026-08-16 17:28:03,945 | ERROR | TRANSACTION | CorrelationId: 25fe5e96-1860-4d62-83cc-2121153f9450 | Persistence failed. Reason: insert or update on table "transaction" violates foreign key constraint "fk_transaction_device"
+DETAIL:  Key (device_identifier)=(DEVICE-AARAV-002) is not present in table "customer_device".
+
+2026-08-16 17:28:03,990 | ERROR | TRANSACTION | CorrelationId: ce9575d5-c402-4f39-851f-8a3c7265e9c5 | Persistence failed. Reason: insert or update on table "transaction" violates foreign key constraint "fk_transaction_device"
+DETAIL:  Key (device_identifier)=(DEVICE-PRIYA-001) is not present in table "customer_device".
+
+2026-08-16 17:28:04,040 | ERROR | TRANSACTION | CorrelationId: 719c7857-85ad-4c9e-bafc-9f59399b31a8 | Persistence failed. Reason: insert or update on table "transaction" violates foreign key constraint "fk_transaction_device"
+DETAIL:  Key (device_identifier)=(DEVICE-PRIYA-001) is not present in table "customer_device".
+
+2026-08-16 17:28:04,084 | ERROR | TRANSACTION | CorrelationId: ccaee505-9296-4f15-88bd-bc944ca4783a | Persistence failed. Reason: insert or update on table "transaction" violates foreign key constraint "fk_transaction_device"
+DETAIL:  Key (device_identifier)=(DEVICE-ROHAN-001) is not present in table "customer_device".
+
+2026-08-16 17:28:04,128 | ERROR | TRANSACTION | CorrelationId: 17b309ff-c3da-409d-aac1-f98220be07ff | Persistence failed. Reason: insert or update on table "transaction" violates foreign key constraint "fk_transaction_device"
+DETAIL:  Key (device_identifier)=(DEVICE-SNEHA-001) is not present in table "customer_device".
+
+2026-08-16 17:28:04,175 | ERROR | TRANSACTION | CorrelationId: 0880b228-cabe-4785-878d-ac53d774c173 | Persistence failed. Reason: insert or update on table "transaction" violates foreign key constraint "fk_transaction_device"
+DETAIL:  Key (device_identifier)=(DEVICE-VIKRAM-001) is not present in table "customer_device".
+
+2026-08-16 17:28:04,223 | ERROR | TRANSACTION | CorrelationId: 255d67f4-376b-49d0-8ef1-4b2721295a27 | Persistence failed. Reason: insert or update on table "transaction" violates foreign key constraint "fk_transaction_device"
+DETAIL:  Key (device_identifier)=(DEVICE-AARAV-001) is not present in table "customer_device".
+
+2026-08-16 17:28:04,270 | ERROR | TRANSACTION | CorrelationId: 1ac52f88-7d0a-466f-9179-b9b8db558e4f | Persistence failed. Reason: insert or update on table "transaction" violates foreign key constraint "fk_transaction_device"
+DETAIL:  Key (device_identifier)=(DEVICE-AARAV-002) is not present in table "customer_device".
+
+2026-08-16 17:28:04,315 | ERROR | TRANSACTION | CorrelationId: d010de6b-6192-478b-83af-d86e681c6fa8 | Persistence failed. Reason: insert or update on table "transaction" violates foreign key constraint "fk_transaction_device"
+DETAIL:  Key (device_identifier)=(DEVICE-PRIYA-001) is not present in table "customer_device".
+
+2026-08-16 17:28:04,360 | ERROR | TRANSACTION | CorrelationId: 702d48b0-a1f3-45df-a8b6-654e02de420b | Persistence failed. Reason: insert or update on table "transaction" violates foreign key constraint "fk_transaction_device"
+DETAIL:  Key (device_identifier)=(DEVICE-PRIYA-001) is not present in table "customer_device".
+
+2026-08-16 17:28:04,406 | ERROR | TRANSACTION | CorrelationId: 51a550e2-5a8e-416e-aeec-6b02cc65b053 | Persistence failed. Reason: insert or update on table "transaction" violates foreign key constraint "fk_transaction_device"
+DETAIL:  Key (device_identifier)=(DEVICE-ROHAN-001) is not present in table "customer_device".
+
+2026-08-16 17:28:04,451 | ERROR | TRANSACTION | CorrelationId: 4e5dc0f8-0c08-476b-898f-68b315828d9c | Persistence failed. Reason: insert or update on table "transaction" violates foreign key constraint "fk_transaction_device"
+DETAIL:  Key (device_identifier)=(DEVICE-SNEHA-001) is not present in table "customer_device".
+
+2026-08-16 17:28:04,493 | ERROR | TRANSACTION | CorrelationId: 820172dd-742b-4ca4-a96e-b528d0ddee44 | Persistence failed. Reason: insert or update on table "transaction" violates foreign key constraint "fk_transaction_device"
+DETAIL:  Key (device_identifier)=(DEVICE-VIKRAM-001) is not present in table "customer_device".
+
+2026-08-16 17:28:04,542 | ERROR | TRANSACTION | CorrelationId: 5450e8ae-3717-45e8-a15f-133ad8824856 | Persistence failed. Reason: insert or update on table "transaction" violates foreign key constraint "fk_transaction_device"
+DETAIL:  Key (device_identifier)=(DEVICE-NEHA-001) is not present in table "customer_device".
+
+2026-08-16 17:28:04,589 | ERROR | TRANSACTION | CorrelationId: 7039f4ac-c550-42f8-b8d9-454726e57a88 | Persistence failed. Reason: insert or update on table "transaction" violates foreign key constraint "fk_transaction_device"
+DETAIL:  Key (device_identifier)=(DEVICE-KARAN-001) is not present in table "customer_device".
+
+2026-08-16 17:28:04,634 | ERROR | TRANSACTION | CorrelationId: fe521c66-e86e-455c-a13e-7cb6a077b4eb | Persistence failed. Reason: insert or update on table "transaction" violates foreign key constraint "fk_transaction_device"
+DETAIL:  Key (device_identifier)=(DEVICE-MEERA-001) is not present in table "customer_device".
+
+2026-08-16 17:28:04,678 | ERROR | TRANSACTION | CorrelationId: ca55d823-09b5-48bd-8a07-b6f57fe90016 | Persistence failed. Reason: insert or update on table "transaction" violates foreign key constraint "fk_transaction_device"
+DETAIL:  Key (device_identifier)=(DEVICE-ROHAN-001) is not present in table "customer_device".
+
+2026-08-16 17:28:04,723 | ERROR | TRANSACTION | CorrelationId: 5c73abe8-5d4e-4cdf-b6b4-691e276fea20 | Persistence failed. Reason: insert or update on table "transaction" violates foreign key constraint "fk_transaction_device"
+DETAIL:  Key (device_identifier)=(DEVICE-NEHA-001) is not present in table "customer_device".
+
+2026-08-16 17:28:26,609 | INFO | CUSTOMER_DEVICE | CorrelationId: 6336cac7-0e49-4e02-b6b1-ca4c38f36cf4 | DEVICE-AARAV-001 persisted successfully.
+2026-08-16 17:28:26,618 | INFO | CUSTOMER_DEVICE | CorrelationId: 41758267-4c49-4a33-b15c-7cf62bca4602 | DEVICE-AARAV-002 persisted successfully.
+2026-08-16 17:28:26,627 | INFO | CUSTOMER_DEVICE | CorrelationId: f6089cac-09f9-4318-9531-87e33467fea3 | DEVICE-PRIYA-001 persisted successfully.
+2026-08-16 17:28:26,635 | INFO | CUSTOMER_DEVICE | CorrelationId: e363357e-09ba-470a-9288-808af08d1613 | DEVICE-ROHAN-001 persisted successfully.
+2026-08-16 17:28:26,643 | INFO | CUSTOMER_DEVICE | CorrelationId: d171c357-6961-49d6-b205-45cae1dbfbb5 | DEVICE-SNEHA-001 persisted successfully.
+2026-08-16 17:28:26,651 | INFO | CUSTOMER_DEVICE | CorrelationId: c91e5d54-d145-4e6c-b15a-4e16e39d4c51 | DEVICE-VIKRAM-001 persisted successfully.
+2026-08-16 17:28:26,659 | INFO | CUSTOMER_DEVICE | CorrelationId: d59ec3d0-5e5e-4c9b-b51c-b0578b5b4cda | DEVICE-NEHA-001 persisted successfully.
+2026-08-16 17:28:26,667 | INFO | CUSTOMER_DEVICE | CorrelationId: 28651936-1ae9-4390-b25a-883730968e05 | DEVICE-KARAN-001 persisted successfully.
+2026-08-16 17:28:26,675 | INFO | CUSTOMER_DEVICE | CorrelationId: 675f0159-1655-4d64-989b-03197be4e9c3 | DEVICE-MEERA-001 persisted successfully.
+2026-08-16 17:28:26,686 | INFO | TRANSACTION | CorrelationId: 5e88929a-7a55-4a67-9a4b-09392fd2334e | 10001 persisted successfully.
+2026-08-16 17:28:26,695 | INFO | TRANSACTION | CorrelationId: 4c8a975d-3f18-4c8e-830f-1193becdd893 | 10002 persisted successfully.
+2026-08-16 17:28:26,703 | INFO | TRANSACTION | CorrelationId: e0f46fd3-a049-4787-90de-45fe684ca922 | 10003 persisted successfully.
+2026-08-16 17:28:26,711 | INFO | TRANSACTION | CorrelationId: a5adc19c-ef4d-44c5-aea0-8385c2742164 | 10004 persisted successfully.
+2026-08-16 17:28:26,721 | INFO | TRANSACTION | CorrelationId: 9f19ffd8-e1ea-45ac-997a-e83408a0313c | 10005 persisted successfully.
+2026-08-16 17:28:26,730 | INFO | TRANSACTION | CorrelationId: d950291f-70f2-449f-9ff2-db243f18397d | 10006 persisted successfully.
+2026-08-16 17:28:26,738 | INFO | TRANSACTION | CorrelationId: 7a808194-5adb-4bad-9511-d642bf8ec2f5 | 10007 persisted successfully.
+2026-08-16 17:28:26,747 | INFO | TRANSACTION | CorrelationId: 2bad32ae-c126-45fc-a34a-e15d72d5c682 | 10008 persisted successfully.
+2026-08-16 17:28:26,755 | INFO | TRANSACTION | CorrelationId: 57d10634-a458-497d-8453-4c33d8d9350e | 10009 persisted successfully.
+2026-08-16 17:28:26,763 | INFO | TRANSACTION | CorrelationId: 1a9b1856-f475-4f5a-b312-551d48f33127 | 10010 persisted successfully.
+2026-08-16 17:28:26,771 | INFO | TRANSACTION | CorrelationId: dd3e004b-99aa-424b-9fb2-ad5d55f8c64e | 10011 persisted successfully.
+2026-08-16 17:28:26,780 | INFO | TRANSACTION | CorrelationId: 48e2329b-4f1d-4003-aca0-83926e1eac74 | 10012 persisted successfully.
+2026-08-16 17:28:26,787 | INFO | TRANSACTION | CorrelationId: 81441476-a0f4-435d-85b9-40aa99307d42 | 10013 persisted successfully.
+2026-08-16 17:28:26,795 | INFO | TRANSACTION | CorrelationId: ebdf21b4-b0a3-40d1-aa6e-7f2b065a6c4a | 10014 persisted successfully.
+2026-08-16 17:28:26,804 | INFO | TRANSACTION | CorrelationId: 7abed764-3c6b-49de-a3d4-33dadbef0aa4 | 10015 persisted successfully.
+2026-08-16 17:28:26,812 | INFO | TRANSACTION | CorrelationId: bcb25456-e856-4e56-ba4f-b50605e3ffc7 | 10016 persisted successfully.
+2026-08-16 17:28:26,820 | INFO | TRANSACTION | CorrelationId: df780102-53a9-419a-95d2-a8b9d99333e1 | 10017 persisted successfully.
+2026-08-16 17:28:26,832 | INFO | TRANSACTION | CorrelationId: bbf73510-d971-42f1-a86b-114e902b4827 | 10018 persisted successfully.
+2026-08-16 17:28:26,841 | INFO | TRANSACTION | CorrelationId: 2b2e1ac4-0471-43e2-8ea1-088325da8e8c | 10019 persisted successfully.
+2026-08-16 17:28:26,849 | INFO | TRANSACTION | CorrelationId: 29e00bc6-8ec9-4950-aa7a-48ecd026cd2a | 10020 persisted successfully.
+2026-08-16 17:28:26,851 | ERROR | CUSTOMER | CorrelationId: f28366e4-d831-4a90-9fba-eb8374196dce | Persistence failed. Reason: duplicate key value violates unique constraint "customer_pkey"
+DETAIL:  Key (customer_id)=(1001) already exists.
+
+2026-08-16 17:28:26,852 | ERROR | CUSTOMER | CorrelationId: de9e6b69-6b1a-4062-81e6-cf04d9f7dfa9 | Persistence failed. Reason: duplicate key value violates unique constraint "customer_pkey"
+DETAIL:  Key (customer_id)=(1002) already exists.
+
+2026-08-16 17:28:26,853 | ERROR | CUSTOMER | CorrelationId: bb031d28-2622-40f5-80c1-d2998bf9de93 | Persistence failed. Reason: duplicate key value violates unique constraint "customer_pkey"
+DETAIL:  Key (customer_id)=(1003) already exists.
+
+2026-08-16 17:28:26,853 | ERROR | CUSTOMER | CorrelationId: 93f73455-d251-4212-84d5-085be4db0df3 | Persistence failed. Reason: duplicate key value violates unique constraint "customer_pkey"
+DETAIL:  Key (customer_id)=(1004) already exists.
+
+2026-08-16 17:28:26,853 | ERROR | CUSTOMER | CorrelationId: 22fc2e4c-a7d9-4fee-a591-99414c91be91 | Persistence failed. Reason: duplicate key value violates unique constraint "customer_pkey"
+DETAIL:  Key (customer_id)=(1005) already exists.
+
+2026-08-16 17:28:26,854 | ERROR | CUSTOMER | CorrelationId: 7065884b-2717-46ec-8c75-5976ffb15389 | Persistence failed. Reason: duplicate key value violates unique constraint "customer_pkey"
+DETAIL:  Key (customer_id)=(1006) already exists.
+
+2026-08-16 17:28:26,854 | ERROR | CUSTOMER | CorrelationId: bea8f7bb-6405-4add-8b84-e80121f2f87d | Persistence failed. Reason: duplicate key value violates unique constraint "customer_pkey"
+DETAIL:  Key (customer_id)=(1007) already exists.
+
+2026-08-16 17:28:26,855 | ERROR | CUSTOMER | CorrelationId: bd12bce6-7e90-457e-84dd-af31dc315013 | Persistence failed. Reason: duplicate key value violates unique constraint "customer_pkey"
+DETAIL:  Key (customer_id)=(1008) already exists.
+
+2026-08-16 17:28:26,856 | ERROR | ACCOUNT | CorrelationId: d4ebcbb2-3ccd-4218-89c8-9632f9dd0ce8 | Persistence failed. Reason: duplicate key value violates unique constraint "account_pkey"
+DETAIL:  Key (account_id)=(5001) already exists.
+
+2026-08-16 17:28:26,856 | ERROR | ACCOUNT | CorrelationId: 982802d6-54fa-46f6-a3be-3dac2004464a | Persistence failed. Reason: duplicate key value violates unique constraint "account_pkey"
+DETAIL:  Key (account_id)=(5002) already exists.
+
+2026-08-16 17:28:26,857 | ERROR | ACCOUNT | CorrelationId: ae3079d6-e2a5-431e-ad9f-cf32bd9362cc | Persistence failed. Reason: duplicate key value violates unique constraint "account_pkey"
+DETAIL:  Key (account_id)=(5003) already exists.
+
+2026-08-16 17:28:26,857 | ERROR | ACCOUNT | CorrelationId: 125da685-9005-4202-8639-2e89443d5dc4 | Persistence failed. Reason: duplicate key value violates unique constraint "account_pkey"
+DETAIL:  Key (account_id)=(5004) already exists.
+
+2026-08-16 17:28:26,858 | ERROR | ACCOUNT | CorrelationId: d2cd7ee7-c271-4ed5-a490-b10ee5b7fb11 | Persistence failed. Reason: duplicate key value violates unique constraint "account_pkey"
+DETAIL:  Key (account_id)=(5005) already exists.
+
+2026-08-16 17:28:26,858 | ERROR | ACCOUNT | CorrelationId: 99f6fe62-f544-407d-8f82-b04497284f61 | Persistence failed. Reason: duplicate key value violates unique constraint "account_pkey"
+DETAIL:  Key (account_id)=(5006) already exists.
+
+2026-08-16 17:28:26,859 | ERROR | ACCOUNT | CorrelationId: 878dd1d0-5914-4a6b-b469-e23c883a826b | Persistence failed. Reason: duplicate key value violates unique constraint "account_pkey"
+DETAIL:  Key (account_id)=(5007) already exists.
+
+2026-08-16 17:28:26,859 | ERROR | ACCOUNT | CorrelationId: a28d340c-6a2c-4136-b1b6-1a5ee25ae4ae | Persistence failed. Reason: duplicate key value violates unique constraint "account_pkey"
+DETAIL:  Key (account_id)=(5008) already exists.
+
+2026-08-16 17:28:26,860 | ERROR | ACCOUNT | CorrelationId: 61277ff0-7bc9-4895-8f8a-d6fec69180a0 | Persistence failed. Reason: duplicate key value violates unique constraint "account_pkey"
+DETAIL:  Key (account_id)=(5009) already exists.
+
+2026-08-16 17:28:26,860 | ERROR | ACCOUNT | CorrelationId: 938b1f10-6f3e-43a9-99d0-e33011a6ba4f | Persistence failed. Reason: duplicate key value violates unique constraint "account_pkey"
+DETAIL:  Key (account_id)=(5010) already exists.
+
+2026-08-16 17:28:26,861 | ERROR | BENEFICIARY | CorrelationId: 37bd5b18-4ac1-46df-8a46-9c9c107623cb | Persistence failed. Reason: duplicate key value violates unique constraint "beneficiary_pkey"
+DETAIL:  Key (beneficiary_id)=(7001) already exists.
+
+2026-08-16 17:28:26,861 | ERROR | BENEFICIARY | CorrelationId: c5df3d84-a93a-41e7-8a14-ea2bbcc6391f | Persistence failed. Reason: duplicate key value violates unique constraint "beneficiary_pkey"
+DETAIL:  Key (beneficiary_id)=(7002) already exists.
+
+2026-08-16 17:28:26,861 | ERROR | BENEFICIARY | CorrelationId: c46821b3-98bb-413c-a331-1b807ee88af7 | Persistence failed. Reason: duplicate key value violates unique constraint "beneficiary_pkey"
+DETAIL:  Key (beneficiary_id)=(7003) already exists.
+
+2026-08-16 17:28:26,862 | ERROR | BENEFICIARY | CorrelationId: 56e17793-7c7b-4f90-9539-8058035ae6ab | Persistence failed. Reason: duplicate key value violates unique constraint "beneficiary_pkey"
+DETAIL:  Key (beneficiary_id)=(7004) already exists.
+
+2026-08-16 17:28:26,862 | ERROR | BENEFICIARY | CorrelationId: 8be64225-bfad-422a-ba25-7e6f37be65d4 | Persistence failed. Reason: duplicate key value violates unique constraint "beneficiary_pkey"
+DETAIL:  Key (beneficiary_id)=(7005) already exists.
+
+2026-08-16 17:28:26,863 | ERROR | BENEFICIARY | CorrelationId: d322c69c-89f3-4f83-8eee-8d47c7284133 | Persistence failed. Reason: duplicate key value violates unique constraint "beneficiary_pkey"
+DETAIL:  Key (beneficiary_id)=(7006) already exists.
+
+2026-08-16 17:28:26,863 | ERROR | BENEFICIARY | CorrelationId: 8e211d59-afe8-4525-b7c2-ef1b6dd5c777 | Persistence failed. Reason: duplicate key value violates unique constraint "beneficiary_pkey"
+DETAIL:  Key (beneficiary_id)=(7007) already exists.
+
+2026-08-16 17:28:26,864 | ERROR | BENEFICIARY | CorrelationId: 49ed4a78-06f6-4696-ad60-2751871944f3 | Persistence failed. Reason: duplicate key value violates unique constraint "beneficiary_pkey"
+DETAIL:  Key (beneficiary_id)=(7008) already exists.
+
+2026-08-16 17:28:26,864 | ERROR | BENEFICIARY | CorrelationId: 02711b0a-60eb-4700-a112-bbae4b96a1ab | Persistence failed. Reason: duplicate key value violates unique constraint "beneficiary_pkey"
+DETAIL:  Key (beneficiary_id)=(7009) already exists.
+
+2026-08-16 17:28:26,865 | ERROR | BENEFICIARY | CorrelationId: 44427975-0e76-4b98-8574-7d34ac9f7568 | Persistence failed. Reason: duplicate key value violates unique constraint "beneficiary_pkey"
+DETAIL:  Key (beneficiary_id)=(7010) already exists.
+
+2026-08-16 17:28:26,866 | ERROR | BENEFICIARY | CorrelationId: c15d0859-90fc-45d6-9a09-d541d83ab97b | Persistence failed. Reason: duplicate key value violates unique constraint "beneficiary_pkey"
+DETAIL:  Key (beneficiary_id)=(7011) already exists.
+
+2026-08-16 17:28:26,866 | ERROR | TRANSACTION | CorrelationId: eae00d29-f579-42eb-918a-ebe7161a0727 | Persistence failed. Reason: duplicate key value violates unique constraint "transactions_pkey"
+DETAIL:  Key (transaction_id)=(10001) already exists.
+
+2026-08-16 17:28:26,867 | ERROR | TRANSACTION | CorrelationId: 27b37b5d-1f3a-486b-a696-a1bed718bae0 | Persistence failed. Reason: duplicate key value violates unique constraint "transactions_pkey"
+DETAIL:  Key (transaction_id)=(10002) already exists.
+
+2026-08-16 17:28:26,867 | ERROR | TRANSACTION | CorrelationId: 963ede6c-7297-4760-9912-5b8d0360f4c5 | Persistence failed. Reason: duplicate key value violates unique constraint "transactions_pkey"
+DETAIL:  Key (transaction_id)=(10003) already exists.
+
+2026-08-16 17:28:26,868 | ERROR | TRANSACTION | CorrelationId: d5f58b87-837b-488b-b47b-8ada00a7e4ac | Persistence failed. Reason: duplicate key value violates unique constraint "transactions_pkey"
+DETAIL:  Key (transaction_id)=(10004) already exists.
+
+2026-08-16 17:28:26,868 | ERROR | TRANSACTION | CorrelationId: a84d8234-c04b-4656-b2d7-779e31619d61 | Persistence failed. Reason: duplicate key value violates unique constraint "transactions_pkey"
+DETAIL:  Key (transaction_id)=(10005) already exists.
+
+2026-08-16 17:28:26,869 | ERROR | TRANSACTION | CorrelationId: ed9fa701-b73f-43dc-9d3c-f54e64efb09c | Persistence failed. Reason: duplicate key value violates unique constraint "transactions_pkey"
+DETAIL:  Key (transaction_id)=(10006) already exists.
+
+2026-08-16 17:28:26,869 | ERROR | TRANSACTION | CorrelationId: 864f66fc-4d1b-419c-9015-6be474251e94 | Persistence failed. Reason: duplicate key value violates unique constraint "transactions_pkey"
+DETAIL:  Key (transaction_id)=(10007) already exists.
+
+2026-08-16 17:28:26,869 | ERROR | TRANSACTION | CorrelationId: 3f75503e-233d-4ccf-9f4e-9b8965ea7bc6 | Persistence failed. Reason: duplicate key value violates unique constraint "transactions_pkey"
+DETAIL:  Key (transaction_id)=(10008) already exists.
+
+2026-08-16 17:28:26,870 | ERROR | TRANSACTION | CorrelationId: e2a4ce35-70fa-4abf-9717-c8accb7edb52 | Persistence failed. Reason: duplicate key value violates unique constraint "transactions_pkey"
+DETAIL:  Key (transaction_id)=(10009) already exists.
+
+2026-08-16 17:28:26,870 | ERROR | TRANSACTION | CorrelationId: bc718cdd-988b-4ea2-9be2-93472cf1e37c | Persistence failed. Reason: duplicate key value violates unique constraint "transactions_pkey"
+DETAIL:  Key (transaction_id)=(10010) already exists.
+
+2026-08-16 17:28:26,871 | ERROR | TRANSACTION | CorrelationId: 69ffaad7-9307-4c17-a2ce-bf8f9ac73bb2 | Persistence failed. Reason: duplicate key value violates unique constraint "transactions_pkey"
+DETAIL:  Key (transaction_id)=(10011) already exists.
+
+2026-08-16 17:28:26,872 | ERROR | TRANSACTION | CorrelationId: 4e14c61d-9ffc-4fca-ba64-f9035845dcb6 | Persistence failed. Reason: duplicate key value violates unique constraint "transactions_pkey"
+DETAIL:  Key (transaction_id)=(10012) already exists.
+
+2026-08-16 17:28:26,872 | ERROR | TRANSACTION | CorrelationId: e0f0aeee-9102-4bb6-87d5-8d823ef08673 | Persistence failed. Reason: duplicate key value violates unique constraint "transactions_pkey"
+DETAIL:  Key (transaction_id)=(10013) already exists.
+
+2026-08-16 17:28:26,873 | ERROR | TRANSACTION | CorrelationId: 46f101e5-9615-46cd-8366-1febfb9f0cd8 | Persistence failed. Reason: duplicate key value violates unique constraint "transactions_pkey"
+DETAIL:  Key (transaction_id)=(10014) already exists.
+
+2026-08-16 17:28:26,873 | ERROR | TRANSACTION | CorrelationId: 06d0da31-7d01-4673-805f-906059c8a3f9 | Persistence failed. Reason: duplicate key value violates unique constraint "transactions_pkey"
+DETAIL:  Key (transaction_id)=(10015) already exists.
+
+2026-08-16 17:28:26,874 | ERROR | TRANSACTION | CorrelationId: a1b1e906-8332-4305-8279-0955d2ce9b36 | Persistence failed. Reason: duplicate key value violates unique constraint "transactions_pkey"
+DETAIL:  Key (transaction_id)=(10016) already exists.
+
+2026-08-16 17:28:26,874 | ERROR | TRANSACTION | CorrelationId: e94ab9d3-0ebf-4fd3-8f94-0cfe4d6590de | Persistence failed. Reason: duplicate key value violates unique constraint "transactions_pkey"
+DETAIL:  Key (transaction_id)=(10017) already exists.
+
+2026-08-16 17:28:26,875 | ERROR | TRANSACTION | CorrelationId: 5330adcd-5255-4280-9142-5091aaa33954 | Persistence failed. Reason: duplicate key value violates unique constraint "transactions_pkey"
+DETAIL:  Key (transaction_id)=(10018) already exists.
+
+2026-08-16 17:28:26,875 | ERROR | TRANSACTION | CorrelationId: 862e3469-6166-42d7-9c4f-3efc502e3033 | Persistence failed. Reason: duplicate key value violates unique constraint "transactions_pkey"
+DETAIL:  Key (transaction_id)=(10019) already exists.
+
+2026-08-16 17:28:26,876 | ERROR | TRANSACTION | CorrelationId: 9be49116-dbdc-4784-9062-4d01c9367c6e | Persistence failed. Reason: duplicate key value violates unique constraint "transactions_pkey"
+DETAIL:  Key (transaction_id)=(10020) already exists.
+
+2026-08-16 17:28:26,877 | ERROR | CUSTOMER | CorrelationId: 5ba77d66-2aaa-42ac-a9dc-fdf1c921e6e2 | Persistence failed. Reason: duplicate key value violates unique constraint "customer_pkey"
+DETAIL:  Key (customer_id)=(1001) already exists.
+
+2026-08-16 17:28:26,878 | ERROR | CUSTOMER | CorrelationId: 04c44356-2d66-4dc8-80a7-0e33fa18bf77 | Persistence failed. Reason: duplicate key value violates unique constraint "customer_pkey"
+DETAIL:  Key (customer_id)=(1002) already exists.
+
+2026-08-16 17:28:26,878 | ERROR | CUSTOMER | CorrelationId: 5ac57f48-9e5a-4e0e-9ee7-bb3acd1033bb | Persistence failed. Reason: duplicate key value violates unique constraint "customer_pkey"
+DETAIL:  Key (customer_id)=(1003) already exists.
+
+2026-08-16 17:28:26,879 | ERROR | CUSTOMER | CorrelationId: 20f69dd8-d361-4d5a-8905-bf3163d26268 | Persistence failed. Reason: duplicate key value violates unique constraint "customer_pkey"
+DETAIL:  Key (customer_id)=(1004) already exists.
+
+2026-08-16 17:28:26,880 | ERROR | CUSTOMER | CorrelationId: 053ee71f-d114-47a4-880c-98f477b487d0 | Persistence failed. Reason: duplicate key value violates unique constraint "customer_pkey"
+DETAIL:  Key (customer_id)=(1005) already exists.
+
+2026-08-16 17:28:26,880 | ERROR | CUSTOMER | CorrelationId: 7e127c47-7acc-4804-b60a-b12f3ff5740f | Persistence failed. Reason: duplicate key value violates unique constraint "customer_pkey"
+DETAIL:  Key (customer_id)=(1006) already exists.
+
+2026-08-16 17:28:26,881 | ERROR | CUSTOMER | CorrelationId: 2ac2cd34-f31d-43ac-9cf8-28476fe61b0a | Persistence failed. Reason: duplicate key value violates unique constraint "customer_pkey"
+DETAIL:  Key (customer_id)=(1007) already exists.
+
+2026-08-16 17:28:26,881 | ERROR | CUSTOMER | CorrelationId: 8ffa33c1-f6af-4ea7-9eb6-e2f5e473b541 | Persistence failed. Reason: duplicate key value violates unique constraint "customer_pkey"
+DETAIL:  Key (customer_id)=(1008) already exists.
+
+2026-08-16 17:28:26,882 | ERROR | ACCOUNT | CorrelationId: 66890692-d76c-47db-ae00-e576ec273645 | Persistence failed. Reason: duplicate key value violates unique constraint "account_pkey"
+DETAIL:  Key (account_id)=(5001) already exists.
+
+2026-08-16 17:28:26,883 | ERROR | ACCOUNT | CorrelationId: 09e3d75a-af9e-4138-95e1-99d2a0419a14 | Persistence failed. Reason: duplicate key value violates unique constraint "account_pkey"
+DETAIL:  Key (account_id)=(5002) already exists.
+
+2026-08-16 17:28:26,884 | ERROR | ACCOUNT | CorrelationId: 0fc7eef0-3caa-44bb-9e49-854f033eb53e | Persistence failed. Reason: duplicate key value violates unique constraint "account_pkey"
+DETAIL:  Key (account_id)=(5003) already exists.
+
+2026-08-16 17:28:26,884 | ERROR | ACCOUNT | CorrelationId: bce680be-377a-4254-98df-9cbfa0978ef3 | Persistence failed. Reason: duplicate key value violates unique constraint "account_pkey"
+DETAIL:  Key (account_id)=(5004) already exists.
+
+2026-08-16 17:28:26,886 | ERROR | ACCOUNT | CorrelationId: 3735dd95-bfe0-4d32-8e35-fab11b4511e2 | Persistence failed. Reason: duplicate key value violates unique constraint "account_pkey"
+DETAIL:  Key (account_id)=(5005) already exists.
+
+2026-08-16 17:28:26,886 | ERROR | ACCOUNT | CorrelationId: 029fd128-e37f-46bf-a05d-502b4d332aa2 | Persistence failed. Reason: duplicate key value violates unique constraint "account_pkey"
+DETAIL:  Key (account_id)=(5006) already exists.
+
+2026-08-16 17:28:26,887 | ERROR | ACCOUNT | CorrelationId: d03f0289-96f4-41e4-9ade-4eba5dd1a95a | Persistence failed. Reason: duplicate key value violates unique constraint "account_pkey"
+DETAIL:  Key (account_id)=(5007) already exists.
+
+2026-08-16 17:28:26,887 | ERROR | ACCOUNT | CorrelationId: 52e4a31e-9a4d-403c-a31a-48ca2de0cc26 | Persistence failed. Reason: duplicate key value violates unique constraint "account_pkey"
+DETAIL:  Key (account_id)=(5008) already exists.
+
+2026-08-16 17:28:26,888 | ERROR | ACCOUNT | CorrelationId: 046ef814-5767-463a-9381-121fe18b2a3a | Persistence failed. Reason: duplicate key value violates unique constraint "account_pkey"
+DETAIL:  Key (account_id)=(5009) already exists.
+
+2026-08-16 17:28:26,888 | ERROR | ACCOUNT | CorrelationId: 6e210c98-19a0-48e5-b394-5ad866f51780 | Persistence failed. Reason: duplicate key value violates unique constraint "account_pkey"
+DETAIL:  Key (account_id)=(5010) already exists.
+
+2026-08-16 17:28:26,889 | ERROR | BENEFICIARY | CorrelationId: 9af894f5-06e0-4417-87f2-4427a7355904 | Persistence failed. Reason: duplicate key value violates unique constraint "beneficiary_pkey"
+DETAIL:  Key (beneficiary_id)=(7001) already exists.
+
+2026-08-16 17:28:26,889 | ERROR | BENEFICIARY | CorrelationId: 56990d6b-448f-4d88-bafd-3c7d61a5588d | Persistence failed. Reason: duplicate key value violates unique constraint "beneficiary_pkey"
+DETAIL:  Key (beneficiary_id)=(7002) already exists.
+
+2026-08-16 17:28:26,890 | ERROR | BENEFICIARY | CorrelationId: b08aee25-67ac-48c2-b1aa-5a1fbfbc7586 | Persistence failed. Reason: duplicate key value violates unique constraint "beneficiary_pkey"
+DETAIL:  Key (beneficiary_id)=(7003) already exists.
+
+2026-08-16 17:28:26,891 | ERROR | BENEFICIARY | CorrelationId: 4b580f47-0357-4692-a823-2352ad913b60 | Persistence failed. Reason: duplicate key value violates unique constraint "beneficiary_pkey"
+DETAIL:  Key (beneficiary_id)=(7004) already exists.
+
+2026-08-16 17:28:26,891 | ERROR | BENEFICIARY | CorrelationId: 3427c1df-3aa2-4ac0-b6aa-d4870eacbd63 | Persistence failed. Reason: duplicate key value violates unique constraint "beneficiary_pkey"
+DETAIL:  Key (beneficiary_id)=(7005) already exists.
+
+2026-08-16 17:28:26,892 | ERROR | BENEFICIARY | CorrelationId: c9a5638b-0a8f-4e25-9c15-f2c444d9d2dc | Persistence failed. Reason: duplicate key value violates unique constraint "beneficiary_pkey"
+DETAIL:  Key (beneficiary_id)=(7006) already exists.
+
+2026-08-16 17:28:26,892 | ERROR | BENEFICIARY | CorrelationId: 353d3578-9a96-472a-bdb9-4a692e299b00 | Persistence failed. Reason: duplicate key value violates unique constraint "beneficiary_pkey"
+DETAIL:  Key (beneficiary_id)=(7007) already exists.
+
+2026-08-16 17:28:26,893 | ERROR | BENEFICIARY | CorrelationId: 772eb30f-ab76-4032-a05b-ad455f8494b5 | Persistence failed. Reason: duplicate key value violates unique constraint "beneficiary_pkey"
+DETAIL:  Key (beneficiary_id)=(7008) already exists.
+
+2026-08-16 17:28:26,893 | ERROR | BENEFICIARY | CorrelationId: b6884618-c771-4d32-9d92-670649ef6020 | Persistence failed. Reason: duplicate key value violates unique constraint "beneficiary_pkey"
+DETAIL:  Key (beneficiary_id)=(7009) already exists.
+
+2026-08-16 17:28:26,894 | ERROR | BENEFICIARY | CorrelationId: fa9d8fe6-9312-43d4-955c-3b6183e6aa71 | Persistence failed. Reason: duplicate key value violates unique constraint "beneficiary_pkey"
+DETAIL:  Key (beneficiary_id)=(7010) already exists.
+
+2026-08-16 17:28:26,894 | ERROR | BENEFICIARY | CorrelationId: bde8fa54-fdcd-4336-b410-7265cfa3f07d | Persistence failed. Reason: duplicate key value violates unique constraint "beneficiary_pkey"
+DETAIL:  Key (beneficiary_id)=(7011) already exists.
+
+2026-08-16 17:28:26,894 | ERROR | TRANSACTION | CorrelationId: 1994a44d-3587-4a7b-bd9c-063b47c466f7 | Persistence failed. Reason: duplicate key value violates unique constraint "transactions_pkey"
+DETAIL:  Key (transaction_id)=(10001) already exists.
+
+2026-08-16 17:28:26,895 | ERROR | TRANSACTION | CorrelationId: 657a6d32-62cb-4449-98e5-94ca0b0cd549 | Persistence failed. Reason: duplicate key value violates unique constraint "transactions_pkey"
+DETAIL:  Key (transaction_id)=(10002) already exists.
+
+2026-08-16 17:28:26,895 | ERROR | TRANSACTION | CorrelationId: c21ea2d2-7c2f-4379-9018-25eeae4926d6 | Persistence failed. Reason: duplicate key value violates unique constraint "transactions_pkey"
+DETAIL:  Key (transaction_id)=(10003) already exists.
+
+2026-08-16 17:28:26,896 | ERROR | TRANSACTION | CorrelationId: cfad6139-b3cd-4c4d-8321-282a2b3e0760 | Persistence failed. Reason: duplicate key value violates unique constraint "transactions_pkey"
+DETAIL:  Key (transaction_id)=(10004) already exists.
+
+2026-08-16 17:28:26,896 | ERROR | TRANSACTION | CorrelationId: f28d647e-0ff2-45c9-a7dd-2703370ffc95 | Persistence failed. Reason: duplicate key value violates unique constraint "transactions_pkey"
+DETAIL:  Key (transaction_id)=(10005) already exists.
+
+2026-08-16 17:28:26,897 | ERROR | TRANSACTION | CorrelationId: 9c9d22c1-bda7-4d89-b879-152f21a60307 | Persistence failed. Reason: duplicate key value violates unique constraint "transactions_pkey"
+DETAIL:  Key (transaction_id)=(10006) already exists.
+
+2026-08-16 17:28:26,898 | ERROR | TRANSACTION | CorrelationId: a49d31c9-f05c-42ea-a9cb-20f591aa2a58 | Persistence failed. Reason: duplicate key value violates unique constraint "transactions_pkey"
+DETAIL:  Key (transaction_id)=(10007) already exists.
+
+2026-08-16 17:28:26,899 | ERROR | TRANSACTION | CorrelationId: 0d450da3-da45-439f-b6b9-48e55d72b953 | Persistence failed. Reason: duplicate key value violates unique constraint "transactions_pkey"
+DETAIL:  Key (transaction_id)=(10008) already exists.
+
+2026-08-16 17:28:26,900 | ERROR | TRANSACTION | CorrelationId: ae5ea8cd-dc7f-4122-8feb-030aa84350ba | Persistence failed. Reason: duplicate key value violates unique constraint "transactions_pkey"
+DETAIL:  Key (transaction_id)=(10009) already exists.
+
+2026-08-16 17:28:26,900 | ERROR | TRANSACTION | CorrelationId: 865d487d-4832-4cf2-8e9a-c0655530cc90 | Persistence failed. Reason: duplicate key value violates unique constraint "transactions_pkey"
+DETAIL:  Key (transaction_id)=(10010) already exists.
+
+2026-08-16 17:28:26,901 | ERROR | TRANSACTION | CorrelationId: ce3c83fa-af41-4a2e-82e7-20e91da373bd | Persistence failed. Reason: duplicate key value violates unique constraint "transactions_pkey"
+DETAIL:  Key (transaction_id)=(10011) already exists.
+
+2026-08-16 17:28:26,901 | ERROR | TRANSACTION | CorrelationId: bf0b51a6-4171-45eb-81af-63f68a497375 | Persistence failed. Reason: duplicate key value violates unique constraint "transactions_pkey"
+DETAIL:  Key (transaction_id)=(10012) already exists.
+
+2026-08-16 17:28:26,901 | ERROR | TRANSACTION | CorrelationId: b89f521c-bfb0-4e78-8f85-9767361b056d | Persistence failed. Reason: duplicate key value violates unique constraint "transactions_pkey"
+DETAIL:  Key (transaction_id)=(10013) already exists.
+
+2026-08-16 17:28:26,902 | ERROR | TRANSACTION | CorrelationId: efcf3da8-06f4-4e55-a5dd-71f4f150a943 | Persistence failed. Reason: duplicate key value violates unique constraint "transactions_pkey"
+DETAIL:  Key (transaction_id)=(10014) already exists.
+
+2026-08-16 17:28:26,902 | ERROR | TRANSACTION | CorrelationId: 7c8de35c-2531-48f6-a4cb-54c68e74e6b0 | Persistence failed. Reason: duplicate key value violates unique constraint "transactions_pkey"
+DETAIL:  Key (transaction_id)=(10015) already exists.
+
+2026-08-16 17:28:26,903 | ERROR | TRANSACTION | CorrelationId: d407f88a-6de5-4af3-97ab-608489900c7b | Persistence failed. Reason: duplicate key value violates unique constraint "transactions_pkey"
+DETAIL:  Key (transaction_id)=(10016) already exists.
+
+2026-08-16 17:28:26,903 | ERROR | TRANSACTION | CorrelationId: c24f84f7-987f-4f28-ba64-109d9d959409 | Persistence failed. Reason: duplicate key value violates unique constraint "transactions_pkey"
+DETAIL:  Key (transaction_id)=(10017) already exists.
+
+2026-08-16 17:28:26,904 | ERROR | TRANSACTION | CorrelationId: 96e335f1-2318-4723-bf34-53b458963b46 | Persistence failed. Reason: duplicate key value violates unique constraint "transactions_pkey"
+DETAIL:  Key (transaction_id)=(10018) already exists.
+
+2026-08-16 17:28:26,904 | ERROR | TRANSACTION | CorrelationId: b91bc99c-98d6-4ef6-aa55-1d72f845ceea | Persistence failed. Reason: duplicate key value violates unique constraint "transactions_pkey"
+DETAIL:  Key (transaction_id)=(10019) already exists.
+
+2026-08-16 17:28:26,904 | ERROR | TRANSACTION | CorrelationId: 56d4fab8-200b-42e5-9538-09cf0b17293f | Persistence failed. Reason: duplicate key value violates unique constraint "transactions_pkey"
+DETAIL:  Key (transaction_id)=(10020) already exists.
+
+2026-08-16 17:28:26,905 | ERROR | CUSTOMER | CorrelationId: ffb5b85e-bc78-491d-98eb-79a2129cec98 | Persistence failed. Reason: duplicate key value violates unique constraint "customer_pkey"
+DETAIL:  Key (customer_id)=(1001) already exists.
+
+2026-08-16 17:28:26,905 | ERROR | CUSTOMER | CorrelationId: db01dfda-4bc5-4032-a0f3-71a9bbadf9c7 | Persistence failed. Reason: duplicate key value violates unique constraint "customer_pkey"
+DETAIL:  Key (customer_id)=(1002) already exists.
+
+2026-08-16 17:28:26,906 | ERROR | CUSTOMER | CorrelationId: 7693c788-9e4c-45a3-8ec2-f65f4e5d17b2 | Persistence failed. Reason: duplicate key value violates unique constraint "customer_pkey"
+DETAIL:  Key (customer_id)=(1003) already exists.
+
+2026-08-16 17:28:26,906 | ERROR | CUSTOMER | CorrelationId: 24693783-1286-42b4-b15a-fd474bcba536 | Persistence failed. Reason: duplicate key value violates unique constraint "customer_pkey"
+DETAIL:  Key (customer_id)=(1004) already exists.
+
+2026-08-16 17:28:26,907 | ERROR | CUSTOMER | CorrelationId: e329c111-535b-4360-8bb2-3131d3f6c34c | Persistence failed. Reason: duplicate key value violates unique constraint "customer_pkey"
+DETAIL:  Key (customer_id)=(1005) already exists.
+
+2026-08-16 17:28:26,907 | ERROR | CUSTOMER | CorrelationId: 35fb0ab4-2de3-4957-8fb7-1fa85e74f967 | Persistence failed. Reason: duplicate key value violates unique constraint "customer_pkey"
+DETAIL:  Key (customer_id)=(1006) already exists.
+
+2026-08-16 17:28:26,908 | ERROR | CUSTOMER | CorrelationId: 11b525bc-8a73-47ab-94fc-54cb2ec08d3b | Persistence failed. Reason: duplicate key value violates unique constraint "customer_pkey"
+DETAIL:  Key (customer_id)=(1007) already exists.
+
+2026-08-16 17:28:26,909 | ERROR | CUSTOMER | CorrelationId: 2a5abff0-11eb-4d31-bbb2-a0e6353fcdcf | Persistence failed. Reason: duplicate key value violates unique constraint "customer_pkey"
+DETAIL:  Key (customer_id)=(1008) already exists.
+
+2026-08-16 17:28:26,909 | ERROR | ACCOUNT | CorrelationId: 04831491-9d1e-4919-a585-6481fbb7d70f | Persistence failed. Reason: duplicate key value violates unique constraint "account_pkey"
+DETAIL:  Key (account_id)=(5001) already exists.
+
+2026-08-16 17:28:26,910 | ERROR | ACCOUNT | CorrelationId: 11039ccf-38ca-4b7f-b83e-2af6a2d9f80a | Persistence failed. Reason: duplicate key value violates unique constraint "account_pkey"
+DETAIL:  Key (account_id)=(5002) already exists.
+
+2026-08-16 17:28:26,910 | ERROR | ACCOUNT | CorrelationId: bdf30024-cd2f-43ff-9289-f7b688df51dc | Persistence failed. Reason: duplicate key value violates unique constraint "account_pkey"
+DETAIL:  Key (account_id)=(5003) already exists.
+
+2026-08-16 17:28:26,911 | ERROR | ACCOUNT | CorrelationId: 172f672c-1e18-4509-bc6f-38257cc2f839 | Persistence failed. Reason: duplicate key value violates unique constraint "account_pkey"
+DETAIL:  Key (account_id)=(5004) already exists.
+
+2026-08-16 17:28:26,912 | ERROR | ACCOUNT | CorrelationId: 5e025545-1179-4033-8095-c024055655bb | Persistence failed. Reason: duplicate key value violates unique constraint "account_pkey"
+DETAIL:  Key (account_id)=(5005) already exists.
+
+2026-08-16 17:28:26,912 | ERROR | ACCOUNT | CorrelationId: 8d34a221-441b-4765-b4f5-555567ead526 | Persistence failed. Reason: duplicate key value violates unique constraint "account_pkey"
+DETAIL:  Key (account_id)=(5006) already exists.
+
+2026-08-16 17:28:26,913 | ERROR | ACCOUNT | CorrelationId: 21b42519-a2c7-4f95-b0b6-d68b5a2743ff | Persistence failed. Reason: duplicate key value violates unique constraint "account_pkey"
+DETAIL:  Key (account_id)=(5007) already exists.
+
+2026-08-16 17:28:26,914 | ERROR | ACCOUNT | CorrelationId: 8f005133-e7cc-4d2c-bd7d-19a39c735225 | Persistence failed. Reason: duplicate key value violates unique constraint "account_pkey"
+DETAIL:  Key (account_id)=(5008) already exists.
+
+2026-08-16 17:28:26,914 | ERROR | ACCOUNT | CorrelationId: 32f19ce6-b51b-49d6-ad87-fbc9d694c6d6 | Persistence failed. Reason: duplicate key value violates unique constraint "account_pkey"
+DETAIL:  Key (account_id)=(5009) already exists.
+
+2026-08-16 17:28:26,914 | ERROR | ACCOUNT | CorrelationId: 7fd834e8-d869-4913-93cd-8df3c9b3c5bb | Persistence failed. Reason: duplicate key value violates unique constraint "account_pkey"
+DETAIL:  Key (account_id)=(5010) already exists.
+
+2026-08-16 17:28:26,915 | ERROR | BENEFICIARY | CorrelationId: dbaabdb5-c5fb-495d-9451-b892d1da269c | Persistence failed. Reason: duplicate key value violates unique constraint "beneficiary_pkey"
+DETAIL:  Key (beneficiary_id)=(7001) already exists.
+
+2026-08-16 17:28:26,915 | ERROR | BENEFICIARY | CorrelationId: 09ab51b5-97ba-4160-bfbd-31d1b1bfdd68 | Persistence failed. Reason: duplicate key value violates unique constraint "beneficiary_pkey"
+DETAIL:  Key (beneficiary_id)=(7002) already exists.
+
+2026-08-16 17:28:26,916 | ERROR | BENEFICIARY | CorrelationId: 2c2ebfe8-f382-4c6a-a300-46e06206e18d | Persistence failed. Reason: duplicate key value violates unique constraint "beneficiary_pkey"
+DETAIL:  Key (beneficiary_id)=(7003) already exists.
+
+2026-08-16 17:28:26,916 | ERROR | BENEFICIARY | CorrelationId: 3ca25c88-3c9a-47c8-a4ee-0fb77dc6996d | Persistence failed. Reason: duplicate key value violates unique constraint "beneficiary_pkey"
+DETAIL:  Key (beneficiary_id)=(7004) already exists.
+
+2026-08-16 17:28:26,917 | ERROR | BENEFICIARY | CorrelationId: 9fd25a9c-8eb5-4fb0-a510-00477b564edf | Persistence failed. Reason: duplicate key value violates unique constraint "beneficiary_pkey"
+DETAIL:  Key (beneficiary_id)=(7005) already exists.
+
+2026-08-16 17:28:26,917 | ERROR | BENEFICIARY | CorrelationId: 34da146f-ed7a-4f1c-9a0d-df7f372773d4 | Persistence failed. Reason: duplicate key value violates unique constraint "beneficiary_pkey"
+DETAIL:  Key (beneficiary_id)=(7006) already exists.
+
+2026-08-16 17:28:26,918 | ERROR | BENEFICIARY | CorrelationId: fe2cebc3-1f71-424e-ba69-48c3c78d16d3 | Persistence failed. Reason: duplicate key value violates unique constraint "beneficiary_pkey"
+DETAIL:  Key (beneficiary_id)=(7007) already exists.
+
+2026-08-16 17:28:26,918 | ERROR | BENEFICIARY | CorrelationId: 7ae8a8a3-67dd-443e-9e27-f4712a86e271 | Persistence failed. Reason: duplicate key value violates unique constraint "beneficiary_pkey"
+DETAIL:  Key (beneficiary_id)=(7008) already exists.
+
+2026-08-16 17:28:26,919 | ERROR | BENEFICIARY | CorrelationId: f764b17e-24d0-4336-924c-191d8c8ee316 | Persistence failed. Reason: duplicate key value violates unique constraint "beneficiary_pkey"
+DETAIL:  Key (beneficiary_id)=(7009) already exists.
+
+2026-08-16 17:28:26,919 | ERROR | BENEFICIARY | CorrelationId: c86a170d-dfe6-46b0-bff2-b601c101731b | Persistence failed. Reason: duplicate key value violates unique constraint "beneficiary_pkey"
+DETAIL:  Key (beneficiary_id)=(7010) already exists.
+
+2026-08-16 17:28:26,920 | ERROR | BENEFICIARY | CorrelationId: 753c1d7b-e3fc-457f-b7ba-ed8ea44aab89 | Persistence failed. Reason: duplicate key value violates unique constraint "beneficiary_pkey"
+DETAIL:  Key (beneficiary_id)=(7011) already exists.
+
+2026-08-16 17:28:26,921 | ERROR | CUSTOMER_DEVICE | CorrelationId: 01c2bf94-fcb6-41b4-a098-a9b7bcd80bc9 | Persistence failed. Reason: duplicate key value violates unique constraint "customer_device_pkey"
+DETAIL:  Key (device_identifier)=(DEVICE-AARAV-001) already exists.
+
+2026-08-16 17:28:26,921 | ERROR | CUSTOMER_DEVICE | CorrelationId: 2935dd71-330d-41d1-ab7c-854a65852f79 | Persistence failed. Reason: duplicate key value violates unique constraint "customer_device_pkey"
+DETAIL:  Key (device_identifier)=(DEVICE-AARAV-002) already exists.
+
+2026-08-16 17:28:26,922 | ERROR | CUSTOMER_DEVICE | CorrelationId: be4d1bc5-ef7f-48f2-813f-bca4025314aa | Persistence failed. Reason: duplicate key value violates unique constraint "customer_device_pkey"
+DETAIL:  Key (device_identifier)=(DEVICE-PRIYA-001) already exists.
+
+2026-08-16 17:28:26,923 | ERROR | CUSTOMER_DEVICE | CorrelationId: 1ae3f536-d44c-4243-a34b-65b4d84f6eb8 | Persistence failed. Reason: duplicate key value violates unique constraint "customer_device_pkey"
+DETAIL:  Key (device_identifier)=(DEVICE-ROHAN-001) already exists.
+
+2026-08-16 17:28:26,923 | ERROR | CUSTOMER_DEVICE | CorrelationId: ffdb4be8-ca5c-492e-a007-77b3dd33e3a1 | Persistence failed. Reason: duplicate key value violates unique constraint "customer_device_pkey"
+DETAIL:  Key (device_identifier)=(DEVICE-SNEHA-001) already exists.
+
+2026-08-16 17:28:26,924 | ERROR | CUSTOMER_DEVICE | CorrelationId: a705e510-a475-43c7-9849-d5d1b95adc9a | Persistence failed. Reason: duplicate key value violates unique constraint "customer_device_pkey"
+DETAIL:  Key (device_identifier)=(DEVICE-VIKRAM-001) already exists.
+
+2026-08-16 17:28:26,924 | ERROR | CUSTOMER_DEVICE | CorrelationId: 504a3620-aee4-4582-9c2d-9dcaeda210ec | Persistence failed. Reason: duplicate key value violates unique constraint "customer_device_pkey"
+DETAIL:  Key (device_identifier)=(DEVICE-NEHA-001) already exists.
+
+2026-08-16 17:28:26,925 | ERROR | CUSTOMER_DEVICE | CorrelationId: 35f08855-8be9-4311-aada-459cca42bd80 | Persistence failed. Reason: duplicate key value violates unique constraint "customer_device_pkey"
+DETAIL:  Key (device_identifier)=(DEVICE-KARAN-001) already exists.
+
+2026-08-16 17:28:26,925 | ERROR | CUSTOMER_DEVICE | CorrelationId: c05bf262-08b3-4517-9472-eb3a339775d9 | Persistence failed. Reason: duplicate key value violates unique constraint "customer_device_pkey"
+DETAIL:  Key (device_identifier)=(DEVICE-MEERA-001) already exists.
+
+2026-08-16 17:28:26,926 | ERROR | TRANSACTION | CorrelationId: 0f441a8b-a163-4b37-9e25-334607bbab65 | Persistence failed. Reason: duplicate key value violates unique constraint "transactions_pkey"
+DETAIL:  Key (transaction_id)=(10001) already exists.
+
+2026-08-16 17:28:26,927 | ERROR | TRANSACTION | CorrelationId: a81af96e-407d-46c7-8331-6e0e8e812f9a | Persistence failed. Reason: duplicate key value violates unique constraint "transactions_pkey"
+DETAIL:  Key (transaction_id)=(10002) already exists.
+
+2026-08-16 17:28:26,928 | ERROR | TRANSACTION | CorrelationId: 152a800c-a613-4319-a1d2-69fdb5d5ca73 | Persistence failed. Reason: duplicate key value violates unique constraint "transactions_pkey"
+DETAIL:  Key (transaction_id)=(10003) already exists.
+
+2026-08-16 17:28:26,928 | ERROR | TRANSACTION | CorrelationId: 4e8af850-8a29-4039-a259-af7b27dd2ba4 | Persistence failed. Reason: duplicate key value violates unique constraint "transactions_pkey"
+DETAIL:  Key (transaction_id)=(10004) already exists.
+
+2026-08-16 17:28:26,929 | ERROR | TRANSACTION | CorrelationId: cf6179c4-45fb-4dc7-b411-d3a5f621dfbb | Persistence failed. Reason: duplicate key value violates unique constraint "transactions_pkey"
+DETAIL:  Key (transaction_id)=(10005) already exists.
+
+2026-08-16 17:28:26,930 | ERROR | TRANSACTION | CorrelationId: 2f5373c5-e4bc-4745-93bd-ca6991fe8527 | Persistence failed. Reason: duplicate key value violates unique constraint "transactions_pkey"
+DETAIL:  Key (transaction_id)=(10006) already exists.
+
+2026-08-16 17:28:26,930 | ERROR | TRANSACTION | CorrelationId: 89e8581e-70d5-4c4d-8cbd-78e50a358014 | Persistence failed. Reason: duplicate key value violates unique constraint "transactions_pkey"
+DETAIL:  Key (transaction_id)=(10007) already exists.
+
+2026-08-16 17:28:26,931 | ERROR | TRANSACTION | CorrelationId: 6db3c67f-21dc-4129-89b4-63fa1062ba20 | Persistence failed. Reason: duplicate key value violates unique constraint "transactions_pkey"
+DETAIL:  Key (transaction_id)=(10008) already exists.
+
+2026-08-16 17:28:26,931 | ERROR | TRANSACTION | CorrelationId: 86c1d919-27f8-4c0b-9fce-c44ad8d838ac | Persistence failed. Reason: duplicate key value violates unique constraint "transactions_pkey"
+DETAIL:  Key (transaction_id)=(10009) already exists.
+
+2026-08-16 17:28:26,932 | ERROR | TRANSACTION | CorrelationId: 05fc0adf-d89e-4398-9b81-b8538d375ede | Persistence failed. Reason: duplicate key value violates unique constraint "transactions_pkey"
+DETAIL:  Key (transaction_id)=(10010) already exists.
+
+2026-08-16 17:28:26,932 | ERROR | TRANSACTION | CorrelationId: f1a6e2fc-a1ee-4704-a99b-5d08091d9704 | Persistence failed. Reason: duplicate key value violates unique constraint "transactions_pkey"
+DETAIL:  Key (transaction_id)=(10011) already exists.
+
+2026-08-16 17:28:26,933 | ERROR | TRANSACTION | CorrelationId: 19c699e5-d18f-43fa-a1de-ca0d69b4e7d6 | Persistence failed. Reason: duplicate key value violates unique constraint "transactions_pkey"
+DETAIL:  Key (transaction_id)=(10012) already exists.
+
+2026-08-16 17:28:26,933 | ERROR | TRANSACTION | CorrelationId: fec83b69-1153-428a-bf8a-2b7732c99bc6 | Persistence failed. Reason: duplicate key value violates unique constraint "transactions_pkey"
+DETAIL:  Key (transaction_id)=(10013) already exists.
+
+2026-08-16 17:28:26,934 | ERROR | TRANSACTION | CorrelationId: 430720af-26bd-457e-9369-466ecd545fcd | Persistence failed. Reason: duplicate key value violates unique constraint "transactions_pkey"
+DETAIL:  Key (transaction_id)=(10014) already exists.
+
+2026-08-16 17:28:26,934 | ERROR | TRANSACTION | CorrelationId: 2380b106-766c-477e-a25f-f60032f507a4 | Persistence failed. Reason: duplicate key value violates unique constraint "transactions_pkey"
+DETAIL:  Key (transaction_id)=(10015) already exists.
+
+2026-08-16 17:28:26,935 | ERROR | TRANSACTION | CorrelationId: 77680f01-2673-4ebb-8171-0cbe0b04cb89 | Persistence failed. Reason: duplicate key value violates unique constraint "transactions_pkey"
+DETAIL:  Key (transaction_id)=(10016) already exists.
+
+2026-08-16 17:28:26,936 | ERROR | TRANSACTION | CorrelationId: 1e662e9f-154b-4be8-b82a-959f76964f7d | Persistence failed. Reason: duplicate key value violates unique constraint "transactions_pkey"
+DETAIL:  Key (transaction_id)=(10017) already exists.
+
+2026-08-16 17:28:26,936 | ERROR | TRANSACTION | CorrelationId: b1305b2a-4e8a-4f44-accc-85e9949971a2 | Persistence failed. Reason: duplicate key value violates unique constraint "transactions_pkey"
+DETAIL:  Key (transaction_id)=(10018) already exists.
+
+2026-08-16 17:28:26,937 | ERROR | TRANSACTION | CorrelationId: 8660d726-2a45-40aa-89af-6ca51fcb8fdc | Persistence failed. Reason: duplicate key value violates unique constraint "transactions_pkey"
+DETAIL:  Key (transaction_id)=(10019) already exists.
+
+2026-08-16 17:28:26,937 | ERROR | TRANSACTION | CorrelationId: 50180b2e-5440-4565-900a-5be15ad92538 | Persistence failed. Reason: duplicate key value violates unique constraint "transactions_pkey"
+DETAIL:  Key (transaction_id)=(10020) already exists.
+
+2026-08-16 17:28:26,938 | ERROR | CUSTOMER | CorrelationId: ae788b76-09a4-486d-a03c-612a0d97475f | Persistence failed. Reason: duplicate key value violates unique constraint "customer_pkey"
+DETAIL:  Key (customer_id)=(1001) already exists.
+
+2026-08-16 17:28:26,938 | ERROR | CUSTOMER | CorrelationId: 41ce737f-cd93-4f52-9463-adf301c710cc | Persistence failed. Reason: duplicate key value violates unique constraint "customer_pkey"
+DETAIL:  Key (customer_id)=(1002) already exists.
+
+2026-08-16 17:28:26,939 | ERROR | CUSTOMER | CorrelationId: d485cda3-8127-43fe-8385-408c64e214d8 | Persistence failed. Reason: duplicate key value violates unique constraint "customer_pkey"
+DETAIL:  Key (customer_id)=(1003) already exists.
+
+2026-08-16 17:28:26,939 | ERROR | CUSTOMER | CorrelationId: 741e33b5-e8fe-465a-9c62-3e82db646d5c | Persistence failed. Reason: duplicate key value violates unique constraint "customer_pkey"
+DETAIL:  Key (customer_id)=(1004) already exists.
+
+2026-08-16 17:28:26,941 | ERROR | CUSTOMER | CorrelationId: 0cb3f905-b2d2-43ca-9584-97c4fc35acd4 | Persistence failed. Reason: duplicate key value violates unique constraint "customer_pkey"
+DETAIL:  Key (customer_id)=(1005) already exists.
+
+2026-08-16 17:28:26,942 | ERROR | CUSTOMER | CorrelationId: 4fa1cae5-8341-4f01-9379-6efe93760f76 | Persistence failed. Reason: duplicate key value violates unique constraint "customer_pkey"
+DETAIL:  Key (customer_id)=(1006) already exists.
+
+2026-08-16 17:28:26,942 | ERROR | CUSTOMER | CorrelationId: f4aff989-a10a-48d4-9830-0af0122b1a1b | Persistence failed. Reason: duplicate key value violates unique constraint "customer_pkey"
+DETAIL:  Key (customer_id)=(1007) already exists.
+
+2026-08-16 17:28:26,943 | ERROR | CUSTOMER | CorrelationId: 8a70aa94-b1b9-42c2-833d-032929cb1026 | Persistence failed. Reason: duplicate key value violates unique constraint "customer_pkey"
+DETAIL:  Key (customer_id)=(1008) already exists.
+
+2026-08-16 17:28:26,944 | ERROR | ACCOUNT | CorrelationId: b74a66c1-110b-45cf-8f4e-6d4825a95c65 | Persistence failed. Reason: duplicate key value violates unique constraint "account_pkey"
+DETAIL:  Key (account_id)=(5001) already exists.
+
+2026-08-16 17:28:26,944 | ERROR | ACCOUNT | CorrelationId: 80b6421d-985a-4884-8dc4-fe40f788de30 | Persistence failed. Reason: duplicate key value violates unique constraint "account_pkey"
+DETAIL:  Key (account_id)=(5002) already exists.
+
+2026-08-16 17:28:26,944 | ERROR | ACCOUNT | CorrelationId: 9c2bfc04-6d9b-4ac9-ad1e-fff329fbd950 | Persistence failed. Reason: duplicate key value violates unique constraint "account_pkey"
+DETAIL:  Key (account_id)=(5003) already exists.
+
+2026-08-16 17:28:26,945 | ERROR | ACCOUNT | CorrelationId: 90e61a88-9662-449d-8924-f8d7b0581a5b | Persistence failed. Reason: duplicate key value violates unique constraint "account_pkey"
+DETAIL:  Key (account_id)=(5004) already exists.
+
+2026-08-16 17:28:26,945 | ERROR | ACCOUNT | CorrelationId: 779bcad1-31d1-4d44-a506-0a763753dd54 | Persistence failed. Reason: duplicate key value violates unique constraint "account_pkey"
+DETAIL:  Key (account_id)=(5005) already exists.
+
+2026-08-16 17:28:26,946 | ERROR | ACCOUNT | CorrelationId: 2594e9d2-6277-45c5-ae6e-56ebc91e5b21 | Persistence failed. Reason: duplicate key value violates unique constraint "account_pkey"
+DETAIL:  Key (account_id)=(5006) already exists.
+
+2026-08-16 17:28:26,946 | ERROR | ACCOUNT | CorrelationId: d0f14716-5480-4900-8e6f-2327d41cf060 | Persistence failed. Reason: duplicate key value violates unique constraint "account_pkey"
+DETAIL:  Key (account_id)=(5007) already exists.
+
+2026-08-16 17:28:26,947 | ERROR | ACCOUNT | CorrelationId: 88b0592e-9006-4970-9a57-0b832b7a9ffb | Persistence failed. Reason: duplicate key value violates unique constraint "account_pkey"
+DETAIL:  Key (account_id)=(5008) already exists.
+
+2026-08-16 17:28:26,947 | ERROR | ACCOUNT | CorrelationId: fc708e82-5b11-4ecd-ae69-13d4867c98cf | Persistence failed. Reason: duplicate key value violates unique constraint "account_pkey"
+DETAIL:  Key (account_id)=(5009) already exists.
+
+2026-08-16 17:28:26,948 | ERROR | ACCOUNT | CorrelationId: 9445eefb-1b2c-4a93-976c-b66beffdaa35 | Persistence failed. Reason: duplicate key value violates unique constraint "account_pkey"
+DETAIL:  Key (account_id)=(5010) already exists.
+
+2026-08-16 17:28:26,949 | ERROR | BENEFICIARY | CorrelationId: 3ea5d20b-d64d-4457-b491-181c237c1268 | Persistence failed. Reason: duplicate key value violates unique constraint "beneficiary_pkey"
+DETAIL:  Key (beneficiary_id)=(7001) already exists.
+
+2026-08-16 17:28:26,949 | ERROR | BENEFICIARY | CorrelationId: 65cf7b1d-4e68-43da-95ff-0963d2e198cf | Persistence failed. Reason: duplicate key value violates unique constraint "beneficiary_pkey"
+DETAIL:  Key (beneficiary_id)=(7002) already exists.
+
+2026-08-16 17:28:26,950 | ERROR | BENEFICIARY | CorrelationId: 15b680fe-98e2-4cbc-af02-febab8296307 | Persistence failed. Reason: duplicate key value violates unique constraint "beneficiary_pkey"
+DETAIL:  Key (beneficiary_id)=(7003) already exists.
+
+2026-08-16 17:28:26,951 | ERROR | BENEFICIARY | CorrelationId: cc8ed7ee-ad82-4909-b0d7-6bb3b094b65f | Persistence failed. Reason: duplicate key value violates unique constraint "beneficiary_pkey"
+DETAIL:  Key (beneficiary_id)=(7004) already exists.
+
+2026-08-16 17:28:26,951 | ERROR | BENEFICIARY | CorrelationId: 29277be6-8b37-4a9a-8900-7b228a59db88 | Persistence failed. Reason: duplicate key value violates unique constraint "beneficiary_pkey"
+DETAIL:  Key (beneficiary_id)=(7005) already exists.
+
+2026-08-16 17:28:26,952 | ERROR | BENEFICIARY | CorrelationId: 0299ea9a-7a21-4028-8086-366842a115ee | Persistence failed. Reason: duplicate key value violates unique constraint "beneficiary_pkey"
+DETAIL:  Key (beneficiary_id)=(7006) already exists.
+
+2026-08-16 17:28:26,953 | ERROR | BENEFICIARY | CorrelationId: 539b9d28-1687-4f40-aaaa-9d392007a129 | Persistence failed. Reason: duplicate key value violates unique constraint "beneficiary_pkey"
+DETAIL:  Key (beneficiary_id)=(7007) already exists.
+
+2026-08-16 17:28:26,953 | ERROR | BENEFICIARY | CorrelationId: 1a6dd953-93e7-4e38-9711-dc76f724558d | Persistence failed. Reason: duplicate key value violates unique constraint "beneficiary_pkey"
+DETAIL:  Key (beneficiary_id)=(7008) already exists.
+
+2026-08-16 17:28:26,954 | ERROR | BENEFICIARY | CorrelationId: 47c61c77-9b12-45a7-a8ec-f62c38092736 | Persistence failed. Reason: duplicate key value violates unique constraint "beneficiary_pkey"
+DETAIL:  Key (beneficiary_id)=(7009) already exists.
+
+2026-08-16 17:28:26,954 | ERROR | BENEFICIARY | CorrelationId: f0f48971-ccad-4aee-ace6-9a2de0a0be74 | Persistence failed. Reason: duplicate key value violates unique constraint "beneficiary_pkey"
+DETAIL:  Key (beneficiary_id)=(7010) already exists.
+
+2026-08-16 17:28:26,955 | ERROR | BENEFICIARY | CorrelationId: e00223bf-6928-4932-814a-b516d0966fb2 | Persistence failed. Reason: duplicate key value violates unique constraint "beneficiary_pkey"
+DETAIL:  Key (beneficiary_id)=(7011) already exists.
+
+2026-08-16 17:28:26,956 | ERROR | CUSTOMER_DEVICE | CorrelationId: 5ba345d9-a4b2-4cd6-a534-9e1df781adc8 | Persistence failed. Reason: duplicate key value violates unique constraint "customer_device_pkey"
+DETAIL:  Key (device_identifier)=(DEVICE-AARAV-001) already exists.
+
+2026-08-16 17:28:26,957 | ERROR | CUSTOMER_DEVICE | CorrelationId: f6f10aaa-1d69-40b5-92b8-5c5727c2f2f2 | Persistence failed. Reason: duplicate key value violates unique constraint "customer_device_pkey"
+DETAIL:  Key (device_identifier)=(DEVICE-AARAV-002) already exists.
+
+2026-08-16 17:28:26,958 | ERROR | CUSTOMER_DEVICE | CorrelationId: 4f98ca7e-ab69-4c3b-89ca-8456c1a0d3e8 | Persistence failed. Reason: duplicate key value violates unique constraint "customer_device_pkey"
+DETAIL:  Key (device_identifier)=(DEVICE-PRIYA-001) already exists.
+
+2026-08-16 17:28:26,958 | ERROR | CUSTOMER_DEVICE | CorrelationId: 73b72d6d-c466-4ebd-a0da-228444e404d0 | Persistence failed. Reason: duplicate key value violates unique constraint "customer_device_pkey"
+DETAIL:  Key (device_identifier)=(DEVICE-ROHAN-001) already exists.
+
+2026-08-16 17:28:26,959 | ERROR | CUSTOMER_DEVICE | CorrelationId: ce33e2a8-dfe8-4296-8d28-d5950e3532f4 | Persistence failed. Reason: duplicate key value violates unique constraint "customer_device_pkey"
+DETAIL:  Key (device_identifier)=(DEVICE-SNEHA-001) already exists.
+
+2026-08-16 17:28:26,960 | ERROR | CUSTOMER_DEVICE | CorrelationId: c13be841-1a39-43eb-8666-b9c6344ea0ff | Persistence failed. Reason: duplicate key value violates unique constraint "customer_device_pkey"
+DETAIL:  Key (device_identifier)=(DEVICE-VIKRAM-001) already exists.
+
+2026-08-16 17:28:26,961 | ERROR | CUSTOMER_DEVICE | CorrelationId: 5b355657-2f37-4232-befe-5bd0662f6969 | Persistence failed. Reason: duplicate key value violates unique constraint "customer_device_pkey"
+DETAIL:  Key (device_identifier)=(DEVICE-NEHA-001) already exists.
+
+2026-08-16 17:28:26,964 | ERROR | CUSTOMER_DEVICE | CorrelationId: 23af076b-ddd5-462d-a54e-bcc68b95d973 | Persistence failed. Reason: duplicate key value violates unique constraint "customer_device_pkey"
+DETAIL:  Key (device_identifier)=(DEVICE-KARAN-001) already exists.
+
+2026-08-16 17:28:26,966 | ERROR | CUSTOMER_DEVICE | CorrelationId: de73b083-21f6-442a-83ed-35e192d39f29 | Persistence failed. Reason: duplicate key value violates unique constraint "customer_device_pkey"
+DETAIL:  Key (device_identifier)=(DEVICE-MEERA-001) already exists.
+
+2026-08-16 17:28:26,967 | ERROR | TRANSACTION | CorrelationId: 6a6796a5-5bf5-48ef-9a89-2bb5ba0f1524 | Persistence failed. Reason: duplicate key value violates unique constraint "transactions_pkey"
+DETAIL:  Key (transaction_id)=(10001) already exists.
+
+2026-08-16 17:28:26,968 | ERROR | TRANSACTION | CorrelationId: 541a50a5-3fb3-4a48-8f6e-9210bbe06d50 | Persistence failed. Reason: duplicate key value violates unique constraint "transactions_pkey"
+DETAIL:  Key (transaction_id)=(10002) already exists.
+
+2026-08-16 17:28:26,970 | ERROR | TRANSACTION | CorrelationId: 25fe5e96-1860-4d62-83cc-2121153f9450 | Persistence failed. Reason: duplicate key value violates unique constraint "transactions_pkey"
+DETAIL:  Key (transaction_id)=(10003) already exists.
+
+2026-08-16 17:28:26,971 | ERROR | TRANSACTION | CorrelationId: ce9575d5-c402-4f39-851f-8a3c7265e9c5 | Persistence failed. Reason: duplicate key value violates unique constraint "transactions_pkey"
+DETAIL:  Key (transaction_id)=(10004) already exists.
+
+2026-08-16 17:28:26,973 | ERROR | TRANSACTION | CorrelationId: 719c7857-85ad-4c9e-bafc-9f59399b31a8 | Persistence failed. Reason: duplicate key value violates unique constraint "transactions_pkey"
+DETAIL:  Key (transaction_id)=(10005) already exists.
+
+2026-08-16 17:28:26,975 | ERROR | TRANSACTION | CorrelationId: ccaee505-9296-4f15-88bd-bc944ca4783a | Persistence failed. Reason: duplicate key value violates unique constraint "transactions_pkey"
+DETAIL:  Key (transaction_id)=(10006) already exists.
+
+2026-08-16 17:28:26,976 | ERROR | TRANSACTION | CorrelationId: 17b309ff-c3da-409d-aac1-f98220be07ff | Persistence failed. Reason: duplicate key value violates unique constraint "transactions_pkey"
+DETAIL:  Key (transaction_id)=(10007) already exists.
+
+2026-08-16 17:28:26,977 | ERROR | TRANSACTION | CorrelationId: 0880b228-cabe-4785-878d-ac53d774c173 | Persistence failed. Reason: duplicate key value violates unique constraint "transactions_pkey"
+DETAIL:  Key (transaction_id)=(10008) already exists.
+
+2026-08-16 17:28:26,979 | ERROR | TRANSACTION | CorrelationId: 255d67f4-376b-49d0-8ef1-4b2721295a27 | Persistence failed. Reason: duplicate key value violates unique constraint "transactions_pkey"
+DETAIL:  Key (transaction_id)=(10009) already exists.
+
+2026-08-16 17:28:26,980 | ERROR | TRANSACTION | CorrelationId: 1ac52f88-7d0a-466f-9179-b9b8db558e4f | Persistence failed. Reason: duplicate key value violates unique constraint "transactions_pkey"
+DETAIL:  Key (transaction_id)=(10010) already exists.
+
+2026-08-16 17:28:26,981 | ERROR | TRANSACTION | CorrelationId: d010de6b-6192-478b-83af-d86e681c6fa8 | Persistence failed. Reason: duplicate key value violates unique constraint "transactions_pkey"
+DETAIL:  Key (transaction_id)=(10011) already exists.
+
+2026-08-16 17:28:26,982 | ERROR | TRANSACTION | CorrelationId: 702d48b0-a1f3-45df-a8b6-654e02de420b | Persistence failed. Reason: duplicate key value violates unique constraint "transactions_pkey"
+DETAIL:  Key (transaction_id)=(10012) already exists.
+
+2026-08-16 17:28:26,983 | ERROR | TRANSACTION | CorrelationId: 51a550e2-5a8e-416e-aeec-6b02cc65b053 | Persistence failed. Reason: duplicate key value violates unique constraint "transactions_pkey"
+DETAIL:  Key (transaction_id)=(10013) already exists.
+
+2026-08-16 17:28:26,984 | ERROR | TRANSACTION | CorrelationId: 4e5dc0f8-0c08-476b-898f-68b315828d9c | Persistence failed. Reason: duplicate key value violates unique constraint "transactions_pkey"
+DETAIL:  Key (transaction_id)=(10014) already exists.
+
+2026-08-16 17:28:26,986 | ERROR | TRANSACTION | CorrelationId: 820172dd-742b-4ca4-a96e-b528d0ddee44 | Persistence failed. Reason: duplicate key value violates unique constraint "transactions_pkey"
+DETAIL:  Key (transaction_id)=(10015) already exists.
+
+2026-08-16 17:28:26,987 | ERROR | TRANSACTION | CorrelationId: 5450e8ae-3717-45e8-a15f-133ad8824856 | Persistence failed. Reason: duplicate key value violates unique constraint "transactions_pkey"
+DETAIL:  Key (transaction_id)=(10016) already exists.
+
+2026-08-16 17:28:26,988 | ERROR | TRANSACTION | CorrelationId: 7039f4ac-c550-42f8-b8d9-454726e57a88 | Persistence failed. Reason: duplicate key value violates unique constraint "transactions_pkey"
+DETAIL:  Key (transaction_id)=(10017) already exists.
+
+2026-08-16 17:28:26,989 | ERROR | TRANSACTION | CorrelationId: fe521c66-e86e-455c-a13e-7cb6a077b4eb | Persistence failed. Reason: duplicate key value violates unique constraint "transactions_pkey"
+DETAIL:  Key (transaction_id)=(10018) already exists.
+
+2026-08-16 17:28:26,991 | ERROR | TRANSACTION | CorrelationId: ca55d823-09b5-48bd-8a07-b6f57fe90016 | Persistence failed. Reason: duplicate key value violates unique constraint "transactions_pkey"
+DETAIL:  Key (transaction_id)=(10019) already exists.
+
+2026-08-16 17:28:26,992 | ERROR | TRANSACTION | CorrelationId: 5c73abe8-5d4e-4cdf-b6b4-691e276fea20 | Persistence failed. Reason: duplicate key value violates unique constraint "transactions_pkey"
+DETAIL:  Key (transaction_id)=(10020) already exists.
+

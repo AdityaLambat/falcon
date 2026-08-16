@@ -17,7 +17,6 @@ class CustomerDeviceMapper:
             )
 
         return CustomerDevice(
-            deviceId=int(row["deviceId"]),
             customerId=int(row["customerId"]),
             deviceIdentifier=row["deviceIdentifier"],
             registeredAt=registered_at,

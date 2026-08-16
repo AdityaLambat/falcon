@@ -54,7 +54,6 @@ class CsvValidator:
     ]
 
     CUSTOMER_DEVICE_REQUIRED_FIELDS = [
-        "deviceId",
         "customerId",
         "deviceIdentifier",
         "lastSeenAt",

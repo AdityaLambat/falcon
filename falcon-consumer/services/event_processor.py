@@ -1,14 +1,19 @@
+from datetime import datetime
+
 from services.logging_service import LoggingService
+from services.event_router import EventRouter
 
 
 class EventProcessor:
 
-    SUPPORTED_EVENTS = {
-        "falcon_Customer": "CUSTOMER",
-        "falcon_Account": "ACCOUNT",
-        "falcon_Beneficiary": "BENEFICIARY",
-        "falcon_CustomerDevice": "CUSTOMER_DEVICE",
-        "falcon_Transaction": "TRANSACTION"
+    REQUIRED_FIELDS = {
+        "eventId",
+        "eventType",
+        "eventVersion",
+        "eventSource",
+        "eventTimestamp",
+        "correlationId",
+        "payload"
     }
 
     def __init__(self):
@@ -17,51 +22,111 @@ class EventProcessor:
 
     def process(self, event):
 
-        correlation_id = event.get(
-            "correlationId",
-            "UNKNOWN"
+        self._validate_event_structure(event)
+
+        correlation_id = event["correlationId"]
+        event_type = event["eventType"]
+
+        self._validate_event_timestamp(
+            event["eventTimestamp"],
+            correlation_id
         )
 
-        event_type = event.get("eventType")
+        domain, payload = EventRouter.route(
+            event_type,
+            event["payload"]
+        )
 
-        if not event_type:
+        return {
+            "eventId": event["eventId"],
+            "eventType": event_type,
+            "eventVersion": event["eventVersion"],
+            "eventSource": event["eventSource"],
+            "eventTimestamp": event["eventTimestamp"],
+            "correlationId": correlation_id,
+            "domain": domain,
+            "payload": payload
+        }
+
+    def _validate_event_structure(self, event):
+
+        if not isinstance(event, dict):
+
+            raise ValueError(
+                "Event must be a JSON object."
+            )
+
+        missing_fields = (
+            self.REQUIRED_FIELDS - event.keys()
+        )
+
+        if missing_fields:
+
+            raise ValueError(
+                f"Missing event fields: "
+                f"{', '.join(sorted(missing_fields))}"
+            )
+
+        for field in [
+            "eventId",
+            "eventType",
+            "eventVersion",
+            "eventSource",
+            "correlationId"
+        ]:
+
+            if not event[field]:
+
+                raise ValueError(
+                    f"{field} is mandatory."
+                )
+
+        if event["eventType"] not in EventRouter.ROUTES:
+
+            raise ValueError(
+                f"Unsupported eventType: "
+                f"{event['eventType']}"
+            )
+
+        if event["payload"] is None:
+
+            raise ValueError(
+                f"Payload is missing for eventType: "
+                f"{event['eventType']}"
+            )
+
+    def _validate_event_timestamp(
+        self,
+        timestamp,
+        correlation_id
+    ):
+
+        if not isinstance(timestamp, str):
 
             self.logger.error(
-                "eventType is missing.",
+                "eventTimestamp must be a string.",
                 "UNKNOWN",
                 correlation_id
             )
 
             raise ValueError(
-                "eventType is missing from event."
+                "eventTimestamp must be a string."
             )
 
-        if event_type not in self.SUPPORTED_EVENTS:
+        try:
+
+            datetime.fromisoformat(
+                timestamp.replace("Z", "+00:00")
+            )
+
+        except ValueError:
 
             self.logger.error(
-                f"Unsupported eventType: {event_type}",
+                "Invalid eventTimestamp.",
                 "UNKNOWN",
                 correlation_id
             )
 
             raise ValueError(
-                f"Unsupported eventType: {event_type}"
+                "Invalid eventTimestamp."
             )
-
-        domain = self.SUPPORTED_EVENTS[event_type]
-
-        payload = event.get("payload")
-
-        if payload is None:
-
-            self.logger.error(
-                "Payload is missing.",
-                domain,
-                correlation_id
-            )
-
-            raise ValueError(
-                f"Payload is missing for eventType: {event_type}"
-            )
-
-        return domain, correlation_id, payload

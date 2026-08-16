@@ -56,7 +56,8 @@ class CustomerDeviceIngestion:
                 self.published_records += 1
 
                 self.logger.info(
-                    f"{customer_device.deviceId} published successfully.",
+                    f"{customer_device.deviceIdentifier} "
+                    f"published successfully.",
                     domain="CUSTOMER_DEVICE",
                     correlation_id=correlation_id
                 )
@@ -66,27 +67,35 @@ class CustomerDeviceIngestion:
                 self.failed_records += 1
 
                 reference = row.get(
-                    "deviceId",
+                    "deviceIdentifier",
                     "UNKNOWN"
                 )
 
                 self.logger.error(
-                    f"{customer_device.deviceId} failed. Reason: {exception}",
+                    f"{reference} failed. Reason: {exception}",
                     domain="CUSTOMER_DEVICE",
                     correlation_id=correlation_id
                 )
 
-        self.logger.info("-------------------------------------------")
+        self.logger.info(
+            "-------------------------------------------"
+        )
+
         self.logger.info(
             f"Total Records : {self.total_records}"
         )
+
         self.logger.info(
             f"Published     : {self.published_records}"
         )
+
         self.logger.info(
             f"Failed        : {self.failed_records}"
         )
-        self.logger.info("-------------------------------------------")
+
+        self.logger.info(
+            "-------------------------------------------"
+        )
 
         self.logger.info(
             "########## Customer Device ingestion completed ##########"

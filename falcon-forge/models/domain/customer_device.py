@@ -6,7 +6,6 @@ from typing import Optional
 @dataclass
 class CustomerDevice:
 
-    deviceId: Optional[int]
     customerId: int
     deviceIdentifier: str
     registeredAt: Optional[datetime]
