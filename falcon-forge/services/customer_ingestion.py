@@ -1,4 +1,6 @@
-from uuid import uuid4
+from falcon_core.utils.correlation_id import (
+    CorrelationIdGenerator
+)
 
 from config.kafka_config import EVENT_TYPE_CUSTOMER
 from mapper.customer_mapper import CustomerMapper
@@ -6,7 +8,9 @@ from services.csv_reader import CsvReader
 from services.csv_validator import CsvValidator
 from services.event_builder import EventBuilder
 from services.publisher import Publisher
-from services.logging_service import LoggingService
+from falcon_core.logging.logging_service import (
+    LoggingService
+)
 
 
 class CustomerIngestion:
@@ -32,7 +36,7 @@ class CustomerIngestion:
 
         for row in rows:
 
-            correlation_id = str(uuid4())
+            correlation_id = CorrelationIdGenerator.generate()
 
             try:
 

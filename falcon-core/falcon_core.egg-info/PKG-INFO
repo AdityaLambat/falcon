@@ -1,0 +1,6 @@
+Metadata-Version: 2.4
+Name: falcon-core
+Version: 0.3.0
+Summary: Shared core library for the Falcon platform
+Requires-Python: >=3.10
+Requires-Dist: python-dotenv>=1.0.0

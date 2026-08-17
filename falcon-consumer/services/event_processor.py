@@ -1,6 +1,9 @@
 from datetime import datetime
 
-from services.logging_service import LoggingService
+from falcon_core.logging.logging_service import (
+    LoggingService
+)
+
 from services.event_router import EventRouter
 
 
@@ -101,25 +104,19 @@ class EventProcessor:
         correlation_id
     ):
 
-        if not isinstance(timestamp, str):
-
-            self.logger.error(
-                "eventTimestamp must be a string.",
-                "UNKNOWN",
-                correlation_id
-            )
-
-            raise ValueError(
-                "eventTimestamp must be a string."
-            )
-
         try:
 
             datetime.fromisoformat(
-                timestamp.replace("Z", "+00:00")
+                timestamp.replace(
+                    "Z",
+                    "+00:00"
+                )
             )
 
-        except ValueError:
+        except (
+            ValueError,
+            AttributeError
+        ):
 
             self.logger.error(
                 "Invalid eventTimestamp.",

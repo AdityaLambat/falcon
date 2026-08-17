@@ -8,9 +8,12 @@ from config.kafka_config import (
     KAFKA_GROUP_ID
 )
 
+
 from services.event_processor import EventProcessor
 from services.persistence_service import PersistenceService
-from services.logging_service import LoggingService
+from falcon_core.logging.logging_service import (
+    LoggingService
+)
 
 
 class FalconKafkaConsumer:
@@ -24,7 +27,9 @@ class FalconKafkaConsumer:
             "enable.auto.commit": False
         })
 
-        self.consumer.subscribe([KAFKA_TOPIC])
+        self.consumer.subscribe(
+            [KAFKA_TOPIC]
+        )
 
         self.event_processor = EventProcessor()
         self.persistence_service = PersistenceService()
@@ -49,15 +54,25 @@ class FalconKafkaConsumer:
                 try:
 
                     event = json.loads(
-                        message.value().decode("utf-8")
+                        message.value().decode(
+                            "utf-8"
+                        )
                     )
 
                     processed_event = (
-                        self.event_processor.process(event)
+                        self.event_processor.process(
+                            event
+                        )
                     )
 
-                    domain = processed_event["domain"]
-                    payload = processed_event["payload"]
+                    domain = (
+                        processed_event["domain"]
+                    )
+
+                    payload = (
+                        processed_event["payload"]
+                    )
+
                     correlation_id = (
                         processed_event["correlationId"]
                     )
@@ -70,9 +85,11 @@ class FalconKafkaConsumer:
 
                     if persisted:
 
-                        record_id = self._get_record_id(
-                            domain,
-                            payload
+                        record_id = (
+                            self._get_record_id(
+                                domain,
+                                payload
+                            )
                         )
 
                         self.consumer.commit(
@@ -81,7 +98,8 @@ class FalconKafkaConsumer:
                         )
 
                         self.logger.info(
-                            f"{record_id} persisted successfully.",
+                            f"{record_id} "
+                            f"persisted successfully.",
                             domain.upper(),
                             correlation_id
                         )
@@ -119,8 +137,10 @@ class FalconKafkaConsumer:
                         else "UNKNOWN"
                     )
 
-                    domain = self._get_domain_name(
-                        event_type
+                    domain = (
+                        self._get_domain_name(
+                            event_type
+                        )
                     )
 
                     self.logger.error(
@@ -153,6 +173,7 @@ class FalconKafkaConsumer:
         field = record_ids.get(domain)
 
         if field is None:
+
             return "UNKNOWN"
 
         return payload.get(

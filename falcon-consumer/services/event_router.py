@@ -1,11 +1,20 @@
+from falcon_core.constants.event_constants import (
+    EVENT_TYPE_CUSTOMER,
+    EVENT_TYPE_ACCOUNT,
+    EVENT_TYPE_BENEFICIARY,
+    EVENT_TYPE_CUSTOMER_DEVICE,
+    EVENT_TYPE_TRANSACTION,
+)
+
+
 class EventRouter:
 
     ROUTES = {
-        "falcon_Customer": "customer",
-        "falcon_Account": "account",
-        "falcon_Beneficiary": "beneficiary",
-        "falcon_CustomerDevice": "customer_device",
-        "falcon_Transaction": "transaction"
+        EVENT_TYPE_CUSTOMER: "customer",
+        EVENT_TYPE_ACCOUNT: "account",
+        EVENT_TYPE_BENEFICIARY: "beneficiary",
+        EVENT_TYPE_CUSTOMER_DEVICE: "customer_device",
+        EVENT_TYPE_TRANSACTION: "transaction"
     }
 
     @staticmethod
