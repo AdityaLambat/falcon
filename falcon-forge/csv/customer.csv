@@ -1,6 +1,0 @@
-customerId,firstName,lastName,dateOfBirth,mobileNumber,email,address,city,state,country,kycStatus,customerStatus,riskCategory
-1101,Neha,Sharma,1995-04-12,9876501101,neha.sharma@example.com,"12 MG Road",Nagpur,Maharashtra,India,Verified,Active,Low
-1102,Rohan,Patil,1992-09-25,9876501102,rohan.patil@example.com,"45 FC Road",Pune,Maharashtra,India,Verified,Active,Medium
-1103,Priya,Deshmukh,1998-01-18,9876501103,priya.deshmukh@example.com,"21 Baner Road",Pune,Maharashtra,India,Verified,Active,Low
-1104,Amit,Kulkarni,1989-11-07,9876501104,amit.kulkarni@example.com,"78 Civil Lines",Nagpur,Maharashtra,India,Verified,Active,High
-1105,Sneha,Joshi,1996-06-30,9876501105,sneha.joshi@example.com,"33 Kharadi Road",Pune,Maharashtra,India,Verified,Active,Medium
